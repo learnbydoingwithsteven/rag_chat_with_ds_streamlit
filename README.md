@@ -2,7 +2,25 @@
 
 A multilingual RAG-based (Retrieval Augmented Generation) chatbot for interacting with Italian Harmonized Financial Statements (Bilanci Armonizzati) documents. This application uses advanced NLP techniques to provide accurate responses to queries about Italian local government financial statements.
 
-![Application Screenshot](assets/app_screenshot.png)
+## 📸 Screenshots
+
+### 1. Chat Bot Interface with Ollama/Groq Integration
+![Chat Bot Interface](assets/1_chat_bot_interface_ollama_groq.png)
+
+### 2. Checking Reference Documentation
+![Reference Documentation](assets/2_checking_reference_documentation.png)
+
+### 3. Document Chunk-wise Embedding Visualization
+![Embedding Visualization](assets/3_reference_document_chunkwise_embedding_visualization_scatterplots.png)
+
+### 4. Fetching Official Financial Data
+![Financial Data](assets/4_fetching_official_data(under_development).png)
+
+### 5. Data Science Visualization Tool Initialization
+![Visual Tool Initialization](assets/5_opensource_datascience_visual_tool_initialization.png)
+
+### 6. Document Processing Parameter Settings
+![Parameter Settings](assets/6_new_document_processing_parameters_setting.png)
 
 ## 🌟 Features
 
