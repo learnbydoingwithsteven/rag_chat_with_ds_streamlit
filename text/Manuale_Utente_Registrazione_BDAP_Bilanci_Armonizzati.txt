@@ -1,0 +1,662 @@
+Manuale Utente di registrazione alla BDAP 
+(Banca Dati delle Amministrazioni Pubbliche) 
+“Bilanci Armonizzati” 
+Versio ne 1.8 
+Roma, 17 gennaio 2024
+
+2 
+ 
+ 
+ 
+Indice 
+1 GENERALITA’ ........................................................................................................................... 3 
+1.1. SCOPO DEL DOCUMENTO ............................................................................................. 3 
+1.2. ORGANIZZAZIONE DEL DOCUMENTO ............................................................................. 3 
+1.3. VERSIONI DEL DOCUMENTO .......................................................................................... 3 
+2 DESCRIZIONE DELLE FUNZIONALITÀ........................................................................ 4 
+2.1 HOME PAGE ESTERNA ................................................................................................. 4 
+2.2 RICHIESTA CREDENZIALI DI ACCESSO ........................................................................... 6 
+2.3 MODALITÀ DI PRIMO ACCESSO AL PORTALE BDAP ....................................................... 12 
+2.4 I PROFILI .................................................................................................................... 14 
+2.4.1 Utente “CDC_SA_Sezione Autonomie” ............................................................... 17 
+2.4.2 Utente “CDC_SR_Sezione Regionale di Controllo” ........................................... 18 
+2.4.3 Utente “UCS_Utente Conoscitivo Sistema” ......................................................... 20 
+2.4.4 Utente “ENTE Abilitazione Invio Bilanci” .............................................................. 21 
+2.4.5 Utente “ENTE Abilitazione Visualizzazione Bilanci” ........................................... 24 
+2.4.6 Utente “ENTE Responsabile Invio Bilanci” .......................................................... 26 
+2.4.7 Utente “PCR RU CCR Organo di Revisione” ...................................................... 28 
+2.5 SEGNALAZIONI RIGUARDANTI L’ACCESSO/ISCRIZIONE AL PORTALE ................................. 30 
+2.6 RICHIESTA DI ACCESSO PER UTENTI GIÀ ACCREDITATI ALLA BDAP ................................ 33 
+
+3 
+ 
+ 
+1 GENERALITA’ 
+ 
+1.1 SCOPO DEL DOCUMENTO 
+Il presente documento descrive le funzioni rilevabili nell’ambito del portale BDAP volte a 
+guidare l’utente alla registrazione alla BDAP per l’utilizzo delle funzionalità implementate 
+nell’ambito “Bilanci Armonizzati”. 
+ 
+1.2 ORGANIZZAZIONE DEL DOCUMENTO 
+ 
+Il documento è articolato in due capitoli: 
+ 
+• Il primo (quello presente) costituisce un’introduzione al manuale 
+• Il secondo contiene la descrizione delle funzionalità di registrazione offerte dall’applicazione 
+ 
+1.3 VERSIONI DEL DOCUMENTO 
+ 
+ 
+Versione Data Paragrafo Descrizione delle modifiche 
+apportate 
+1.0 28/09/16 Tutti Creazione del documento 
+1.1 12/10/16 2.1, 2.2, 2.4 Modifica dei seguenti paragrafi con 
+riferimenti alle credenziali del Sistema 
+di caricamento dei Bilanci: 2.1, 2.2, 2.4 
+1.5 15/03/17 2.1, 2.2, 2.4.7, 2.6 Modifica dei seguenti paragrafi con 
+riferimenti alla Home Page e alle 
+credenziali del Sistema di caricamento 
+dei Bilanci: 2.1, 2.2. 
+Modifica dei seguenti paragrafi con 
+riferimenti ai profili: 2.4.7 
+Modifica dei seguenti paragrafi con 
+riferimenti alla richiesta di supporto: 2.6 
+1.6 20/12/2017 2.1, 2.2, 2.5, 2.6 Pagina di accesso 
+1.7 04/05/2020 2.1, 2.2, 2.5, 2.6 Modifica dell’url di OpenBDAP 
+Modifica della Pagina di accesso 
+Modifica Accesso alla Gestione delle 
+Richieste 
+1.8 20/12/2023 2.1 Modifica dell’url di OpenBDAP 
+Sostituzione Immagini 
+
+4 
+ 
+ 
+2 DESCRIZIONE DELLE FUNZIONALITÀ 
+ 
+Il presente capitolo descrive le funzionalità di registrazione offerte dall’applicazione 
+accessibili attraverso il portale. 
+ 
+ 
+2.1 HOME PAGE ESTERNA 
+ 
+L’home page esterna è la pagina raggiungibile da tutti gli utenti, digitando il seguente 
+indirizzo nel proprio browser: https://openbdap.rgs.mef.gov.it/ 
+ 
+Digitato l’indirizzo nel browser si visualizzerà la seguente pagina: 
+ 
+ 
+
+
+5 
+ 
+ 
+Gli Utenti già accreditati al Portale BDAP, possono accedere cliccando Area Operatori BDAP 
+ 
+ 
+ 
+ 
+La nuova pagina di autenticazione permetterà di inserire: 
+ 
+• Utente 
+• Password 
+ 
+ 
+
+
+6 
+ 
+ 
+2.2 RICHIESTA CREDENZIALI DI ACCESSO 
+ 
+I nuovi utenti dovranno procedere ad una registrazione individuale, tramite una procedura 
+ad hoc di accreditamento nel portale BDAP, inserendo i propri dati anagrafici e il profilo di 
+appartenenza. 
+ 
+La pagina di “Nuova Registrazione” sarà accessibile tramite la sezione Area Operatori BDAP 
+ 
+ 
+Area Operatori BDAP ➔Nuova Registrazione 
+ 
+Selezionando “Nuova Registrazione”, viene aperta una pagina web che consente di inviare 
+la richiesta di nuova utenza. 
+
+
+7 
+ 
+ 
+Per richiedere l’utenza è necessario inserire tutti i dati richiesti nelle varie sezioni: 
+ 
+• Informazioni dell’Utente 
+• Informazioni dell’organizzazione /Ente 
+• Tipologia d’accesso 
+ 
+ 
+
+
+8 
+ 
+ 
+ 
+ 
+ 
+Si precisa che tutti i campi con l’icona  sono obbligatori. 
+ 
+  
+
+
+9 
+ 
+ 
+Per la registrazione dell’Utente “Bilanci Armonizzati” procedere come segue: 
+ 
+Nella sezione “Tipologia di Accesso” effettuare i seguenti passi: 
+ 
+• Selezionare l’opzione “Bilanci Armonizzati” 
+• Scegliere dal menù a tendina il profilo richiesto 
+ 
+ 
+ 
+ 
+
+
+10 
+ 
+ 
+
+
+11 
+ 
+ 
+ 
+ 
+Dopo aver cliccato sul tasto “Invia”, il sistema fornirà una “Password Provvisoria” mostrata 
+a video, da conservare con cura almeno fino al primo accesso. 
+ 
+ 
+ 
+Verrà in seguito inviata una e-mail di conferma il cui oggetto è “BDAP - Richiesta di 
+accesso da confermare - <e_mail-Indicata-In-fase-di Registrazione@dominio>”. 
+ 
+Tale e-mail contiene il riepilogo di quanto inserito in fase di registrazione ed un link per 
+confermare la richiesta di accesso alla BDAP. 
+L’iter di approvazione rimane “in attesa di conferma” finché l’utente non effettuerà la 
+conferma cliccando sul link contenuto nella e-mail di conferma. 
+ 
+L’utente, dopo aver confermato, per poter accedere al Portale BDAP dovrà attendere che si 
+completi l’iter di approvazione della richiesta di registrazione, in seguito al quale riceverà 
+una e-mail di autorizzazione o di rifiuto. 
+
+
+12 
+ 
+ 
+2.3 MODALITÀ DI PRIMO ACCESSO AL PORTALE BDAP 
+ 
+Una volta completato l’iter di approvazione, l’utente riceverà un’e-mail di autorizzazione il 
+cui oggetto è “ BDAP - Richiesta di accesso autorizzata - <e_mail-Indicata-In-fase-di 
+Registrazione@dominio>” contenente: Utenza e PIN di primo accesso. 
+ 
+L’utenza è rappresentata da nome.cognome ed il PIN di primo accesso è costituito da 
+caratteri alfanumerici assegnati ad ogni utente dal Sistema. 
+ 
+Le informazioni inviate ( Utenza e PIN di primo accesso ) insieme alla “Password 
+Provvisoria”, mostrata a video al termine della registrazione, consentiranno all’utente 
+di effettuare il primo accesso al Portale BDAP. 
+ 
+Di seguito viene mostrata l’e-mail di Richiesta di accesso autorizzata inviata all’utente. 
+ 
+ 
+ 
+ 
+Per effettuare il Primo accesso al Portale BDAP , l’utente dovrà inserire, selezionando 
+l’AREA RISERVATA: 
+• username: [nome.cognome] 
+• password: [Password Provvisoria mostrata a video In fase di registrazione] 
+ 
+A questo punto si aprirà una maschera per l'inserimento di: 
+• PIN di primo accesso [inviato nella mail di Richiesta di Accesso Autorizzata] 
+• Password attuale [Password Provvisoria mostrata a video In fase di registrazione] 
+• nuova password [scelta dall'utente] 
+• conferma nuova password 
+
+
+13 
+ 
+ 
+A seguito di questa attività la password scelta dall’utente sarà quella definitiva da utilizzare 
+ad ogni successivo accesso. 
+ 
+Se l’utente avesse smarrito la Password Provvisoria, potrà autonomamente effettuare il 
+Reset Password attraverso la funzionalità presente nell’Area Riservata sotto i campi per il 
+login. Riceverà un’e -mail all'indirizzo indicato in fase di registrazione contenente la Nuova 
+Password. 
+
+14 
+ 
+ 
+2.4 I PROFILI 
+ 
+Il profilo da selezionare è legato alla tipologia di Utente che sta effettuando la registrazione: 
+Corte dei conti, Utente Ente oppure Organo di Revisione. 
+ 
+ 
+Tipologia di Utente: Corte dei conti 
+ 
+Gli Utenti CDC (Corte dei conti) potranno selezionare uno dei seguenti profili: 
+ 
+• CDC_SA_Sezione Autonomie 
+• CDC_SR_Sezione Regionale di Controllo 
+• UCS_Utente Conoscitivo Sistema 
+ 
+ 
+ATTENZIONE! Solo il profilo "CDC_SR_Sezione Regionale di Controllo" deve 
+selezionare almeno una Sezione Regionale. 
+ 
+Per gli altri profili i campi “Sezione Regionale” non verranno presi in considerazione e la 
+richiesta di accesso verrà rifiutata. I profili che NON SONO di tipo “Ente” o “PCR RU CCR” 
+non devono compilare i campi “Ente”. 
+ 
+ 
+Di seguito sono descritte tutte le funzionalità associate al Profilo: 
+ 
+CDC_SA_Sezione Autonomie: SA (Sezione Autonomie) è il profilo assegnato ai funzionari 
+e magistrati della Sezione delle Autonomie, abilitati ad operare e interrogare dati contabili 
+su tutti gli Enti. 
+ 
+CDC_SR_Sezione Regionale di Controllo: SR (Sezione Regionale) è il profilo assegnato 
+a Magistrati e funzionari delle Sezioni Regionali di Controllo, i quali possono interrogare i 
+dati contabili di tutti gli Enti, ma operare solo sugli Enti della Regione di appartenenza. 
+ 
+UCS_Utente Conoscitivo Sistema: UCS (Utente Conoscitivo Sistema), è il profilo 
+assegnato agli utenti che possono solo interrogare i dati contabili di tutti gli Enti, senza limiti 
+di territorio (Sezioni giurisdizionali, Sezioni riunite...). Non hanno funzioni operative sul 
+sistema. 
+
+15 
+ 
+ 
+Tipologia di Utente: Utente Ente 
+ 
+Gli Utenti Ente potranno selezionare i seguenti profili: 
+ 
+• ENTE Abilitazione Invio Bilanci 
+• ENTE Abilitazione Visualizzazione Bilanci 
+• ENTE Responsabile Invio Bilanci 
+ 
+ATTENZIONE! Solo i profili di tipo ENTE e PCR RU CCR devono selezionare e confermare 
+almeno un Ente  NON DIGITARE nei campi sottostanti! 
+ 
+Per gli altri profili i campi “Sezione Regionale” non verranno presi in considerazione e la 
+richiesta di accesso verrà rifiutata. I profili che NON SONO di tipo “Ente” o “PCR RU CCR” 
+non devono compilare i campi “Ente”, mentre per i profili di tipo “Ente” o “PCR RU CCR” è 
+obbligatorio selezionare almeno un Ente. 
+ 
+ 
+ 
+Di seguito sono descritte tutte le funzionalità associate al Profilo: 
+ 
+ENTE Abilitazione Invio Bilanci: Utente che visualizza ed invia dati relativi agli enti di 
+appartenenza. 
+ 
+ENTE Abilitazione Visualizzazione Bilanci: Profilo Utente Base. Utente che visualizza dati 
+relativi agli enti di appartenenza. 
+ 
+ENTE Responsabile Invio Bilanci: Profilo Utente Responsabile. Utente che visualizza ed 
+invia dati relativi agli enti di appartenenza e che riceve dal sistema tutte gli eventuali solleciti 
+e/o comunicazioni relativamente ai documenti contabili trasmessi. 
+
+
+16 
+ 
+ 
+Tipologia di Utente: PCR RU CCR Organo di Revisione 
+ 
+Gli Utenti degli Organi di Revisione (PCR RU CCR) hanno a disposizione un solo profilo: 
+PCR RU CCR Organi di Revisione, che comprende i ruoli di: Presidente del Collegio dei 
+Revisori, il Revisore Unico e il Collegio dei Collaboratori del Revisore. 
+Hanno la funzionalità di sola visualizzazione dei dati relativi agli enti di appartenenza. 
+ 
+ 
+ATTENZIONE! Solo i profili di tipo ENTE e PCR RU CCR devono selezionare e confermare 
+almeno un Ente NON DIGITARE nei campi sottostanti! 
+ 
+Per gli altri profili i campi “Sezione Regionale” non verranno presi in considerazione e la 
+richiesta di accesso verrà rifiutata. I profili che NON SONO di tipo “Ente” o “PCR RU CCR” 
+non devono compilare i campi “Ente”, mentre per i profili di tipo “Ente” o “PCR RU CCR” è 
+obbligatorio selezionare almeno un Ente. 
+
+
+17 
+ 
+ 
+2.4.1 UTENTE “CDC_SA_SEZIONE AUTONOMIE” 
+ 
+L’Utente con il profilo: “CDC_SA_Sezione Autonomie” potrà vedere e operare su tutti gli 
+Enti. 
+ 
+Per la selezione di tale profilo si dovrà agire dal menù a tendina, come di seguito 
+evidenziato: 
+ 
+
+
+18 
+ 
+ 
+2.4.2 UTENTE “CDC_SR_SEZIONE REGIONALE DI CONTROLLO” 
+ 
+L’Utente con il profilo “CDC_SR_Sezione Regionale di Controllo” potrà interrogare tutto 
+ma operare solo sugli Enti appartenenti ad una determinata Regione. 
+ 
+Per la selezione di tale profilo si dovrà agire dal menù a tendina, come di seguito evidenziato 
+e sarà possibile selezionare da una a tre Regioni. 
+ 
+
+
+19 
+ 
+ 
+ 
+ 
+
+
+20 
+ 
+ 
+2.4.3 UTENTE “UCS_UTENTE CONOSCITIVO SISTEMA” 
+ 
+L’Utente con il profilo “UCS_Utente Conoscitivo Sistema” potrà solo visualizzare (ma 
+senza limiti di territorio). 
+ 
+Per la selezione di tale profilo si dovrà agire dal menù a tendina, come di seguito 
+evidenziato: 
+ 
+
+
+21 
+ 
+ 
+2.4.4 UTENTE “ENTE ABILITAZIONE INVIO BILANCI” 
+ 
+L’Utente “ENTE Abilitazione Invio Bilanci” potrà visualizzare ed inviare i dati relativi agli 
+Enti di appartenenza. 
+ 
+Per la selezione di tale profilo si dovrà agire dal menù a tendina, come di seguito evidenziato 
+e sarà possibile selezionare da uno a dieci ENTI: 
+ 
+ 
+ 
+ 
+Per la selezione dell’Ente eseguire i seguenti passi: 
+ 
+1. Cliccare sull’icona accanto al campo “Ente”  
+2. Tramite la finestra selezionare/ricercare l’Ente di interesse (la ricerca è possibile: per 
+descrizione Ente, per Codice Fiscale e per Codice BDAP). 
+3. Una volta ricercato l’Ente, cliccare sulla riga per selezionarlo. 
+
+
+22 
+ 
+ 
+ 
+ 
+ 
+Ripetere l’operazione qualora ci fosse la necessità di associare più Enti. 
+ 
+Qualora si ritenesse di aver selezionato un Ente non corretto, sarà possibile editare la cella 
+ e rimuovere il contenuto. 
+ 
+ATTENZIONE: si comunica che, dopo aver ricevuto l'e -mail di AUTORIZZAZIONE 
+all'accesso al portale BDAP, l’utente con profilo Ente Abilitazione Invio Bilanci riceverà 
+una successiva e-mail contenente le credenziali per l'accesso al Sistema di caricamento dei 
+Bilanci. 
+
+
+23 
+ 
+ 
+2.4.5 UTENTE “ENTE ABILITAZIONE VISUALIZZAZIONE BILANCI” 
+ 
+ 
+L’Utente “ENTE Abilitazione Visualizzazione Bilanci” potrà solo visualizzare i dati relativi 
+agli Enti di appartenenza. 
+ 
+Per la selezione di tale profilo si dovrà agire dal menù a tendina, come di seguito evidenziato 
+e sarà possibile selezionare da uno a dieci ENTI: 
+ 
+Per la selezione dell’Ente eseguire i seguenti passi: 
+1. Cliccare sull’icona accanto al campo “Ente”  
+2. Tramite la finestra selezionare/ricercare l’Ente di interesse (la ricerca è possibile per: 
+Descrizione, Codice Ente, Codice Fiscale e per Codice BDAP). 
+
+
+24 
+ 
+ 
+3. Una volta ricercato l’Ente, cliccare sulla riga per selezionarlo. 
+ 
+ 
+Ripetere l’operazione qualora ci fosse la necessità di associare più Enti. 
+ 
+Qualora si ritenesse di aver selezionato un Ente non corretto sarà possibile editare la cella 
+ e rimuovere il contenuto. 
+ 
+ 
+
+
+25 
+ 
+ 
+2.4.6 UTENTE “ENTE RESPONSABILE INVIO BILANCI” 
+ 
+L’Utente “ENTE Responsabile Invio Bilanci” potrà visualizzare ed inviare i dati relativi agli 
+Enti di appartenenza. E’ responsabile per tutti gli Enti associati, quindi riceve dal sistema 
+tutti gli eventuali solleciti e/o comunicazioni relativamente ai documenti contabili trasmessi. 
+ 
+Per la selezione di tale profilo si dovrà agire dal menù a tendina, come di seguito evidenziato 
+e sarà possibile selezionare da uno a dieci ENTI: 
+ 
+ 
+ 
+ 
+Per la selezione dell’Ente eseguire i seguenti passi: 
+1. Cliccare sull’icona accanto al campo “Ente”  
+2. Tramite la finestra selezionare/ricercare l’Ente di interesse. 
+3. Una volta ricercato l’Ente, cliccare sulla riga per selezionarlo. 
+
+
+26 
+ 
+ 
+ 
+ 
+ 
+Ripetere l’operazione qualora ci fosse la necessità di associare più Enti. 
+ 
+Qualora si ritenesse di aver selezionato un Ente non corretto sarà possibile editare la cella 
+ e rimuovere il contenuto. 
+ 
+ 
+ATTENZIONE: si comunica che, dopo aver ricevuto l'e -mail di AUTORIZZAZIONE 
+all'accesso al portale BDAP, l’utente con profilo Ente Responsabile Invio Bilanci riceverà 
+una successiva e-mail contenente le credenziali per l'accesso al Sistema di caricamento dei 
+Bilanci. 
+
+
+27 
+ 
+ 
+2.4.7 UTENTE “PCR RU CCR ORGANO DI REVISIONE” 
+ 
+ 
+L’Utente “PCR RU CCR Organo di Revisione” potrà solo visualizzare i dati relativi agli Enti 
+di appartenenza. 
+ 
+Per la selezione di tale profilo si dovrà agire dal menù a tendina, come di seguito evidenziato 
+e sarà possibile selezionare da uno a dieci ENTI: 
+ 
+ 
+ 
+ 
+Per la selezione dell’Ente eseguire i seguenti passi: 
+1. Cliccare sull’icona accanto al campo “Ente”  
+2. Tramite la finestra selezionare/ricercare l’Ente di interesse. 
+3. Una volta ricercato l’Ente, cliccare sulla riga per selezionarlo. 
+
+
+28 
+ 
+ 
+ 
+ 
+ 
+Ripetere l’operazione qualora ci fosse la necessità di associare più Enti. 
+ 
+Qualora si ritenesse di aver selezionato un Ente non corretto sarà possibile editare la cella 
+ e rimuovere il contenuto. 
+
+
+29 
+ 
+ 
+2.5 SEGNALAZIONI RIGUARDANTI L’ACCESSO/ISCRIZIONE AL PORTALE 
+ 
+Tutti gli Utenti che riscontrano difficoltà nella fase di registrazione dovranno aprire un ticket di richiesta 
+all’Assistenza Tecnica, come segue: 
+ 
+ 
+ 
+• Cliccare Assistenza Tecnica 
+ 
+ 
+• Cliccare su Inserisci Nuova Richiesta 
+
+
+30 
+ 
+ 
+ 
+ 
+ 
+ 
+• Inserire i dati anagrafici 
+• Selezionare l’Argomento: Area Operatori BDAP 
+
+
+31 
+ 
+ 
+ 
+ 
+ 
+ 
+• Selezionare la Classificazione: Problematiche di accesso 
+• Dopo avere selezionato la Classificazione, si aprirà la sezione Testo dove sarà 
+possibile inserire delle eventuali segnalazioni e/o problematiche, per l’iscrizione a 
+Bilanci Armonizzati 
+ 
+Sarà possibile anche allegare eventuali documenti a corredo, come indicato nelle seguenti 
+schermate: 
+
+
+32 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2.6 RICHIESTA DI ACCESSO PER UTENTI GIÀ ACCREDITATI ALLA BDAP 
+ 
+Il presente documento fa riferimento alla modalità di accesso della funzionalità di richiesta 
+informazioni e di segnalazione delle problematiche (di natura tecnica/operativa e/o 
+amministrativa/contabile) riscontrate dagli utenti del Portale BDAP. 
+ 
+Il sistema prevede la creazione di un numero identificativo per ogni nuova richiesta di 
+assistenza (ticket). Il ticket permette di identificare una richiesta di assistenza dal momento 
+in cui nasce fino alla risoluzione del problema. La richiesta può pertanto essere monitorata 
+passo dopo passo o annullata qualora il problema sia stato risolto. 
+
+
+33 
+ 
+ 
+Gli Utenti Autenticati alla BDAP, sono tutti coloro che, in possesso di credenziali di accesso 
+(utenza/password), hanno effettuato l’accesso al Portale. 
+ 
+Gli Utenti NON Autenticati alla BDAP sono tutti coloro che NON hanno effettuato 
+l’accesso al Portale e si distinguono in: 
+• utenti non ancora in possesso delle credenziali di accesso (utenza/password), ossia 
+non registrati; 
+• utenti registrati alla BDAP, ma che hanno problemi con le proprie credenziali di 
+accesso (ad es. utenza e/o password smarrita). 
+ 
+ 
+Un’importante innovazione del sistema di assistenza è la possibilità di classificare le 
+richieste in base all’argomento trattato. Una corretta classificazione alla fonte, facilita il 
+lavoro dell’assistenza e permette di fornire risposte più puntuali e tempestive. 
+ 
+Di seguito la richiesta di accesso per utenti Autenticati alla BDAP: 
+ 
+• Cliccare Area Operatori BDAP sull’homePage del Portale OpenBDAP 
+ 
+ 
+• Effettuare il login 
+
+
+34 
+ 
+ 
+ 
+ 
+ 
+• Dopo aver effettuato il Login, cliccare su Supporto in alto a destra 
+ 
+ 
+ 
+• Cliccare su Gestione Richieste dal Pop-Up 
+ 
+ 
+• Selezionare Nuovo Ticket
+
+
+35 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+• Selezionare la Classificazione Primo livello (scegliere la tipologia di segnalazione da 
+inoltrare all’Assistenza tramite l’apposito menù a tendina): Informazioni/Altro 
+
+
+36 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+• Dopo avere selezionato la Classificazione di Primo Livello, si aprirà la sezione Testo 
+dove sarà possibile inserire delle eventuali note di richiesta, per l’abilitazione a 
+Bilanci Armonizzati corredate di tutte le informazioni necessarie (Profilo Utente 
+richiesto, Lista Enti di riferimento /competenza, Regioni, ecc.). 
+
+
+37 
+ 
+ 
+Sarà possibile anche allegare eventuali documenti a corredo, come indicato nelle seguenti schermate.  
+ 
+
+

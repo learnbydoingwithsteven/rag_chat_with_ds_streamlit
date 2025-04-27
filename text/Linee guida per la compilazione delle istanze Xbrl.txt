@@ -1,0 +1,153 @@
+Linee guida per la compilazione delle istanze Xbrl  18 dicembre 2023 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Linee guida per la compilazione delle istanze Xbrl
+
+Linee guida per la compilazione delle istanze Xbrl  18 dicembre 2023 
+ 
+Versione 1.0 ____ ________________________________________________________ Pag. 1 
+SOMMARIO 
+ 
+SOMMARIO  
+Differenza fra importi assenti e importi valorizzati a zero.............................................................................................. 2 
+Ordinamento delle righe di dettaglio degli allegati a1), a2), a3) al Risultato di amministrazione nella stampa in PDF 
+del Rendiconto ................................................................................................................................................................ 3 
+Descrizione dei capitoli di entrata e spesa negli allegati a1), a2), a3) al Risultato di amministrazione nella stampa in 
+PDF del Rendiconto......................................................................................................................................................... 4 
+ 
+
+Linee guida per la compilazione delle istanze Xbrl  18 dicembre 2023 
+Versione 1.0 ___________________________________________________________  _ Pag. 2 
+   
+ 
+Introduzione 
+Il presente documento si propone di dare alcuni suggerimenti volti a favorire una corretta valorizzazione degli 
+elementi all’interno dell’istanza Xbrl, che consenta una visualizzazione dei risultati aderente alle aspettative dell’ente 
+compilatore. Le problematiche su cui fare chiarezza sono emerse grazie alle segnalazioni effettuate dagli enti che 
+hanno aderito al progetto di sperimentazione dell’approvazione del Rendiconto finanziario sulla base del documento 
+in PDF prodotto dalla Bdap.  
+DIFFERENZA FRA IMPORTI ASSENTI E IMPORTI VALORIZZATI A ZERO  
+Il sistema informativo della Bdap, nel processo di acquisizione e controllo delle istanze, non entra nel merito del valore 
+comunicato per l’importo di un singolo elemento Xbrl: ne consegue che lo zero rappresenta comunque un valore 
+significativo, al pari di qualsiasi altro importo e come tale viene usato nei processi dei controlli di validità, quadratura e 
+coerenza. Rappresentando un importo, al pari di qualsiasi altro valore, viene di conseguenza riportato nelle  
+prospettazioni disponibili, ovvero nelle pagine web e negli scarichi in excel delle funzioni di interrogazione dei 
+prospetti, nella stampa in PDF prodotta per gli enti sperimentatori. In un prospetto per il quale è obbligatorio inserire 
+TUTTI gli elementi che lo compongono (tranne le eccezioni riguardanti le voci di Fondo pluriennale) l’ente deve 
+necessariamente inserire nell’istanza Xbrl anche le voci che hanno un importo pari a zero, altrimenti il documento 
+trasmesso non supera i controlli di validità. I prospetti in questione sono i seguenti: 
+• Quadro generale riassuntivo 
+• Equilibri 
+• Risultato di amministrazione 
+Per i prospetti elencati devono essere presenti quindi anche gli ID Xbrl delle voci con importo pari a zero, ma per tutti 
+gli altri prospetti, se l’ente non desidera visualizzare gli importi uguali a zero , potrà omettere nell’istanza Xbrl la riga 
+che rappresenta tali elementi. 
+Vediamo un esempio pratico. 
+Si riportano due esempi di ipotetici elementi presenti nell’istanza Xbrl 
+1. ESEMPIO 1:  <bdap-sp:ENT_FondoPluriennaleVincolatoSpeseCorrenti_CP decimals="2" contextRef="d_2021" 
+unitRef="eur">3488344.97</bdap-sp:ENT_FondoPluriennaleVincolatoSpeseCorrenti_CP> 
+2. ESEMPIO 2: <bdap-sp:ENT_FondoPluriennaleVincolatoSpeseCorrenti_CP decimals="2" contextRef="d_2021" 
+unitRef="eur">0</bdap-sp:ENT_FondoPluriennaleVincolatoSpeseCorrenti_CP> 
+Per la Bdap i due esempi sono equivalenti, nel senso che gli elementi indicati vengono utilizzati con le stesse modalità: 
+nel prospetto Gestione delle Entrate del documento, una volta acquisito, sarà presente in entrambi i casi una riga con 
+l’importo del Fondo Pluriennale vincolato per spese correnti impostato a 3488344,97 per l’esempio 1 e impostato a 0 
+per l’esempio 2. 
+Invece una istanza in cui NON esiste una riga come quelle sopra mostrate con l’elementoENT_Fondo Pluriennale 
+Vincolato Spese Correnti_CP darà luogo a una prospettazione della Gestione delle Entrate in cui nella riga del Fondo 
+Pluriennale vincolato per spese correnti lo spazio del relativo importo è VUOTO. 
+Si riporta come ulteriore esempio, una immagine estratta da una istanza in cui sono presenti molte voci del prospetto 
+delle Entrate con importo pari a zero: tutte quelle evidenziate risulterebbero presenti nelle prospettazioni, compresa 
+la stampa in pdf per gli enti sperimentatori con importo uguale a zero, facendo inutilmente aumentare il numero 
+totale delle pagine prodotte. Se l’ente non ha l’esigenza di rendere evidenti questi importi uguali a zero potrebbe 
+eliminare dall’istanza tutte le righe evidenziate. 
+
+Linee guida per la compilazione delle istanze Xbrl  18 dicembre 2023 
+Versione 1.0 ___________________________________________________________  _ Pag. 3 
+   
+ 
+ 
+La scelta di NON inserire gli ID Xbrl il cui importo è pari a zero restringe le dimensioni delle istanze trasmesse e il 
+numero dei controlli da fare e rappresenta la scelta ottimale dal punto di vista delle prestazioni del sistema: è 
+comunque demandata alle necessità dell’ente la scelta definitiva sull’inserimento o meno delle voci con importi pari a 
+zero.  
+È utile fare un’ultima precisazione che riguarda gli effetti prodotti dalla presenza o meno delle voci con importi pari a 
+zero sulla stampa in pdf: se nell’istanza non viene inserito almeno uno degli elementi Xbrl che identificano un 
+prospetto all’interno della tassonomia, la stampa in PDF del prospetto contiene la testata e la sola dicitura PROSPETTO 
+NON VALORIZZATO e non sono quindi presenti le righe di dettaglio. Se si desidera invece che, in assenza di importi 
+significativi, la stampa in PDF contenga comunque il prospetto completo e non la dicitura suddetta, si devono 
+necessariamente inserire nell’istanza gli elementi Xbrl delle voci che si vogliono vedere prospettate con importo 
+uguale a zero. 
+ORDINAMENTO DELLE RIGHE DI DETTAGLIO DEGLI  ALLEGATI A1), A2) , A3) AL RISULTATO DI 
+AMMINISTRAZIONE  NELLA STAMPA IN PDF DEL RENDICONTO  
+I prospetti che consentono di dettagliare gli importi delle risorse accantonate, vincolate e destinate agli investimenti 
+nel Risultato di amministrazione, sono stati strutturati all’interno della tassonomia per garantire la massima elasticità 
+nella loro compilazione, sia per il numero delle righe che è possibile inserire, sia per la composizione degli elementi 
+che costituiscono la riga. In particolare, per consentire la libera codifica del numero e descrizione dei capitoli di 
+entrata e di spesa sono stati predisposti elementi Xbrl di tipo testuale, alfanumerici: è possibile quindi inserire numeri 
+e/o lettere o anche non indicare nulla negli appositi elementi. Ne consegue che, trovare un criterio di ordinamento 
+delle righe di dettaglio di questi prospetti valido per tutti i diversi criteri di codifica adottati dagli enti , risulta 
+impossibile: l’ordinamento ottimale per un ente potrebbe non essere soddisf acente per un altro. Gli enti che hanno 
+utilizzato la stampa in PDF del Rendiconto per l’approvazione in giunta e in consiglio  hanno espresso la forte necessità 
+di ottenere invece un elenco ben ordinato delle righe di dettaglio dei tre prospetti indicati. È possibile ottenere questo 
+risultato ma dovrà essere l’ente in fase di compilazione dell’istanza a stabilire la sequenza che vuole vedere 
+
+
+Linee guida per la compilazione delle istanze Xbrl  18 dicembre 2023 
+Versione 1.0 ___________________________________________________________  _ Pag. 4 
+   
+ 
+prospettata e indicarla come verrà specificato di seguito. Il prospetto dell’allegato a1) Elenco analitico delle risorse 
+accantonate nel risultato di amministrazione nella tassonomia è così rappresentato: 
+ 
+La riga di dettaglio è individuata da tutti gli elementi che compaiono dopo la dicitura  sr: RISAMM-ACC_ Fondo 
+Anticipazioni Liquidità Riga. Come si può notare esiste un elemento che si chiama RISAMM-ACC Progressivo che è 
+stato introdotto per motivi strettamente tecnici ma che potrà essere utilizzato anche per indicare l’ordinamento che si 
+vuole visualizzare nella stampa in pdf delle diverse righe di dettaglio.  
+Assegnando quindi ai campi presenti per i tre allegati RISAMM-ACC_ Progressivo (allegato a1), RISAMM-VIN_ 
+Progressivo (allegato a2), RISAMM-DES_ Progressivo (allegato a3) un valore crescente corrispondente al numero 
+d’ordine che si vuole assegnare alle righe del prospetto, si otterrà l’ordinamento desiderato nella stampa in PDF del 
+documento trasmesso.  
+DESCRIZIONE DEI CAPITOLI DI ENTRATA E SPESA NEGLI ALLEGATI A1), A2), A3) AL RISULTATO DI 
+AMMINISTRAZIONE NELLA STAMPA IN PDF DEL RENDICONTO  
+Alcuni enti che hanno utilizzato la stampa in PDF del rendiconto per l’approvazione in giunta e in consiglio  hanno 
+segnalato che, nel prospetto All.a2) Elenco analitico delle risorse vincolate nel risultato di amministrazione , risultava 
+troncato il contenuto dell’ultima colonna. Il prospetto in oggetto è costruito in base ad un  insieme di colonne a 
+larghezza variabile che occupano uno spazio fisso nella pagina: la variabilità delle colonne serve a garantire che un 
+importo o una descrizione più grandi della media vengano comunque mostrati correttamente nell’apposito spazio. Ne 
+consegue però che, se una delle colonne previste nel prospetto ospita valori esageratamente grandi, lo spazio totale 
+può non essere sufficiente a contenere il tutto e le colonne finali risultino troncate. Nei casi segnalati i valori 
+esageratamente grandi erano quelli relativi a: 
+• Capitolo di entrata 
+• Descrizione capitolo di entrata 
+• Capitolo di spesa 
+
+
+Linee guida per la compilazione delle istanze Xbrl  18 dicembre 2023 
+Versione 1.0 ___________________________________________________________  _ Pag. 5 
+   
+ 
+• Descrizione capitolo di spesa 
+Per risolvere il problema è stata diminuita la grandezza del carattere utilizzato per la stampa in particolare 
+dell’allegato a2, ma se le descrizioni in questione aumenteranno ancora di dimensione si rischia che anche quest a 
+soluzione diventi insufficiente, inoltre diminuire ancora il carattere renderebbe illeggibile la pagina. Si consiglia quindi, 
+ove possibile, di adottare i seguenti suggerimenti: 
+1. Inserire per Capitolo di entrata e Capitolo di spesa stringhe di caratteri non troppo lunghe ; 
+2. Evitare di inserire sia Capitolo di Entrata e Descrizione capitolo di entrata se sono identiche fra loro . Indicare 
+l’identificativo soltanto in uno dei due campi a disposizione . Analoga indicazione vale per il capitolo di spesa; 
+3. Inserire spazi in presenza di codici o descrizioni molto lunghe, ciò consente al testo di andare a capo e 
+occupare spazio nella colonna in altezza piuttosto che in larghezza. 
+Un’altra segnalazione relativa sempre al contenuto di questi campi descrittivi riguarda la errata prospettazione di 
+parole contenenti caratteri speciali, in particolare le lettere accentate. La BDAP riconosce i caratteri speciali solo se 
+inseriti in MINUSCOLO. Se si ha la necessità di utilizzare caratteri maiuscoli non si potranno usare caratteri speciali: per 
+risolvere la problematica della lettera accentata maiuscola si deve inserire la lettera seguita da un apostrofo: questa 
+soluzione è la stessa adottata anche nell’anagrafica BDAP degli enti, nella quale la denominazione è presente con 
+caratteri maiuscoli e quando è presente una lettera accentata nella denominazione viene appunto utilizzato 
+l’apostrofo. 
+

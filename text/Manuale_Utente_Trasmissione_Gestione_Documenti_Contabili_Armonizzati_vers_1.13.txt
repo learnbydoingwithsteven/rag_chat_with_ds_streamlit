@@ -1,0 +1,3635 @@
+ 
+1 
+ 
+ 
+1 
+ 
+  
+ 
+ 
+ 
+ 
+Manuale Utente  
+Trasmissione e Gestione dei Documenti Contabili Armonizzati  
+ “Bilanci Armonizzati ” 
+ 
+   
+ 
+ 
+Versione 1.13 
+Roma, 07 Novembre  2024 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+ 
+ 
+ 
+ 
+2 
+ 
+Indice 
+1. GENERALITÀ ............................................................................................................................ 4 
+1.1 SCOPO DEL DOCUMENTO ..................................................................................................... 4 
+1.2 VERSIONI DEL DOCUMENTO ................................................................................................. 4 
+2. RICHIESTA DI ACCESSO AL SERVIZIO DI TRASMISSIONE TELEMATICA DEI 
+FILES .................................................................................................................................................. 5 
+3. REGOLE DI COMPOSIZIONE DEL FILE DA TRASMETTERE....................................... 7 
+4. FASI PER LA TRASMISSIONE BILANCI ARMONIZZATI ............................................... 8 
+4.1 FASE 1: UPLOAD DEL FILE ATTRAVERSO L’APPLICAZIONE TRASMISSIONE BILANCI 
+ARMONIZZATI .................................................................................................................................... 8 
+4.2 FASE 2: ACCESSO IN BILANCI ARMONIZZATI-TRASMISSIONE EFFETTIVA DEL FILE .......... 17 
+5. REDAZIONE ISTANZE XBRL DEL BUDGET ECONOMICO E BILANCIO DI 
+ESERCIZIO (ENTI IN CONTABILITÀ ECONOMICO PATRIMONIALE) .............................. 20 
+6. HOMEPAGE: NEWS- AVVISI-COMUNICAZIONI-DOCUMENTI- FAQ ........................ 23 
+7. BILANCI ARMONIZZATI: GESTIONE DOCUMENTI CONTABILI ............................... 25 
+7.1 GESTIONE DOCUMENTI CONTABILI - MODIFICA STATO DI APPROVAZIONE ...................... 28 
+7.2 GESTIONE DOCUMENTI CONTABILI - VISUALIZZAZIONE ESITO CONTROLLI ...................... 30 
+7.3 GESTIONE DOCUMENTI CONTABILI - VISUALIZZAZIONE DETTAGLIO INVIO ....................... 34 
+7.4 GESTIONE DOCUMENTI CONTABILI - STAMPA RICEVUTA .................................................. 35 
+7.5 GESTIONE DOCUMENTI CONTABILI - GESTIONE CANCELLAZIONE DOCUMENTO 
+CONTABILE ..................................................................................................................................... 36 
+7.5.1. RICHIESTA AUTORIZZAZIONE CANCELLAZIONE DOCUMENTO CONTABILE ......................... 39 
+7.5.2. REVOCA AUTORIZZAZIONE CANCELLAZIONE DOCUMENTO CONTABILE ............................ 40 
+7.5.3.  CANCELLAZIONE DOCUMENTO CONTABILE ....................................................................... 42 
+8. BILANCI ARMONIZZATI: INTERROGAZIONE PROSPETTI DOCUMENTI 
+CONTABILI ...................................................................................................................................... 42 
+8.1 INTERROGAZIONE PROSPETTI DOCUMENTI CONTABILI - VISUALIZZAZIONE PROSPETTI .. 44 
+8.2 INTERROGAZIONE PROSPETTI DOCUMENTI CONTABILI - VISUALIZZAZIONE ESITO 
+CONTROLLI ..................................................................................................................................... 45 
+9. BILANCI ARMONIZZATI: TRASMISSIONE DOCUMENTI ALLEGATI ....................... 47 
+10. BILANCI ARMONIZZATI: GESTIONE DOCUMENTI ALLEGATI ............................. 48 
+10.1 RICHIESTA AUTORIZZAZIONE CANCELLAZIONE DOCUMENTO ALLEGATO. 52 
+10.1.1 REVOCA RICHIESTA CANCELLAZIONE DOCUMENTO ALLEGATO ............... 53 
+10.1.2 CANCELLAZIONE DOCUMENTO ALLEGATO ...................................................... 54 
+11. BILANCI ARMONIZZATI: INTERROGAZIONE DOCUMENTI ALLEGATI .............. 56 
+12. BILANCI ARMONIZZATI: INTERROGAZIONI RICHIESTE NUOVO INVIO ........... 58 
+13. INTERROGAZIONI GENERALIZZATE: DOCUMENTI CONTABILI PER STATO 
+ED ESITO CONTROLLI................................................................................................................. 61 
+14. INTERROGAZIONI GENERALIZZATE: SCHEDA RIEPILOGATIVA ENTE ........... 65 
+
+ 
+ 
+ 
+ 
+3 
+15. INTERROGAZIONI GENERALIZZATE- INTERROGAZIONE CANCELLAZIONE 
+DOCUMENTI CONTABILI............................................................................................................. 74 
+16. COMUNICAZIONI: GESTIONE COMUNICAZIONI ...................................................... 76 
+17. COMUNICAZIONI: INTERROGAZIONI COMUNICAZIONI ........................................ 82 
+18. DELIBERE ........................................................................................................................... 84 
+18.1 TRASMISSIONE DELIBERA ARTT. 232 E 233 DEL TUEL (DEDICATA AI SOLI COMUNI) ...... 84 
+18.2 TRASMISSIONE DELIBERA ESENZIONE CONSOLIDATO........................................................ 86 
+18.3 INTERROGAZIONI DELIBERE TRASMESSE ........................................................................... 86 
+18.4 GESTIONE DELIBERE (A DISPOSIZIONE PER TUTTI GLI ENTI TERRITORIALI) ...................... 89 
+18.5 INTERROGAZIONI CANCELLAZIONI DELIBERE .................................................................... 94 
+19. INTERROGAZIONE CONTROLLI TRA DOCUMENTI ................................................ 97 
+20. NUOVA FUNZIONE UTILITA’ ........................................................................................ 100 
+20.1 UTILITA’- GESTIONE DATI ANAGRAFICI ENTE ............................................................... 100 
+20.2 UTILITA’- GESTIONE EMAIL PEC (FUNZIONE PRESENTE SOLO PER COMUNI, CITTÀ 
+METROPOLITANE, COMUNITÀ MONTANE, UNIONI DI COMUNI, PROVINCE) ................................ 101 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+4 
+ 
+1. GENERALITÀ  
+ 
+1.1 SCOPO DEL DOCUMENTO  
+ 
+Il presente documento ha lo scopo di fornire indicazioni per: 
+ 
+- il caricamento dei bilanci e dei dati contabili attraverso l’applicazione “ Trasmissione 
+Bilanci Armonizzati” 
+- la trasmissione e gestione dei bilanci e dei dati contabili attraverso le funzionalità 
+dell’applicazione “Bilanci Armonizzati” 
+1.2 VERSIONI DEL DOCUMENTO  
+ 
+Versione Data Paragrafo Descrizione delle modifiche apportate 
+1.0 Febbraio 2017 Tutti Creazione del documento 
+1.1 Marzo 2017 Tutti Aggiornamento immagini 
+1.2 Aprile2017 4 Aggiornamento immagini 
+1.3 Aprile 2017 4 Aggiornamento versione 
+1.4 Agosto 2017 5.1;6.1;7;9;10 Aggiornamento versione 
+1.5 Novembre 2017 
+5; 6; 6.1; 6.2; 
+6.3;6.4;7;7.1; 
+7.2; 8;9; 10; 
+11; 12; 13; 14 
+Aggiornamento versione , numerazione 
+paragrafi, documento e immagini 
+1.6 Aprile 2018 5; 6; 7.4; 13 Aggiornamento versione, numerazione 
+paragrafi, documento e immagini 
+1.7 04/05/2020 2; 3; 4 
+Modifica dell’url di OpenBDAP 
+Modifica link all’Allegato tecnico 
+Trasmissione 
+ 
+1.8 26/02/2021 7;8;9;10;12; 
+13;14;15;16 
+Aggiornamento versione, documento e 
+immagini 
+1.9 09/06/2021 16;16,1;16,2:
+16,3;16,4 
+Aggiornamento versione, documento e 
+immagini  
+1.10 07/02/2022 17 Aggiornamento versione, documento e 
+immagini 
+1.11 16/05/2022 
+7;7.5;7.5.1;7.
+5.2;7.5.3;10,1
+0.1,10.1.1;10.
+1.2;11,14, 
+15,18,18.5 
+Aggiornamento versione, documento e 
+immagini 
+1.12 20/10/2022 20;20.1;20.2 Aggiornamento versione, documento e 
+immagini 
+1.13 07/11/2024 2 Aggiornamento versione, documento e 
+immagini 
+  
+
+ 
+ 
+ 
+ 
+5 
+2. RICHIESTA DI ACCESSO AL SERVIZIO DI TRASMISSIONE 
+TELEMATICA DEI FILES  
+ 
+I profili abilitati al servizio di Trasmissione Bilanci Armonizzati sono i seguenti:  
+ 
+- “Ente Responsabile Invio Bilancio”  
+- “Ente Abilitazione Invio Bilancio”. 
+ 
+L’utente incaricato alla Trasmissione dei Bilanci Armonizzati in possesso delle credenziali 
+per l’accesso al Sistema, potrà scegliere il metodo di trasmissione dei files (usufruendo del 
+protocollo HTTPS o SFTP). 
+I files dei bilanci e dei dati contabili, da trasmettere alla Banca Dati delle Amministrazioni 
+Pubbliche (BDAP), devono seguire opportune regole di composizione descritte nel 
+paragrafo 3 -  Regole di composizione del file da trasmettere. 
+ 
+Di seguito vengono descritti i passi che il soggetto incaricato alla trasmissione dei bilanci 
+armonizzati, (“Ente Responsabile Invio Bilancio” o “Ente Abilitazione Invio Bilancio” ) dovrà 
+seguire per ricevere le credenziali di accesso al sistema di invio. 
+ 
+Per poter ricevere tali credenziali è necessario essere autorizzati all’accesso alla BDAP. 
+ 
+L’utente NON autorizzato all’accesso alla BDAP , dovrà effettuare la registrazione alla 
+Banca Dati delle Amministrazioni Pubbliche-BDAP, attraverso la funzionalità “ Nuova 
+Registrazione”, presente sul portale BDAP ( https://bdap-operatori.rgs.mef.gov.it/) 
+selezionando la voce “AREA OPERATORI BDAP”. 
+Riceverà una prima e-mail con le credenziali di accesso alla BDAP e successivamente una 
+seconda e-mail (Fig. 1), contenente le credenziali per l’accesso al Sistema di Trasmissione; 
+solo dopo la ricezione della seconda e-mail, l’utenza sarà abilitata alla trasmissione. 
+ 
+ 
+L’utente già autorizzato all’accesso alla BDAP , per essere abilitato anche  ai “Bilanci 
+Armonizzati”, dovrà specificare la propria necessità attraverso l’apertura un ticket, tramite la 
+voce "Supporto" presente sul portale BDAP. 
+Anche in questo caso, l’utente riceverà la e -mail contenente le credenziali  di accesso al 
+Sistema di Trasmissione.  
+ 
+  
+
+ 
+ 
+ 
+ 
+6 
+Da: sistema.bilanciarmonizzati@tesoro.it 
+Inviato: giorno XX mese aaaa hh.gg 
+A: indirizzo@emailComunicata.it 
+ 
+Oggetto: BDAP - Bilanci Armonizzati (DM 12 maggio 2016) - Invio credenziali per la 
+trasmissione dei Bilanci 
+ 
+  *** Questa è una mail automatica, si prega di non rispondere. *** 
+ 
+ Gentile Utente, 
+ le comunichiamo di seguito le credenziali di accesso per la trasmissione telematica 
+dei  Bilanci: 
+ 
+  User: nome.cognome 
+  Password: BilarXXXXX 
+ 
+  La sua utenza è stata abilitata ad accedere al servizio mediante i protocolli HTTPS 
+ed SFTP. 
+ 
+  Il primo accesso dovrà comunque avvenire via HTTPS utilizzando il seguente URL:  
+  https://sts.mef.gov.it. 
+ 
+Durante il primo accesso, per ragioni di sicurezza, verrà richiesto di effettuare il 
+cambio della password; dopo il cambio sarà possibile autenticarsi utilizzando entrambi 
+i protocolli HTTPS/SFTP. 
+ 
+In caso di protocollo SFTP la URL di connessione è la seguente: sts.mef.gov.it porta: 
+22. 
+ 
+  In caso di protocollo HTTPS l’accesso avverrà tramite la seguente URL: 
+https://sts.mef.gov.it. 
+ 
+Per richieste di assistenza o informazioni utilizzare la funzionalità “Gestione Richieste” 
+presente sul portale della BDAP accessibile dopo aver effettuando il login, ed aver 
+selezionato la voce Supporto. 
+ 
+Cordiali saluti 
+Ragioneria Generale dello Stato 
+BDAP -  Bilanci Armonizzati 
+ 
+Fig. 1 – e-mail di autorizzazione all’accesso per il sistema di Trasmissione Bilanci 
+ 
+Per accedere al servizio di trasmissione telematica dei files , l’utente dovrà utilizzare le 
+credenziali per la trasmissione dei Bilanci ricevute tramite posta elettronica ordinaria (Fig.1). 
+Le modalità di accesso alle funzioni di trasmissione dei files sono descritte al Capitolo 4.  
+  
+
+ 
+ 
+ 
+ 
+7 
+3. REGOLE DI COMPOSIZIONE DEL FILE DA TRASMETTERE  
+ 
+Il servizio di trasmissione telematica dei files potrà essere utilizzato esclusivamente per 
+l’invio de i bilanci e dei dati contabili nel formato xbrl; saranno accettati esclusivamente 
+archivi compressi con estensione .zip o .rar. 
+ 
+Le regole da seguire per la definizione della nomenclatura dei  files da inviare alla BDAP , 
+sono esplicitate nell'Allegato tecnico di trasmissione, pubblicato sul portale OpenBDAP alla 
+pagina 
+ 
+https://openbdap.rgs.mef.gov.it/it/Home/ComePubblicareBilanci 
+ 
+Partendo dal menu TIPOLOGIA DATO, è possibile selezionare dalla lista a tendina la voce 
+“Allegato tecnico di trasmissione...” 
+Lo stesso documento è inoltre disponibile nella sezione Documenti della Pagina Iniziale del 
+sistemai Bilanci Armonizzati. 
+ 
+Il nome del file compresso . zip o .rar dovrà sempre coincidere con il nome del file istanza 
+.xbrl contenuto al suo interno.  
+ 
+Nello specifico potrà essere effettuato l’upload esclusivamente dei files che rispettano le 
+seguenti regole:  
+− estensione .zip o .rar  
+− nome file (al netto del suffisso .zip o .rar) che rispetta il seguente pattern  
+                  aaaannnnnnnnnnnnnnnnnnXXXXYYY  
+in cui: 
+▪ aaaa: 4 byte numerici, pari all’esercizio di riferimento del bilancio. 
+Per il bilancio di previsione deve corrispondere al primo di 
+riferimento del bilancio, indicato solitamente come anno N all’interno 
+degli schemi di bilancio 
+▪ nnnnnnnnnnnnnnnnnn: codice numerico di 18 caratteri assegnato 
+all’ente dalla BDAP 
+▪ XXXX: 4 byte ad indicare la fase contabile, sono ammessi i seguenti 
+valori: 
+▪ PREV = Bilancio di previsione 
+▪ REND = Rendiconto di gestione 
+▪ CONS = Bilancio consolidato 
+▪ YYY: 3 byte ad  indicare il tipo di documento contabile, sono 
+ammessi i seguenti valori: 
+▪ SDB = Schemi di bilancio 
+▪ DCA = Dati contabili analitici 
+▪ IND = Piano degli indicatori e dei risultati 
+▪ BUD = Budget economico 
+▪ BIL    = Bilancio di esercizio 
+− nel file compresso deve essere presente uno, ed un solo,  file nel 
+formato xbrl (il quale deve avere estensione .xbrl) 
+− il nome del file xbrl deve coincidere con il nome del file .zip o .rar 
+ 
+
+ 
+ 
+ 
+ 
+8 
+Si evidenzia che il nome del file non deve contenere ulteriori informazioni oltre quelle sopra 
+descritte. 
+ 
+Un file che non subisc a modifiche non deve essere depositato nella cartella OutBox più 
+volte. 
+ 
+4. FASI PER LA TRASMISSIONE BILANCI ARMONIZZATI 
+ 
+Di seguito vengono esplicitate le fasi per trasmettere il documento contabile: Schemi di 
+bilancio, Piano dei conti, Piano degli indicatori in formato “xbrl”. 
+FASE 1: Upload del file attraverso l’applicazione Trasmissione Bilanci Armonizzati 
+FASE 2: Trasmissione del file attraverso l’applicazione Bilanci Armonizzati 
+ 
+4.1 FASE 1: UPLOAD DEL FILE ATTRAVERSO L’APPLICAZIONE TRASMISSIONE BILANCI 
+ARMONIZZATI 
+ 
+Dopo aver effettuato l’accesso al portale BDAP accedere all’applicazione Trasmissione 
+Bilanci Armonizzati per effettuare upload del file.  
+ 
+ 
+Figura 2 - Accesso al sistema di Trasmissione Bilanci Armonizzati 
+ 
+ 
+ 
+Dopo aver cliccato su Trasmissione Bilanci Armonizzati, vengono richieste Userid e 
+Password per accedere all’applicazione.  
+La richiesta di accesso all’applicazione Trasmissione Bilanci Armonizzati viene 
+effettuata contestualmente alle richieste di accesso al portale BDAP. 
+
+
+ 
+ 
+ 
+ 
+9 
+Si ricorda che le credenziali di accesso all’applicazione Trasmissione Bilanci 
+Armonizzati sono differenti da quelle per accedere al portale BDAP e vengono inviate 
+separatamente.  
+Viene inviata una prima e -mail contenente le credenziali di accesso al portale BDAP 
+e successivamente una seconda e -mail per accedere all’applicazione Trasmissione 
+Bilanci Armonizzati. 
+Selezionando la scelta “ Trasmissione Bilanci Armonizzati” , si accede alla pagina di Login 
+del s ervizio di Trasmissione Telematica dei Files ( Fig.3), un  sistema esterno al portale 
+BDAP.  
+ 
+ 
+ 
+Fig. 3 - Accesso al servizio di trasmissione telematica dei files 
+ 
+L’utente effettua l’accesso inserendo le credenziali ricevute attraverso l’e-mail specificata in 
+Fig.1 e-mail contenente le credenziali per l’accesso Trasmissione Invio Bilanci. 
+ 
+Se si tratta di un primo accesso al servizio di trasmissione telematica , il sistema chiede la 
+modifica della password ricevuta, inserendo  
+ 
+− la vecchia password; 
+− la nuova password scelta dall’utente; 
+− la conferma della nuova password.  
+ 
+Inserite tali informazioni, cliccare sul pulsante Save (vedi Fig.4). 
+ 
+
+
+ 
+ 
+ 
+ 
+10 
+ 
+Fig. 4- Cambio password primo accesso 
+ 
+Si ricorda che la scelta e la custodia della password è a carico dell’utente pertanto si 
+raccomanda di creare password sicure, estremamente robuste che rispecchino le 
+raccomandazioni di sicurezza. 
+ 
+ 
+Dopo aver cliccato sul pulsante Save viene richiesto un nuovo accesso al sistema (Fig.5).  
+ 
+ 
+Fig.5 - Login dopo primo cambio password 
+ 
+Nel caso sia necessario ottenere nuovamente la propria password è possibile richiederne il 
+“reset” dalla Login Page attraverso l’apposita funzionalità “Forgot Your Password?” (Fig.6). 
+
+
+ 
+ 
+ 
+ 
+11 
+ 
+ 
+ 
+Fig. 6 - Richiesta di reset password 
+ 
+Inserire l’indirizzo e-mail indicato in fase di registrazione e cliccare su “Reset Password”. 
+ 
+ 
+Una volta effettuato l’accesso tramite Login Page , il sistema mostra una schermata di 
+autorizzazione all’esecuzione dell’applicazione.  
+ 
+Apporre un segno di spunta ( Fig. 7) alla voce “ Considera sempre attendibili i contenuti di 
+questo autore” e cliccare su “Esegui”. 
+ 
+
+
+ 
+ 
+ 
+ 
+12 
+ 
+Fig. 7 - Esecuzione applicazione verificata  
+ 
+Compiute le operazioni di Login, all’utente viene aperta una maschera in cui sono presenti 
+tante cartelle quanti sono degli Enti per i quali è abilitato a trasmettere, come indicato in 
+Fig.8. 
+ 
+ 
+ 
+Fig. 8 – Interfaccia di caricamento dei files 
+ 
+I files da caricare nel sistema ai fini della successiva elaborazione devono essere inseriti 
+esclusivamente nella cartella Outbox presente nella cartella dell’Ente (Fig.10). 
+ 
+A titolo di esempio si riportano le modalità di trasmissione dei files nel caso di un utente che 
+sia abilitato alla trasmissione dei files per due Enti (EnteAAA e EnteBBB). 
+ 
+Ipotizzando di effettuare una trasmissione per l’ente EnteAAA cliccare sulla cartella 
+EnteAAA e successivamente sulla cartella Outbox (Fig.9); 
+
+
+ 
+ 
+ 
+ 
+13 
+ 
+ 
+ 
+Fig.9 - Selezione cartella Outbox 
+ 
+Se la cartella è stata correttamente aperta, essa apparirà selezionata nella sezione sinistra 
+della schermata (Fig.10) 
+ 
+ 
+ 
+Fig.10 - Selezione corretta della cartella Outbox 
+ 
+Per caricare il file si deve cliccare sul pulsante Upload e selezionare il file che si intende 
+trasmettere 
+ 
+• durante il trasferimento una barra di avanzamento mostrerà lo stato raggiunto 
+dall’operazione 
+  
+• in seguito al caricamento, il file è temporaneamente visualizzato all’interno della 
+cartella Outbox (Fig.11) 
+
+
+ 
+ 
+ 
+ 
+14 
+ 
+ 
+Fig. 11 - Visualizzazione temporanea  
+ 
+• il sistema preleva automaticamente il file al fine di procedere all’elaborazione per 
+la verifica della congruenza dei dati1. 
+ 
+• Il processo di trasferimento è da considerare concluso quando il file originale non 
+è più visibile all’interno della cartella Outbox ed al suo posto compare un altro file 
+il cui nome è composto dal prefisso “ Ack_” concatenato al nome originale ed al 
+suffisso “.txt“ (Fig.12) 
+ 
+ 
+Fig. 12 - Visualizzazione temporanea  
+ 
+Si ricorda che il Sistema accetta soltanto files compressi (vedi Regole di 
+composizione del file da trasmettere) con estensione .zip o .rar.  
+ 
+1 L’elaborazione delle informazioni contenute nel file è effettuata in modalità differita e può richiedere diverso tempo per 
+essere completata. 
+
+
+ 
+ 
+ 
+ 
+15 
+La presenza nella cartella “Outbox” del file di avvenuta consegna  
+“ Ack_aaaannnnnnnnnnnnnnnnnnXXXXYYY.zip.txt” indica che il file è stato preso in 
+carico dall’infrastruttura di trasmissione files.  
+E’ possibile aprire ed effettuare il download di tale file di avvenuta consegna.  
+ 
+L’utente può quindi procedere con il Logout dall’infrastruttura di trasmissione files e tornare 
+sulla BDAP per accedere all’applicazione Bilanci Armonizzati e proseguire con le successive 
+fasi del processo.  
+ 
+OSSERVAZIONI: 
+- Qualsiasi upload effettuato al di fuori della cartella Outbox viene inibito dal sistema 
+e opportunamente segnalato con un pop-up di Errore. 
+- L’upload di files con estensione diversa da . zip/.rar viene inibito dal sistema e 
+opportunamente segnalato con un pop-up di Errore. 
+ 
+Nel caso si utilizzi Internet Explorer 11 è necessario verificare che nella finestra 
+"Impostazioni Visualizzazione Compatibilità" (raggiungibile dal menu a tendina 
+Strumenti) NON SIA selezionata la voce  "Visualizza Siti Intranet in Visualizzazione 
+Compatibilità" altrimenti dopo aver fatto correttamente il Login accede in una pagina 
+completamente bianca. 
+ 
+Se ciò accadesse è sufficiente deselezionare tale voce ed effettuare il refresh della 
+pagina. 
+ 
+Di seguito le immagini per l'operatività descritta. 
+  
+ 
+
+
+ 
+ 
+ 
+ 
+16 
+ 
+  
+ 
+Trasmissione dei files tramite protocollo FTP 
+ 
+Alternativamente all’utilizzo dell’applicazione web, il sistema di trasmissione dei files accetta 
+upload effettuati tramite il Protocollo FTP. 
+ 
+Gli utenti che intendono utilizzare questa modalità devono comunque effettuare il primo 
+accesso attraverso l’interfaccia https del Sistema di trasmissione dei files per impostare una 
+propria password personale, che dovrà essere utilizzata per i successivi accessi sia 
+attraverso connessioni https che ftp. 
+ 
+Terminato il pre -caricamento (upload) del file, è necessario uscire dall’Applicazione 
+Trasmissione Bilanci Armonizzati ed accedere applicazione Bilanci Armonizzati.  
+ 
+Per maggiori dettagli, consultare il “Manuale Utente Gestione Trasmissione dati 
+Sistema BDAP-Bilanci Armonizzati” presente sul portale BDAP - nella sezione DATI 
+PUBBLICATI:  
+https://openbdap.rgs.mef.gov.it/data/foia_bilanci/Manuale_Utente_Registrazione_BDAP_B
+ilanci_Armonizzati.pdf 
+  
+
+
+ 
+ 
+ 
+ 
+17 
+4.2 FASE 2: ACCESSO IN BILANCI ARMONIZZATI-TRASMISSIONE EFFETTIVA DEL FILE  
+ 
+Dopo aver effettuato la Fase 1  accedere all’applicazione “Bilanci Armonizzati” come di 
+seguito indicato: 
+ 
+ 
+ 
+Effettuato l’accesso all’applicazione Bilanci Armonizzati, cliccare nel menu Bilanci 
+Armonizzati e selezionare la voce di men u Trasmissione documenti contabili , come di 
+seguito mostrato. (Fig.13) 
+ 
+              
+             Fig. 13 – Bilanci Armonizzati- trasmissione documenti contabili (1 di 4) 
+ 
+ 
+ 
+Viene visualizzata la tabella contenente i file che sono stati pre -caricati (upload) attraverso 
+l’Applicazione Trasmissione Bilanci Armonizzati nella FASE 1.  
+Il tempo in cui questi file vengono resi disponibili su tale tabella dipende dal carico della rete 
+nel momento in cui si effettua l’upload. 
+ 
+
+
+ 
+ 
+ 
+ 
+18 
+E’ necessario procedere all’invio dei file al sistema BDAP - Bilanci Armonizzati 
+cliccando l'icona trasmetti , presente alla riga della tabella relativa al file che si intende 
+trasmettere. (Fig.13) 
+ 
+         
+Fig. 13 – Bilanci Armonizzati- trasmissione documenti contabili (2 di 4) 
+ 
+Dopo aver cliccato sull’icona trasmetti , il sistema apre all’utente una maschera 
+attraverso la quale deve inserire ulteriori campi, come di seguito mostrato. (Fig.13) 
+ 
+ 
+       Fig. 13 – Bilanci Armonizzati- trasmissione documenti contabili (3 di 4) 
+ 
+Terminato l’inserimento, è necessario premere il tasto “ Salva” e l’utente riceve un 
+messaggio di operazione effettuata con successo ed il documento inizia ad essere 
+elaborato. (Fig.13) 
+ 
+    
+Fig. 13 – Bilanci Armonizzati- trasmissione documenti contabili (4 di 4) 
+
+
+ 
+ 
+ 
+ 
+19 
+Terminata la trasmissione l’esito ne viene indicato attraverso la colonna “Esio trasmissioni” 
+con le seguenti icone: 
+ NON ACQUISITO: non vengono superati formali generici bloccanti 
+ IN ELABORAZIONE: è in corso il processo asincrono dei controlli 
+ IN ATTESA DI PROTOCOLLAZIONE: sono stati superati tutti i controlli bloccanti 
+ai fini dell’acquisizione 
+ 
+Se la protocollazione ha buon esito la riga relativa al file scompare dalla tabella. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+20 
+5. REDAZIONE ISTANZE XBRL DEL BUDGET ECONOMICO E BILANCIO DI 
+ESERCIZIO (ENTI IN CONTABILITÀ ECONOMICO PATRIMONIALE) 
+Gli enti in contabilità economico patrimoniale , con profilo Utente I nvio e Utente 
+Responsabile, hanno a disposizio ne una funzione all’interno del sistema BDAP - Bilanci 
+armonizzati con voce di menu “UTILITA’”, che gli consente di compilare un’istanza XBRL a 
+partire da un modello xlsx scaricabile a sistema.  
+La prima pagina contiene i filtri di ricerca: Esercizio - Fase e Documento contabile. (Fig.14) 
+ 
+ 
+Fig. 14 – Bilanci Armonizzati- Redazione Istanze XBRL per gli Enti in contabilità 
+Economico Patrimoniale (Fig.14) 
+ 
+Alla pressione del tasto AVANTI viene prospettata una pagina in cui sono visualizzati le 
+icone che consentono di effettuare una serie di operazioni. (Fig.15) 
+ 
+ 
+Fig. 15 – Bilanci Armonizzati- Redazione Istanze XBRL per gli Enti in contabilità 
+Economico Patrimoniale – Scarica modello (1 di 4) 
+ 
+L’icona  consente di effettuare il Download del modello xlsx in coerenza con la 
+tassonomia del documento sul quale si sta operando.  
+ 
+Il modello XLSX è costituito da più fogli in relazione al documento contabile di riferimento: 
+• Linee Guida (1 foglio) -contenente alcune indicazioni di massima per la compilazione 
+del modello xlsx 
+• Prospetto (n fogli)  - riportanti il nome dei prospetti facenti parte della tassonomia 
+XBRL di riferimento del documento contabile. 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+21 
+L’icona  consente di attivare la generazione dell’istanza XBRL a partire dal modello 
+XLSX fornito. (Fig.15) 
+ 
+All’attivazione del pulsante si apre una maschera in cui è obbligatorio fornire i seguenti dati: 
+• Selezione documento: tramite il bottone sfoglia si deve selezionare il file xlsx  
+compilato dalla postazione di locale tramite la precedente icona.  
+• Codice BDAP: digitare il codice ente BDAP per il quale si vuole operare e 
+coincidente con quello selezionato all’atto dell’accesso all’applicazione Bilanci 
+Armonizzati. (Fig.15) 
+ 
+ 
+ 
+Fig. 15 – Bilanci Armonizzati- Redazione Istanze XBRL per gli Enti in contabilità 
+Economico Patrimoniale- Genera istanza XBRL (2 di 4) 
+ 
+ 
+Il pulsante carica avvia la generazione dell’istanza XBRL. (Fig.15) 
+ 
+L’operazione potrebbe richiedere dei tempi di attesa prolungati durante i quali è possibile 
+utilizzare le altre funzioni del sistema; se l’elaborazione è in corso si visualizza tale icona 
+Al termine dell’elaborazione  viene visualizzato l’esito, se l’esito della generazione è 
+andato a buon fine si visualizza l’icona di colore verde ,  mentre se l’esito non è andato a 
+buon fine si visualizza un’icona di colore rosso .  
+In entrambi i casi, posizionandoci sull’icona, viene visualizzato oltre all’esito dell’operazione, 
+anche il riferimento alla data e orario di generazione dell’istanza. Nel caso di esito negativo 
+si dà evidenza dell’errore rilevato. 
+ 
+Aggiornando la pagina si può verificare l’esito della generazione dell’istanza xbrl. (Fig.15) 
+ 
+Fig. 15 – Bilanci Armonizzati- Redazione Istanze XBRL per gli Enti in contabilità 
+Economico Patrimoniale – Genera istanza XBRL (3 di 4) 
+ 
+
+
+ 
+ 
+ 
+ 
+22 
+ 
+Terminata l’operazione andata a buon fine, viene visualizzata l’icona  che consente di 
+scaricare l’istanza XBRL sulla propria postazione locale. Il file scaricato è in formato.zip.  
+(Fig.15) 
+ 
+ 
+ 
+Fig. 15 – Bilanci Armonizzati- Redazione Istanze XBRL per gli Enti in contabilità 
+Economico Patrimoniale – Scarica modello XBRL (4 di 4) 
+ 
+ 
+All’atto di successive operazioni di generazione di istanze XBRL, l’istanza precedente viene 
+sostituita dall’ultima. 
+ 
+Il file così generato, Non si ritiene ancora trasmesso a sistema.  
+Esso deve essere trasmesso avvalendosi del sistema Trasmissione Bilanci Armonizzati 
+(esterno al sistema Bilanci Armonizzati) e di seguito utilizzando la funzione on-line preposta 
+di TRASMISSIONE DOCUMENTI CONTABILI dalla voce di menu Bilanci Armonizzati. (Vedi 
+par. 4). 
+ 
+  
+
+
+ 
+ 
+ 
+ 
+23 
+6. HOMEPAGE: NEWS- AVVISI-COMUNICAZIONI-DOCUMENTI- FAQ 
+ 
+La pagina dell’Home-Page dell’applicazione ha lo scopo di fornire, all’utente appena 
+entrato nell’applicazione , una panoramica globale delle  notizie importanti di carattere 
+generale, oppure di avvisi relativi all’ente per il quale h a appena effettuato l’ingresso, di 
+comunicazioni a lui dirette e alle quali deve dare risposta, di domande e risposte effettuate 
+con frequenza. La pagina quindi si compone delle seguenti sezioni (Fig.16): 
+       
+ 
+                 Fig.16 NEWS- AVVISI-COMUNICAZIONI-DOCUMENTI- FAQ 
+ 
+• NEWS:  
+Nella sezione NEWS compaiono comunicazioni di carattere generale e di interesse per 
+tutti gli utenti dell’applicazione Bilanci armonizzati: ad esempio può essere resa nota la 
+data di inizio del periodo di invio dei documenti contabili. Le notizie rimangono visibili fino 
+alla data di fine validità decisa al momento dell’inserimento della news nel sistema, dopo 
+tale data si potranno continuare a consultare nell’archivio accessibile tramite l’apposito 
+pulsante. 
+  
+• AVVISI:  
+La sezione contiene avvisi di interesse specifico dell’ente di competenza dell’utente. Tali 
+avvisi possono essere stati inseriti a sistema su suggerimento dell’amministrazione 
+oppure generati automaticamente a seguito di operazioni che riguardano i documen ti 
+contabili dell’Ente in oggetto: per esempio l’utente può leggere un avviso riguardante una 
+richiesta di nuovo invio di un documento contabile trasmesso, oppure di un avvenuto 
+sollecito a fronte della mancata trasmissione di un documento. Anche gli avvis i sono 
+consultabili fino alla data di fine validità stabilita, dopo tale data si potranno comunque 
+continuare a consultare nell’archivio accessibile tramite l’apposito pulsante.  
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+24 
+• FAQ:  
+La sezione contiene le Frequently Asked Questions, meglio conosciute con la sigla FAQ, 
+che rappresentano una serie di risposte, stilate direttamente dall’amministrazione, in 
+risposta alle domande poste frequentemente o che ritiene verrebbero poste più 
+frequentemente dagli utenti dell’applicazione Bilanci Armonizzati. Nella sezione è 
+presente la funzione Ricerca che permette all’utente di verificare la presenza di un 
+argomento di proprio interesse nelle domande e risposte presenti a sistema. 
+ 
+• DOCUMENTI:  
+ 
+La sezione contiene documenti di interesse generale la cui consultazione può risultare di 
+ausilio per gli utenti dell’applicazione Bilanci Armonizzati; l’utente, dopo aver individuato 
+il documento di proprio interesse nell’elenco proposto, ne può effettuar e il download per 
+salvarne una copia sulla propria postazione di lavoro e avviare la consultazione.  
+ 
+• COMUNICAZIONI:  
+ 
+La sezione consente di accedere alla gestione delle comunicazioni che possono 
+intercorrere fra IGEPA e/o Corte dei conti e un Ente con il profilo responsabile o abilitato 
+all’invio. Vedere nel dettaglio paragrafo 15.  
+  
+
+ 
+ 
+ 
+ 
+25 
+7. BILANCI ARMONIZZATI: GESTIONE DOCUMENTI CONTABILI  
+ 
+La funzionalità Gestione documento contabili  consente di effettuare la Ricerca di un 
+documento contabile, per esercizio/fase/documento contabile, sul quale è possibile è 
+possibile effettuare le seguenti operatività:  
+ 
+• Modifica stato di approvazione  
+• Visualizza esiti controlli;  
+• Visualizza dettaglio invio;  
+• Stampa ricevuta invio.  
+• Gestione cancellazione documenti contabili 
+ 
+ 
+Effettuato l’accesso all’applicazione Bilanci Armonizzati, cliccare nel menu Bilanci 
+Armonizzati e selezionare la voce di menu Gestione documento contabili, come di seguito 
+mostrato (Fig.16) 
+ 
+ 
+               Fig. 16 – Bilanci Armonizzati- Gestione documenti contabili (1 di 4) 
+ 
+Viene aperta all’utente una maschera nella quale l’utente inserisce l’esercizio, la fase 
+(Preventivo, Consuntivo, Consolidato), il documento contabile come di seguito mostrato.  
+(Fig. 16) 
+ 
+                
+Fig. 16 – Bilanci Armonizzati- Gestione documenti contabili (2 di 4) 
+ 
+
+
+ 
+ 
+ 
+ 
+26 
+Terminato l’inserimento dei dati è necessario premere il tasto “Ricerca” ed il sistema apre 
+una nuova pagina suddivisa due sezioni: (Fig.16) 
+ 
+ 
+  
+                   Fig. 16 – Bilanci Armonizzati- Gestione documenti contabili (3 di 4) 
+ 
+Sezione 1.  
+ 
+La Sezione I contiene l’ultima versione del documento contabile inviata dall’Ente con 
+l’indicazione del relativo Stato, numero della Versione, Data di invio, Data protocollazione, 
+Numero di protocollo e Esito dei processi di controllo. 
+Nella relativa colonna dell’Esito dei processi di controllo, l’esito ne viene indicato attraverso 
+le seguenti icone: 
+ 
+ se almeno un processo è ancora in elaborazione  
+ se almeno un processo si è chiuso con esito negativo  
+ se tutti i processi si sono conclusi con esito positivo.  
+   
+ 
+In corrispondenza di ciascun documento contabile si trovano le icone che attivano le 
+operazioni di:  
+ 
+• Modifica dello Stato di Approvazione  ,attiva solo per i profili autorizzati se 
+l’ultima versione inviata del documento contabile si trova nello stato “Acquisito” e 
+sono terminate tutte le procedure dei controlli previsti per quel documento contabile;  
+• Visualizzazione degli esiti, attiva quando almeno una delle procedure dei controlli 
+previste è terminata con esito negativo;  
+• Visualizzazione del dettaglio dell’invio, sempre attiva;  
+• Stampa ricevuta, attiva se l’ultima versione inviata del documento contabile si 
+trova nello stato “Acquisito”.  
+ 
+• Gestione cancellazione documenti contabili  attiva se l’ultima versione inviata 
+del documento contabile si trova nello stato “Acquisito” 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+27 
+ 
+ 
+ 
+ 
+Sezione 2.  
+ 
+La Sezione II, espandibile all’esigenza, riporta la cronologia di tutti gli invii effettuati per gli 
+estremi richiesti in precedenza: per ciascun documento contabile vengono indicati lo Stato, 
+il numero della Versione, la Data di invio, la Data di protocollazione, il Numero di protocollo 
+e l’Esito dei processi di controllo.  
+Anche in questa sezione sono presenti le icone per la Visualizzazione degli esiti, la 
+Visualizzazione del dettaglio dell’invio e la Stampa ricevuta. (Fig.16) 
+ 
+ 
+ 
+Fig. 16 – Bilanci Armonizzati- Gestione documenti contabili (4 di 4)  
+
+
+ 
+ 
+ 
+ 
+28 
+7.1 Gestione Documenti Contabili - Modifica Stato di Approvazione  
+ 
+La “ Modifica stato di approvazione”  consente all’utente di modificare lo stato di 
+approvazione per il documento contabile che si trova nello stato “ Acquisito” senza dover 
+procedere ad una nuova trasmissione del documento contabile per uno stato superiore 
+gerarchicamente. 
+ 
+La modifica dello stato di approvazione inoltre, non varia la versione del documento. (Fig.16) 
+ 
+ 
+ Fig. 16 – Bilanci Armonizzati- Gestione documenti contabili- Modifica stato di 
+approvazione (1di 2) 
+ 
+ 
+All’attivazione dell’apposita icona funzionale si apre una nuova pagina che riporta:  
+ 
+✓ Stato di approvazione: rendendo disponibili solo gli stati di approvazione 
+gerarchicamente successivi a quello comunicato nell’ultimo invio;  
+✓ Numero delibera, campo di testo facoltativo;  
+✓ Data delibera campo facoltativo selezionabile tramite visualizzazione del calendario. 
+(Fig.16) 
+ 
+✓ Motivazione campo obbligatorio nel caso in cui viene selezionato un nuovo stato di 
+approvazione antecedente, nella scala gerarchica, all’ultimo immesso in precedenza. 
+ 
+ 
+    Fig. 16 – Bilanci Armonizzati- Gestione documenti contabili- Modifica stato di 
+approvazione (2 di 2) 
+ 
+
+
+ 
+ 
+ 
+ 
+29 
+Il numero e la data della delibera sono obbligatorie nel caso in cui lo Stato di approvazione 
+selezionato sia “Approvato dal Consiglio”. Se si modifica lo stato di approvazione 
+scegliendone uno gerarchicamente inferiore all’ultimo inserito, è obbligatorio inserire la 
+motivazione. 
+Lo stato di approvazione “Approvato dal Commissario”, se previsto per il documento in 
+questione, risulta avere la stessa priorità dello stato di approvazione immediatamente 
+precedente nella scala gerarchica: quindi avendo la stessa priorità, non è necessario 
+indicare la motivazione se si passa dall’uno all’altro stato di approvazione. 
+ 
+Alla pressione del pulsante CONFERMA si aggiorna lo stato di approvazione del documento 
+con i relativi numero e data delibera ove presenti e si registrano gli estremi dell’utente che 
+ha effettuato la modifica.  
+ 
+  
+
+ 
+ 
+ 
+ 
+30 
+7.2 Gestione Documenti Contabili - Visualizzazione Esito Controlli  
+ 
+Se almeno una delle procedure dei controlli formali generici, di validazione e quadratura è 
+terminata con esito negativo, viene attivata l’apposita icona funzionale  ed è possibile 
+verificare gli errori riscontrati. (Fig.17) 
+ 
+ 
+                 Fig. 17– Bilanci Armonizzati- Gestione documenti contabili- 
+Visualizzazione Esito Controlli (1 di 6) 
+ 
+In particolare si distinguono due casi:  
+ 
+➢ ERRORI FORMALI GENERICI Se il documento contabile si trova nello stato “ Non 
+Acquisito” e quindi non è stata superata positivamente la fase dei controlli formali 
+generici, e non si adempie agli obblighi legge.  
+ 
+La funzione riporta un elenco degli errori formali riscontrati costituito da:  
+ 
+• Identificativo, che individua univocamente l’errore rilevato;  
+• Tipologia errore, che descrive l’errore riscontrato. 
+ 
+➢ ERRORI FORMALI DI VALIDAZIONE E/O DI QUADRATURA E/O DI COERENZA. 
+Se il documento contabile si trova nello stato “Acquisito”, l’ente ha adempiuto agli 
+obblighi di legge ma non è stata superata positivamente la fase dei controlli formali 
+di validazione e/o di quadratura  e/o coerenza ove previsti, la funzione prospetta più 
+Schede che espongono separatamente gli errori rilevati da lle varie  procedure 
+asincrone in oggetto. (Fig.17) 
+ 
+ 
+                Fig. 17– Bilanci Armonizzati- Gestione documenti contabili- 
+Visualizzazione Esito Controlli (2 di 6) 
+
+
+ 
+ 
+ 
+ 
+31 
+ERRORI FORMALI DI VALIDAZIONE : la scheda contiene una pagina con tante sezioni 
+espandibili all’esigenza, una per ogni prospetto del documento contabile per il quale sono 
+stati rilevati errori formali di validazione: vicino al nome del prospetto contabile esaminato 
+compare il numero totale degli errori rilevati. (Fig.17) 
+ 
+Espandendo la sezione si apre un dettaglio che, per ogni errore riscontrato riporta: 
+ 
+• Termine di riferimento, ovvero il concetto XBRL che si assume come dato di 
+riferimento per i controlli in esame;  
+• Controllo applicato, ovvero la regola che deve essere rispettata;  
+• Dettaglio Errori, ovvero la visualizzazione dei valori che hanno generato l’errore. 
+(Fig.16) 
+• Errore bloccante, dove con SI o No si verifica se l’errore è bloccante o meno ai 
+fini dell’acquisizione 
+              
+               Fig. 17 – Bilanci Armonizzati- Gestione documenti contabili- 
+Visualizzazione Esito Controlli (3 di 6) 
+ 
+Per i Comuni che esercita no le facoltà di cui all’art. 232 comma 2 e all’art. 233 -bis comma 
+3 del TUEL, in virtù della legge 7 aprile 2014 n. 56 Art 1 comma 118  ed inviano la delibera 
+all’interno della funzione “ Gestione Delibere”, possono trovarsi nell’errore di validazione 
+anche una nota. 
+          
+        Fig. 17 – Bilanci Armonizzati- Gestione documenti contabili- Visualizzazione 
+Esito Controlli (4 di 6) 
+
+
+ 
+ 
+ 
+ 
+32 
+ERRORI FORMALI DI QUADRATURA : la scheda contiene una pagina con tante sezioni 
+espandibili all’esigenza, una per ogni prospetto del documento contabile per il quale sono 
+stati rilevati errori di quadratura: vicino al nome del prospetto contabile esaminato compare 
+il numero totale degli errori rilevati. (Fig.17) 
+ 
+Espandendo la sezione si apre un dettaglio che, per ogni errore riporta:  
+ 
+• Termine di riferimento, ovvero il concetto XBRL che si assume come dato di 
+riferimento per i controlli in esame;  
+• Tipologia quadratura, orizzontale o verticale, ovvero la verifica dei dati derivanti 
+da algoritmi di calcolo (somme, differenze, rapporti, verifiche di capienza) eseguiti 
+per riga o per colonna, o algoritmi applicati solo in corrispondenza di alcune 
+tipologie di voci;  
+• Controllo applicato, ovvero la regola che deve essere rispettata;  
+• Dettaglio Errori, ovvero la visualizzazione dei valori che hanno generato l’errore.  
+• Scostamento in valore assoluto dal valore atteso;  
+• Scostamento in percentuale dal valore atteso.  
+• Scostamento con tolleranza. Si riporta il valore SI se lo scostamento è minore o 
+uguale ad un euro in valore assoluto, NO in tutti gli altri casi.  
+• Errore bloccante, dove con SI o NO si indica se l’errore è bloccante o meno ai fini 
+dell’acquisizione del documento 
+ 
+ 
+ 
+       Fig. 17 – Bilanci Armonizzati- Gestione documenti contabili- Visualizzazione 
+Esito Controlli (5 di 6) 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+33 
+ERRORI DI COERENZA : La classe dei controlli in oggetto viene applicata a partire dal 
+Consuntivo 2018 sugli Schemi di bilancio che si trovano nello stato “Acquisito”. La scheda 
+contiene una pagina con le seguenti sezioni espandibili (Entrate, Spese, Economico 
+patrimoniale) cui  vengono ricondotte tutte le voci per le quali si rilevano degli errori di 
+coerenza: vicino al nome della sezione esaminata compare il numero totale degli errori 
+rilevati.  
+ 
+Espandendo la sezione si apre un dettaglio che, per ogni errore riporta: 
+ 
+• Controllo applicato, ovvero la descrizione delle voci appartenenti a prospetti 
+diversi e per le quali si verifica la coerenza.  Attivata l’espansione si visualizzano 
+le seguenti informazioni per ciascun termine coinvolto nei controlli: 
+• Codice termine di riferimento, ovvero i termini contenuti nell’stanza XBRL 
+(element name) per es: “QGEN_FondoCassaInizioEsercizio” per il Fondo di 
+cassa all'inizio dell'esercizio  
+• Descrizione del termine di riferimento 
+• Valore riscontrato, ovvero l’importo corrispondente al termine di riferimento 
+ 
+ 
+      Fig. 17 – Bilanci Armonizzati- Gestione documenti contabili- Visualizzazione 
+Esito Controlli (6 di 6) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+34 
+7.3 Gestione Documenti Contabili - Visualizzazione Dettaglio Invio  
+ 
+L’utente attivando l’icona del dettaglio invio visualizza un riepilogo delle informazioni 
+specifiche del documento che è stato trasmesso per la versione che si sta interrogando. 
+(Fig.18) 
+ 
+Fig. 18 – Bilanci Armonizzati- Gestione documenti contabili- Visualizzazione 
+Dettaglio Invio (1 di 2) 
+ 
+La pagina che si apre attivando l’icona del dettaglio invio contiene un riepilogo delle 
+informazioni specifiche del documento che è stato trasmesso per il documento che si sta 
+interrogando. Si riportano Data Caricamento, Data trasmissione, Data e numero protocollo 
+RGS, Data e numero protocollo Ente, Stato di approvazione, Numero e Data delibera, Data 
+modifica Stato approvazione. 
+ 
+        
+Fig. 18– Bilanci Armonizzati- Gestione documenti contabili- Visualizzazione 
+Dettaglio Invio (2 di 2) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+
+ 
+ 
+ 
+ 
+35 
+Le informazioni suddette sono seguite da tre sezioni espandibili a piacere:  
+ 
+• elenco procedure controlli che riporta l’elenco delle procedure asincrone eseguite 
+ed il loro esito, anche in questo caso esplicitato attraverso i simboli e le relative 
+descrizioni citati in precedenza;  
+• elenco richieste nuovo invio che riporta l’elenco delle richieste di nuovo invio che 
+sono state eventualmente registrate per il documento contabile interrogato, 
+elencando per ciascuna il profilo e il nominativo dell’utente che l’ha effettuata, la 
+data della richiesta e la motivazione;  
+• cronologia stato approvazione che riporta l’elenco delle eventuali modifiche 
+effettuate sullo stato di approvazione specificando la data della modifica, la 
+motivazione, il numero e la data della delibera.  
+ 
+7.4 Gestione Documenti Contabili - Stampa Ricevuta  
+ 
+La funzione di Stampa Ricevuta produce in questa pagi na un’anteprima di stampa della 
+ricevuta prodotta a conclusione dalla procedura di protocollazione eseguita dopo la 
+trasmissione del documento contabile e l’esecuzione con esito positivo dei controlli formali 
+generici. (Fig.19) 
+ 
+ 
+ 
+Fig. 19 – Bilanci Armonizzati- Gestione documenti contabili- Stampa Ricevuta  
+(1 di 2) 
+Il pulsante STAMPA permette di produrre un file pdf con la ricevuta. (Fig.19) 
+ 
+  
+ 
+Fig. 19 – Bilanci Armonizzati- Gestione documenti contabili- Stampa Ricevuta  
+(2 di 2) 
+
+
+ 
+ 
+ 
+ 
+36 
+7.5 Gestione Documenti Contabili - Gestione Cancellazione Documento 
+Contabile 
+ 
+ 
+L’iter per la cancellazione di un documento contabile può essere avviato: 
+  
+ 
+ 
+Fig. 20 – Bilanci Armonizzati- Gestione documenti contabili- Gestione Cancellazione 
+Documento Contabile (1 di 5) 
+ 
+• dall’Ente con la funzione in oggetto  
+ 
+• dai competenti uffici del MEF RGS IGEPA che, di propria iniziativa possono direttamente 
+autorizzare la cancellazione di un documento.  
+La funzione è attivabile con l’apposita icona , presente nella prima sezione della 
+funzione in oggetto contenente l’ultima versione trasmessa dall’Ente per il documento 
+contabile. Premendo l’icona si apre una nuova pagina che consente di:  
+ 
+• effettuare la richiesta di autorizzazione alla cancellazione del documento contabile indicato 
+nello schermo iniziale  
+ 
+• revocare una richiesta effettuata in precedenza 
+  
+• cancellare il documento una volta ottenuta l’autorizzazione dal competente ufficio del MEF 
+RGS IGEPA.  
+ 
+• Verificare se gli uffici del MEF RGS IGEPA hanno disposto di propria iniziativa la 
+cancellazione del documento contabile  
+ 
+ 
+ 
+ 
+ 
+ 
+La richiesta di autorizzazione avanzata dall’Ente, così come una successiva revoca della 
+stessa, comportano una decisione da parte del suddetto ufficio competente prima che l’Ente 
+possa proseguire con i passi successivi del processo di cancellazione. 
+
+
+ 
+ 
+ 
+ 
+37 
+ 
+La pagina si presenta vuota e composta da una sola sezione finché non viene iniziato l’iter 
+di cancellazione. 
+ 
+ 
+Fig. 20 – Bilanci Armonizzati- Gestione documenti contabili- Gestione Cancellazione 
+Documento Contabile (2 di 5) 
+ 
+ 
+ 
+Nella sezione Gestione richiesta cancellazione sono presenti le colonne: 
+  
+• Motivazione, valorizzata quando l’Ente ha già effettuato una richiesta di autorizzazione alla 
+cancellazione  
+ 
+• Recapito, valorizzata quando l’Ente ha già effettuato una richiesta di autorizzazione alla 
+cancellazione  
+ 
+• Download allegato Ente, presente quando l’Ente ha già effettuato una richiesta di 
+autorizzazione alla cancellazione e trasmesso l’allegato  
+ 
+• Autorizzata da MEF_RGS_IGEPA valorizzata con SI se l’ufficio ha espresso parere 
+favorevole alla cancellazione richiesta dall’Ente oppure ha iniziato l’iter di cancellazione di 
+propria iniziativa  
+ 
+• Data operazione MEF_RGS_IGEPA, valorizzata con la data in cui è stata effettuata 
+l’operazione se l’ufficio ha espresso parere favorevole alla cancellazione richiesta dall’ente 
+oppure ha iniziato l’iter di cancellazione di propria iniziativa  
+ 
+• Motivazione MEF_RGS_IGEPA, valorizzata con la motivazione a supporto della decisione 
+se l’ufficio ha espresso parere favorevole alla cancellazione richiesta dall’Ente oppure ha 
+iniziato l’iter di cancellazione di propria iniziativa  
+ 
+• Download allegato MEF_RGS_IGEPA presente se l’ufficio ha espresso parere favorevole 
+alla cancellazione richiesta dall’Ente oppure ha iniziato l’iter di cancellazione di propria 
+iniziativa e trasmesso l’allegato.  
+ 
+
+
+ 
+ 
+ 
+ 
+38 
+ 
+Fig. 20 – Bilanci Armonizzati- Gestione documenti contabili- Gestione Cancellazione 
+Documento Contabile (3 di 5) 
+ 
+ 
+ 
+ 
+Se invece l’Ente ha deciso di richiedere la revoca di una autorizzazione alla cancellazione 
+precedentemente inoltrata, la pagina contiene una seconda sezione con i dati di dettaglio 
+relativi alla revoca. 
+ 
+ 
+Fig. 20 – Bilanci Armonizzati- Gestione documenti contabili- Revoca Cancellazione 
+Documento Contabile- (4 di 5) 
+ 
+La sezione Gestione revoca richiesta cancellazione contiene le colonne: 
+• Motivazione 
+• Download allegato Ente presente se l’Ente ha trasmesso un allegato in fase di revoca della 
+richiesta  
+• Autorizzata da MEF_RGS_IGEPA valorizzata con NO se l’ufficio ha espresso parere 
+negativo alla revoca della richiesta di autorizzazione alla cancellazione: è utile notare che 
+se l’ufficio ha espresso parere favorevole alla revoca, l’iter si ritiene annullato e non sarà più 
+visibile il relativo dettaglio in questa funzione di gestione, ma lo si potrà continuare a 
+consultare con le apposite funzioni di interrogazione come specificato di seguito  
+• Data operazione MEF_RGS_IGEPA valorizzata se l’ufficio ha espresso il proprio parere 
+contrario alla revoca  
+
+
+ 
+ 
+ 
+ 
+39 
+• Motivazione MEF_RGS_IGEPA valorizzata se l’ufficio ha espresso parere negativo alla 
+richiesta di revoca avanzata dall’Ente  
+• Download allegato MEF_RGS_IGEPA presente se l’ufficio ha trasmesso un allegato 
+esprimendo parere negativo alla revoca della richiesta di autorizzazione alla cancellazione 
+.  
+ 
+Fig. 20 – Bilanci Armonizzati- Gestione documenti contabili- Revoca Cancellazione 
+Documento Contabile-(5 di 5) 
+ 
+ 
+7.5.1. Richiesta Autorizzazione Cancellazione Documento Contabile 
+ 
+La funzione consente di iniziare l’iter per la cancellazione del documento contabile richiesto 
+nello schermo iniziale.  
+Premendo l’icona si apre una pagina in cui è obbligatorio inserire:  
+ 
+• La motivazione per la quale è necessario cancellare il documento contabile  
+• Un recapito telefonico che il competente ufficio del MEF RGS IGEPA può utilizzare per 
+chiedere chiarimenti in merito alla richiesta avanzata.  
+ 
+ 
+Fig. 21 – Bilanci Armonizzati- Gestione documenti contabili- Richiesta 
+Autorizzazione Cancellazione Documento Contabile 
+ 
+La funzione consente inoltre di allegare un file a sostegno della motivazione espressa.  
+ 
+
+
+ 
+ 
+ 
+ 
+40 
+Al termine dell’operazione la funzione apre l’iter per la cancellazione del documento 
+contabile, mostra nella pagina i valori appena inseriti dall’Ente per la richiesta effettuata, 
+avvisa con una mail l’ufficio competente del MEF RGS IGEPA che deve esprimere il proprio 
+parere.  
+Se il suddetto ufficio accetta la richiesta avanzata, l’Ente riceve una mail di conferma che lo 
+invita a procedere con la cancellazione del documento contabile: accedendo nuovamente 
+alla BDAP con l’utenza assegnata, utilizzando la funzione “Gestione cancel lazione 
+documento contabile” può verificare la Motivazione espressa in fase di autorizzazione alla 
+cancellazione e effettuare il download del documento eventualmente allegato dall’ufficio 
+tramite l’icona   
+Nella stessa pagina è ora attiva l’icona per la cancellazione del documento. In caso 
+contrario, se quindi l’ufficio suddetto nega il consenso alla cancellazione, l’Ente riceve una 
+mail informativa, l’iter si ritiene automaticamente concluso con il rigetto della richiesta 
+inoltrata dall’Ente che potrà conoscere il motivo di tale rifiuto accedendo con l’utenza 
+assegnata alla BDAP, utilizzando la funzione “Interrogazioni generalizzate > Interrogazione 
+cancellazione documenti”. 
+Qualora il competente ufficio del MEF RGS IGEPA abbia autorizzato la contestuale 
+eliminazione delle versioni precedenti trasmesse dall’Ente per la stessa tipologia di 
+documento contabile, si può conoscere l’elenco di tali documenti premendo l’icona  
+ 
+ 
+ 
+Fig. 21 – Bilanci Armonizzati- Gestione documenti contabili- Richiesta Autorizzazione 
+Cancellazione Documento Contabile  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+7.5.2. Revoca Autorizzazione Cancellazione Documento Contabile 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+41 
+La funzione consente di richiedere la revoca di una richiesta di autorizzazione alla 
+cancellazione del documento contabile effettuata in precedenza.  
+La richiesta può essere avanzata sia quando l’ufficio competente del MEF RGS IGEPA 
+abbia già espresso parere favorevole alla cancellazione, sia quando l’ufficio suddetto non 
+abbia ancora comunicato la propria decisione: la revoca in oggetto ha quindi lo sc opo di 
+annullare l’iter iniziato in precedenza.  
+Premendo l’icona si apre una pagina in cui è obbligatorio inserire:  
+• La motivazione per la quale è necessario revocare la richiesta di autorizzazione alla 
+cancellazione del documento contabile.  
+È possibile allegare un file a supporto della motivazione espressa.  
+ 
+Al termine dell’operazione la funzione mostra nella pagina i valori appena inseriti dall’Ente 
+per la richiesta di revoca appena effettuata, insieme ai valori inseriti all’atto della richiesta di 
+autorizzazione alla cancellazione inoltrata in precedenza: se l’ufficio competente MEF RGS 
+IGEPA ha già espresso parere favorevole alla cancellazione, sono presenti nella pagina 
+anche la motivazione e l’eventuale file allegato a supporto della decisione espressa a favore 
+della cancellazione.  
+ 
+ 
+ 
+Fig. 22 – Bilanci Armonizzati- Gestione documenti contabili- Revoca Autorizzazione 
+Cancellazione Documento Contabile  
+ 
+La funzione avvisa con una mail l’ufficio competente del MEF RGS IGEPA che deve 
+esprimere il proprio parere anche in merito alla richiesta di revoca appena inoltrata dall’Ente. 
+Se il suddetto ufficio accetta la richiesta avanzata, l’Ente riceve una mail ch e conferma 
+l’autorizzazione a ritenere annullato l’iter avviato in precedenza per la cancellazione del 
+documento in oggetto: accedendo nuovamente alla BDAP con l’utenza assegnata, 
+utilizzando la funzione “Interrogazioni generalizzate > Interrogazione cance llazione 
+documenti”, è possibile verificare la Motivazione espressa in fase di autorizzazione alla 
+revoca della cancellazione e effettuare il download del documento eventualmente allegato 
+dall’ufficio tramite l’icona  
+
+
+ 
+ 
+ 
+ 
+42 
+In caso contrario, se quindi l’ufficio suddetto nega il consenso alla revoca della richiesta di 
+autorizzazione alla cancellazione del documento, l’Ente riceve una mail informativa e 
+accedendo nuovamente alla BDAP con l’utenza assegnata, utilizzando la funz ione 
+“Gestione cancellazione documento contabile” può verificare la Motivazione espressa per il 
+rifiuto della revoca alla cancellazione e effettuare il download del documento eventualmente 
+allegato dall’ufficio tramite l’icona  Nella stessa pagina è attiva l’icona per la cancellazione 
+del documento se l’ufficio competente ha già espresso parere favorevole alla cancellazione 
+del documento prima della richiesta di Revoca avanzata dall’Ente 
+ 
+ 
+ 
+7.5.3.  Cancellazione Documento Contabile 
+ 
+ 
+Se l’ufficio competente MEF RGS IGEPA ha accettato la richiesta di autorizzazione alla 
+cancellazione del documento contabile avanzata dall’Ente, oppure ha avviato l’iter di 
+cancellazione di proprio iniziativa, nella pagina della funzione “Gestione cancella zione 
+documenti contabili” si attiva l’icona che consente di effettuare la cancellazione vera e 
+propria. 11 Premendo l’icona in oggetto si rende a tutti gli effetti inefficace il documento.  
+Se l’Ente ha trasmesso versioni precedenti per lo stesso Esercizio Fase Tipo documento 
+contabile, viene considerata come valida ai fini dell’adempienza la versione precedente a 
+quella cancellata che si trova nello stato “Acquisito”.  
+Qualora non esistano versioni precedenti a quella cancellata, l’Ente viene considerato 
+inadempiente alla trasmissione per Esercizio Fase Tipo documento contabile uguali a quelli 
+del documento cancellato. È utile precisare che, qualora l’Ente non proceda co n la 
+cancellazione del suddetto documento contabile entro 30 giorni dalla autorizzazione da 
+parte degli uffici del MEF -RGS-IGEPA, gli stessi uffici valuteranno se procedere 
+autonomamente con la eliminazione del documento 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+8. BILANCI ARMONIZZATI: INTERROGAZIONE PROSPETTI DOCUMENTI 
+CONTABILI 
+ 
+La funzione, a disposizione di tutti gli utenti consente di visualizzare i dati contenuti nei 
+singoli prospetti dei documenti contabili trasmessi, tramite file XBRL, e gli eventuali errori 
+
+
+ 
+ 
+ 
+ 
+43 
+rilevati dalle procedure dei controlli formali di validità e di quadratura all’interno dei singoli 
+schemi. (Fig.23) 
+ 
+ 
+ 
+Fig. 23 – Bilanci Armonizzati-Interrogazione Prospetti Documenti Contabili  
+(1 di 3) 
+ 
+Sono visualizzabili tutte le versioni o solo l’ultima versione dei documenti contabili. 
+ 
+ 
+ 
+Fig. 23– Bilanci Armonizzati-Interrogazione Prospetti Documenti Contabili (2 di 3) 
+ 
+ 
+ 
+ 
+Prima di descrivere le modalità operative della funzione si descrive il comportamento che 
+essa assume quando si utilizzano pulsanti o icone comuni a più pagine della funzione 
+stessa: 
+ 
+•  Il pulsante PULISCI consente di ripulire i campi da eventuali dati immessi dall’utente 
+•  Il pulsante INDIETRO consente di tornare alla pagina precedente 
+
+
+ 
+ 
+ 
+ 
+44 
+•  Il pulsante produce il file Excel con i dati prospettati nella pagina riportando le 
+stesse informazioni contenute nello schermo 
+ 
+Alla pressione del pulsante RICERCA ottiene una nuova pagina dove viene prospettato 
+l’elenco dei documenti contabili acquisiti a sistema che rispondono ai criteri scelti in 
+precedenza con due icone: (Fig.23) 
+ 
+• Visualizza Prospetti icona che consente di visualizzare l’elenco dei prospetti 
+contenuti nel documento contabile 
+ 
+• Visualizza esiti icona attiva solo se almeno uno dei processi asincroni di controllo 
+è terminato con esito negativo. 
+ 
+ 
+        
+Fig. 23 – Bilanci Armonizzati-Interrogazione Prospetti Documenti Contabili (3 di 3) 
+ 
+8.1 INTERROGAZIONE PROSPETTI DOCUMENTI CONTABILI - VISUALIZZAZIONE 
+PROSPETTI 
+L’utente attivando l’icona   può visualizzare i dati contabili contenuti in ogni singolo 
+prospetto, così come estratti dal file xbrl trasmesso al sistema. (Fig.24) 
+ 
+
+
+ 
+ 
+ 
+ 
+45 
+ 
+ 
+Fig. 24 – Bilanci Armonizzati-Interrogazione Prospetti Documenti Contabili –
+Visualizzazione Prospetti (1 di 2) 
+ 
+ 
+Per visualizzare i dati contabili deve aprire l’icona , per le righe che hanno al loro interno 
+valori significativi, mentre di colore grigio non hanno al loro interno valori significati:(Fig.24) 
+ 
+ 
+ 
+Fig. 24 – Bilanci Armonizzati-Interrogazione Prospetti Documenti Contabili –
+Visualizzazione Prospetti (2 di 2) 
+ 
+8.2 INTERROGAZIONE PROSPETTI DOCUMENTI CONTABILI - VISUALIZZAZIONE ESITO 
+CONTROLLI 
+Se almeno una delle procedure dei controlli è terminata con esi to negativo, l’utente 
+attivando l’apposita icona funzionale può verificare quali errori sono stati riscontrati dal 
+sistema. (Fig.25) 
+ 
+
+
+ 
+ 
+ 
+ 
+46 
+ 
+ 
+Fig. 25 – Bilanci Armonizzati-Interrogazione Prospetti Documenti Contabili –
+Visualizzazione Esito controlli (1 di 2) 
+ 
+Si possono verificare gli esiti di validazione , quadratura e coerenza, con la descrizione del 
+controllo applicato, il valore inserito (riscontrato) e il valore atteso (ciò che viene calcolato e 
+atteso dal sistema), e il loro scostamento: (Fig.25) 
+ 
+ 
+ 
+Fig. 25 – Bilanci Armonizzati-Interrogazione Prospetti Documenti Contabili –
+Visualizzazione Esito controlli (2 di 2) 
+  
+
+
+ 
+ 
+ 
+ 
+47 
+9. BILANCI ARMONIZZATI: TRASMISSIONE DOCUMENTI ALLEGATI 
+ 
+L’utente può utilizzare la trasmissione documenti allegati, per inviare tre tipologie di 
+documenti: (Fig.26) 
+• Relazione del collegio dei revisori 
+• Nota integrativa 
+• Documento Giustificativo 
+• Delibera dichiarazione di assenza dell’obbligo di redazione del bilancio consolidato 
+2016 
+ 
+ 
+           
+ Fig. 26– Bilanci Armonizzati-Trasmissione documenti allegati (1 di 4) 
+ 
+Dopo aver inserito i rispettivi campi obbligatori di esercizio e fase, si può procedere alla 
+trasmissione dell’allegato. (Fig.26) 
+ 
+              
+ 
+Fig. 26 – Bilanci Armonizzati-Trasmissione documenti allegati (2 di 4) 
+ 
+Attraverso il pulsante Avanti si apre una nuova pagina in cui si può scegliere quale allegato 
+inviare e inserire l’allegato stesso: (Fig.26) 
+ 
+ 
+Fig. 26– Bilanci Armonizzati-Trasmissione documenti allegati (3 di 4) 
+
+
+ 
+ 
+ 
+ 
+48 
+ 
+Con il pulsante Salva, si procede al caricamento e viene dato esito “operazione effettuata 
+con successo” per indicare che l’operazione è andata a buon fine. (Fig.26) 
+ 
+ 
+ 
+Fig. 26– Bilanci Armonizzati-Trasmissione documenti allegati (4 di 4) 
+ 
+Dopo tale messaggio l’allegato viene protocollato ed è possibile visualizzare la stampa di 
+ricevuta in interrogazione documento allegato. 
+ 
+10. BILANCI ARMONIZZATI: GESTIONE DOCUMENTI ALLEGATI 
+ 
+La funzione, a disposizione degli utenti con profilo Utente Invio , Utente Responsabile 
+consente di richiedere a IGEPA  l’autorizzazione per la richiesta di cancellazione di un 
+documento allegato o la relativa revoca,  verificare l’esito della richiesta e cancellare il 
+documento in caso di autorizzazione concessa. 
+ 
+ 
+Fig. 27– Bilanci Armonizzati-Gestione documenti allegati (1 di 5) 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+49 
+Prima di descrivere le modalità operative della funzione si indica il comportamento che essa 
+assume quando si utilizzano pulsanti o icone comuni a più pagine della funzione stessa: 
+ 
+✓ Il pulsante PULISCI consente di ripulire i campi da eventuali dati immessi dall’utente 
+✓ Il pulsante INDIETRO consente di tornare alla pagina precedente 
+✓ Il pulsante produce il file Excel con i dati prospettati nella pagina riportando le 
+stesse informazioni contenute nello schermo, i parametri di ricerca selezionati e 
+specificando la data/ora dell’estrazione 
+ 
+La prima pagina contiene i seguenti filtri di ricerca: 
+ 
+• Esercizio, obbligatorio e selezionabile da una combo-box precaricata con gli esercizi in 
+gestione non chiusi 
+ 
+• Fase, obbligatorio e selezionabile da una combo-box precaricata con le descrizioni delle 
+fasi contabili aperte (Preventivo, Consuntivo, Consolidato).  
+ 
+• Tipo Allegato, selezionabile da una combo-box precaricata con le tipologie di documenti 
+allegati associati alla fase selezionata.  
+ 
+• Data caricamento da: a: facoltativo, tramite visualizzazione del calendario permette di 
+ricercare i documenti allegati trasmessi in base ad un intervallo di date entro le quali è 
+stato effettuato l’invio 
+ 
+ 
+ 
+ 
+Fig. 27– Bilanci Armonizzati-Gestione documenti allegati (2 di 5) 
+ 
+ 
+Alla pressione del pulsante RICERCA si ottiene una nuova pagina dove, oltre ai parametri 
+selezionati nello schermo precedente riportati nella parte alta dello schermo, viene riportata 
+una sezione che contiene la lista dei documenti allegati inviati dall’Ente con l’indicazione del 
+relativo Stato, Nome File, Nome Utente, Data/ora caricamento (caricamento tramite STS 
+AXWAY), Numero di protocollo, Data protocollazione. 
+ 
+
+
+ 
+ 
+ 
+ 
+50 
+ 
+Fig. 27– Bilanci Armonizzati-Gestione documenti allegati (3 di 5) 
+ 
+ 
+In corrispondenza di ciascun documento allegato si trova l’icona  che attiva le operazioni 
+relative alla ‘Gestione cancellazione documento allegato’. 
+ 
+Fig. 27– Bilanci Armonizzati-Gestione documenti allegati (4 di 5) 
+ 
+ 
+L’iter per la cancellazione di un documento allegato può essere avviato: 
+ 
+• dall’Ente con la funzione in oggetto 
+• dai competenti uffici del MEF RGS IGEPA che, di propria iniziativa possono direttamente 
+autorizzare la cancellazione di un documento allegato. 
+La funzione è attivabile con l’apposita icona , presente nella prima sezione della 
+funzione in oggetto contenente l’ultima copia trasmessa dall’Ente per il documento allegato. 
+Premendo l’icona si apre una nuova pagina che consente di: 
+• effettuare la richiesta di autorizzazione alla cancellazione del documento allegato 
+indicato nello schermo iniziale 
+• revocare una richiesta effettuata in precedenza 
+• cancellare il documento una volta ottenuta l’autorizzazione dal competente ufficio del 
+MEF RGS IGEPA. 
+
+
+ 
+ 
+ 
+ 
+51 
+• Verificare se gli uffici del MEF RGS IGEPA hanno disposto di propria iniziativa la 
+cancellazione del documento allegato 
+La richiesta di autorizzazione avanzata dall’Ente, così come una successiva revoca della 
+stessa, comportano una decisione da parte del suddetto ufficio competente prima che l’Ente 
+possa proseguire con i passi successivi del processo di cancellazione. 
+ 
+La pagina si presenta vuota e composta da una sola sezione finché non viene iniziato l’iter 
+di cancellazione.  
+Nella sezione Gestione richiesta cancellazione sono presenti le colonne: 
+• Motivazione, valorizzata quando l’Ente ha già effettuato una richiesta di autorizzazione 
+alla cancellazione 
+• Recapito, valorizzata quando l’Ente ha già effettuato una richiesta di autorizzazione alla 
+cancellazione 
+• Download allegato Ente, presente quando l’Ente ha già effettuato una richiesta di 
+autorizzazione alla cancellazione e trasmesso l’allegato 
+• Autorizzata da MEF_RGS_IGEPA valorizzata con SI se l’ufficio ha espresso parere 
+favorevole alla cancellazione richiesta dall’Ente oppure ha iniziato l’iter di cancellazione di 
+propria iniziativa 
+• Data operazione MEF_RGS_IGEPA, valorizzata con la data in cui è stata effettuata 
+l’operazione se l’ufficio ha espresso parere favorevole alla cancellazione richiesta 
+dall’ente oppure ha iniziato l’iter di cancellazione di propria iniziativa 
+• Motivazione MEF_RGS_IGEPA, valorizzata con la motivazione a supporto della decisione 
+se l’ufficio ha espresso parere favorevole alla cancellazione richiesta dall’Ente oppure ha 
+iniziato l’iter di cancellazione di propria iniziativa 
+• Download allegato MEF_RGS_IGEPA presente se l’ufficio ha espresso parere favorevole 
+alla cancellazione richiesta dall’Ente oppure ha iniziato l’iter di cancellazione di propria 
+iniziativa e trasmesso l’allegato. 
+Se invece l’Ente ha deciso di richiedere la revoca di una autorizzazione alla cancellazione 
+precedentemente inoltrata, la pagina contiene una seconda sezione con i dati di dettaglio 
+relativi alla revoca. La sezione Gestione revoca richiesta cancellazione contiene le colonne 
+• Motivazione 
+• Download allegato Ente presente se l’Ente ha trasmesso un allegato in fase di revoca 
+della richiesta 
+• Autorizzata da MEF_RGS_IGEPA valorizzata con NO se l’ufficio ha espresso parere 
+negativo alla revoca della richiesta di autorizzazione alla cancellazione: è utile notare che 
+se l’ufficio ha espresso parere favorevole alla revoca, l’iter si ritiene annullato e non sarà 
+più visibile il relativo dettaglio in questa funzione di gestione, ma lo si potrà continuare a 
+consultare con le apposite funzioni di interrogazione come specificato di seguito 
+• Data operazione MEF_RGS_IGEPA valorizzata se l’ufficio ha espresso il proprio parere 
+contrario alla revoca 
+• Motivazione MEF_RGS_IGEPA valorizzata se l’ufficio ha espresso parere negativo alla 
+richiesta di revoca avanzata dall’Ente 
+• Download allegato MEF_RGS_IGEPA presente se l’ufficio ha trasmesso un allegato 
+esprimendo parere negativo alla revoca della richiesta di autorizzazione alla 
+cancellazione 
+ 
+ 
+
+ 
+ 
+ 
+ 
+52 
+10.1 RICHIESTA AUTORIZZAZIONE CANCELLAZIONE DOCUMENTO 
+ALLEGATO 
+ 
+La funzione consente di iniziare l’iter per la cancellazione del documento allegato richiesto 
+nello schermo iniziale. 
+ 
+Premendo l’icona si apre una pagina in cui è obbligatorio inserire: 
+• La motivazione per la quale è necessario cancellare il documento allegato 
+• Un recapito telefonico che il competente ufficio del MEF RGS IGEPA può utilizzare per 
+chiedere chiarimenti in merito alla richiesta avanzata. 
+ 
+Fig. 28– Bilanci Armonizzati-Richiesta Autorizzazione cancellazione documento 
+contabile 
+ 
+La funzione consente inoltre di allegare un file a sostegno della motivazione espressa. 
+Al termine dell’operazione la funzione apre l’iter per la cancellazione del documento 
+allegato, 
+mostra nella pagina i valori appena inseriti dall’Ente per la richiesta effettuata, avvisa con 
+una mail l’ufficio competente del MEF RGS IGEPA che deve esprimere il proprio parere. Se 
+il suddetto ufficio accetta la richiesta avanzata, l’Ente riceve una mail di conferma che lo 
+invita a procedere con la cancellazione del documento allegato: accedendo nuovamente 
+alla BDAP con  l’utenza assegnata, utilizzando la funzione “Gestione cancellazione 
+documento allegato” può  verificare la Motivazione espressa in fase d i autorizzazione alla 
+cancellazione e effettuare il  download del documento eventualmente allegato dall’ufficio 
+tramite l’icona .  
+Nella stessa pagina è ora attiva l’icona per la cancellazione del documento. 
+In caso contrario, se quindi l’ufficio suddetto nega il consenso alla cancellazione, l’Ente 
+riceve una mail informativa, l’iter si ritiene automaticamente concluso con il rigetto della 
+richiesta inoltrata dall’Ente che potrà conoscere il motivo di tale rifiuto accedendo con 
+l’utenza assegnata alla BDAP, utilizzando la funzione “Interrogazioni generalizzate > 
+Interrogazione cancellazione documenti”. 
+ 
+
+
+ 
+ 
+ 
+ 
+53 
+Qualora il competente ufficio del MEF RGS IGEPA abbia autorizzato la contestuale 
+eliminazione delle versioni trasmesse in date precedenti per la stessa tipologia di 
+documento allegato, si può conoscere l’elenco di tali documenti premendo l’icona  
+ 
+10.1.1 REVOCA RICHIESTA CANCELLAZIONE DOCUMENTO ALLEGATO 
+La funzione consente di richiedere la revoca di una autorizzazione alla cancellazione del  
+documento allegato effettuata in precedenza. La richiesta può essere avanzata sia quando 
+l’ufficio competente del MEF RGS IGEPA abbia già espresso parere favorevole alla  
+cancellazione, sia quando l’ufficio suddetto non abbia ancora comunicato la propria 
+decisione: 
+La revoca in oggetto ha quindi lo scopo di annullare l’iter iniziato in precedenza. 
+ 
+Fig. 29– Bilanci Armonizzati-Revoca cancellazione documento contabile (1 di 2) 
+Premendo l’icona si apre una pagina in cui è obbligatorio inserire: 
+• La motivazione per la quale è necessario revocare la richiesta di autorizzazione alla  
+cancellazione del documento allegato. 
+È possibile allegare un file a supporto della motivazione espressa.  Al termine 
+dell’operazione la funzione mostra nella pagina i valori appena inseriti dall’Ente per  la 
+richiesta di revoca appena effettuata, insieme ai valori inseriti all’atto della richiesta di  
+autorizzazione alla cancellazione inoltrata in precedenza: se l’ufficio competente MEF RGS-
+IGEPA ha già espresso parere favorevole alla cancellazione, sono presenti nella pagina 
+anche la motivazione e l’eventuale file allegato a supporto della decisione espressa a favore 
+della cancellazione. 
+
+
+ 
+ 
+ 
+ 
+54 
+ 
+Fig. 29– Bilanci Armonizzati-Revoca cancellazione documento contabile (2 di 2) 
+ 
+La funzione avvisa con una mail l’ufficio competente del MEF RGS IGEPA che deve 
+esprimere il proprio parere anche in merito alla richiesta di revoca appena inoltrata dall’Ente. 
+Se il suddetto  ufficio accetta la richiesta avanzata, l’Ente riceve una mail che conferma 
+l’autorizzazione a  ritenere annullato l’iter avviato in precedenza per la cancellazione del 
+documento in oggetto:  accedendo nuovamente alla BDAP con l’utenza assegnata, 
+utilizzando la funzione  “Interrogazioni generalizzate > Interrogazione cance llazione 
+documenti”, è possibile verificare  la Motivazione espressa in fase di autorizzazione alla 
+revoca della cancellazione e effettuare il  download del documento eventualmente allegato 
+dall’ufficio tramite l’icona  . 
+In caso contrario, se quindi l’ufficio suddetto nega il consenso alla revoca della richiesta di  
+autorizzazione alla cancellazione del documento, l’Ente riceve una mail informativa e  
+accedendo nuovamente alla BDAP con l’utenza assegnata, utilizzando la funzione 
+“Gestione cancellazione documento allegato” può verificare la Motivazione espressa per il 
+rifiuto della revoca alla cancellazione e effettuare il download del documento eventualmente 
+allegato dall’ufficio tramite l’icona . Nella stessa pagina è attiv a l’icona per la 
+cancellazione del documento se l’ufficio competente ha già espresso parere favorevole alla 
+cancellazione del documento prima della richiesta di Revoca avanzata dall’Ente. 
+ 
+10.1.2 CANCELLAZIONE DOCUMENTO ALLEGATO 
+Se l’ufficio competente MEF RGS IGEPA ha accettato la richiesta di autorizzazione alla  
+cancellazione del documento allegato avanzata dall’Ente, oppure ha avviato l’iter di  
+cancellazione di proprio iniziativa, nella pagina della funzione “Gestione cancellazione  
+documento allegato” si attiva l’icona che consente di effettuare la cancellazione vera e 
+propria. 
+Premendo l’icona in oggetto si rende a tutti gli effetti inefficace il documento. Se l’Ente ha  
+trasmesso copie precedenti per lo stesso Esercizio Fase Tipo documento allegato, viene  
+considerato come valido ai fini dell’adempienza l’ultimo documento allegato trasmesso 
+prima di quello cancellato che si trova nello stato “Acquisito”. Qualora non esistano copie 
+
+
+ 
+ 
+ 
+ 
+55 
+precedenti a quella cancellata, l’Ente viene considerato inadempiente alla trasmissione per 
+Esercizio Fase Tipo documento allegato uguali a quelli del documento cancellato. 
+È utile precisare che, qualora l’Ente non proceda con la cancellazione del suddetto 
+documento allegato entro 30 giorni dalla autorizzazione da parte degli uffici del MEF -RGS-
+IGEPA, gli stess i uffici valuteranno se procedere autonomamente con la eliminazione del 
+documento. 
+ 
+  
+
+ 
+ 
+ 
+ 
+56 
+11. BILANCI ARMONIZZATI: INTERROGAZIONE DOCUMENTI ALLEGATI 
+ 
+La funzione, a disposizione di tutti gli utenti, permette di interrogare i documenti allegati 
+trasmessi dagli enti. (Fig.30) 
+ 
+         
+ 
+ 
+Fig. 30 – Bilanci Armonizzati-Interrogazioni documenti allegati (1 di 3) 
+ 
+La prima pagina della funzione consente di ricercare i documenti allegati tramite i seguenti 
+estremi di ricerca: (Fig.30) 
+ 
+       
+            Fig. 30– Bilanci Armonizzati-Interrogazioni documenti allegati (2 di 3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+57 
+Alla pressione del pulsante RICERCA la funzione verifica la presenza di documenti allegati 
+che rispondono ai parametri impostati e, in caso positivo propone una pagina successiva 
+dove, oltre ai parametri di ricerca, riporta l’elenco dei documenti individuati. (Fig.30) 
+ 
+ 
+ 
+Fig. 30 – Bilanci Armonizzati-Interrogazioni documenti allegati (3 di 3) 
+ 
+Per ogni elemento dell’elenco è presente l’icona  che permette di effettuare il download 
+del documento allegato; l’icona  consente di ottenere la ricevuta della protocollazione 
+del documento e è attiva solo se si è conclusa l’operazione di protocollazione. 
+  
+
+
+ 
+ 
+ 
+ 
+58 
+12. BILANCI ARMONIZZATI: INTERROGAZIONI RICHIESTE NUOVO INVIO 
+ 
+La funzione, a disposizione di tutti gli utenti, consente di interrogare le richieste effettuate di 
+nuovo invio di documenti contabili. (Fig.31) 
+ 
+       
+Fig. 31– Bilanci Armonizzati-Interrogazioni Richieste Nuovo Invio  
+ 
+La Richiesta nuovo invio può essere effettuata da: 
+ 
+• IGEPA 
+• CDC-SA (Corte dei Conti – Sezione Autonomie) 
+• CDC-SR (Corte dei Conti – Sezione Regionale) 
+ 
+     
+Fig. 31 – Bilanci Armonizzati-Interrogazioni Richieste Nuovo Invio (1 di 4) 
+ 
+Alla pressione del pulsante RICERCA si apre una nuova pagina contenente l’elenco degli 
+enti per i quali esistono richieste di nuovo invio, che rispondono ai criteri di ricerca impostati. 
+(Fig.26) 
+ 
+ 
+Fig. 31 – Bilanci Armonizzati-Interrogazioni Richieste Nuovo Invio (2 di 4) 
+ 
+
+
+ 
+ 
+ 
+ 
+59 
+La pagina di risposta contiene l’elenco degli enti (un solo ente per gli utenti dell’Ente) per i 
+quali sono state effettuate richieste di nuovo invio per i dati selezionati nella maschera 
+precedente. 
+ 
+Per ciascun ente si riportano: 
+• Tipo Ente 
+• Denominazione Ente 
+ 
+L’icona, presente in ogni riga dell’elenco, apre una pagina ulteriore che contiene il 
+dettaglio delle richieste effettuate per l’ente selezionato. 
+ 
+Alla selezione dell’icona abilitata, la funzione visualizza una pagina successiva dove viene 
+mostrato l’elenco delle richieste di nuovo invio che sono state inoltrate all’ente per i diversi 
+documenti contabili. (Fig.31) 
+ 
+ 
+Fig. 31 – Bilanci Armonizzati-Interrogazioni Richieste Nuovo Invio (3 di 4) 
+ 
+Per ogni documento contabile è presente l’icona che consente di conoscere informazioni di 
+dettaglio sulla singola richiesta. (Fig.31) 
+ 
+Fig. 31 – Bilanci Armonizzati-Interrogazioni Richieste Nuovo Invio (4 di 4) 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+60 
+Nella pagina viene visualizzato l’elenco delle richieste eventualmente inoltrate da IGEPA/ 
+Corte dei Conti per ciascuna richiesta vengono mostrati: 
+ 
+• Richiedente, dove viene indicata l’Amministrazione (profilo e nominativo utente) che 
+ha inoltrato la richiesta 
+• Data richiesta, ovvero la data in cui la richiesta è stata inoltrata 
+• Motivazione, ovvero la descrizione della causa che ha determinato la richiesta di 
+nuovo invio da parte dell’Amministrazione coinvolta. 
+ 
+Se all’atto della richiesta è stato allegato un documento è possibile effettuarne il down load 
+grazie all’apposita icona.  
+
+ 
+ 
+ 
+ 
+61 
+13. INTERROGAZIONI GENERALIZZATE: DOCUMENTI CONTABILI PER 
+STATO ED ESITO CONTROLLI 
+ 
+La funzione “ Documenti Contabili per Stato ed Esito Controlli ”, a disposizione di tutti gli 
+utenti, consente di interrogare i documenti contabili inviati in relazione al loro stato e all’esito 
+dei controlli formali di validazione e di quadratura eseguiti su di essi in seguito alla 
+trasmissione. (Fig.32) 
+ 
+   
+ 
+ 
+ 
+Fig. 26 Interrogazioni Generalizzate-Documenti contabili per stato ed esito controlli 
+(1 di 3) 
+ 
+Per effettuare la ricerca devono essere obbligatoriamente inseriti l’esercizio, la fase e il 
+documento contabile: (Fig.32) 
+ 
+ 
+Fig. 32 Interrogazioni Generalizzate-Documenti contabili per stato ed esito controlli 
+(2 di 3) 
+ 
+  
+ 
+
+
+ 
+ 
+ 
+ 
+62 
+Alla pressione del pulsante RICERCA si ottiene una nuova pagina dove, oltre agli estremi 
+identificativi selezionati nello schermo precedente ed elencati nella parte alta dello schermo, 
+viene riportato l’elenco degli enti (per l’utente responsabile un solo ente) che rispondono ai 
+criteri scelti in precedenza con l’ultima versione dei relativi documenti contabili qualunque 
+sia stato l’esito dei controlli eseguiti. (Fig.32) 
+ 
+ 
+         Fig. 32 Interrogazioni Generalizzate- Documenti contabili per stato ed esito 
+controlli (3 di 3) 
+ 
+Se lo stato è Acquisito, il documento è protocollato e l’ente ha adempiuto ai suoi obblighi 
+di legge; se risulta NON Acquisito, il documento non è stato protocollato, l’ente non ha 
+adempiuto ai suoi obblighi di legge e deve procedere ad un nuovo invio. 
+L’esito dei controlli di validazione , quadratura e coerenza è reso esplicito dai seguenti 
+simboli:  
+ 
+➢ se l’esito è positivo 
+➢ se almeno uno dei processi di controllo è terminato in errore   
+➢ se almeno un processo è ancora in elaborazione. 
+ 
+Se almeno una delle procedure dei controlli è terminata con esito negativo, attivando 
+l’apposita icona funzionale è possibile verificare quali errori sono stati riscontrati. 
+(Fig.33) 
+ 
+     
+   Fig. 33 Interrogazioni Generalizzate-Documenti contabili per stato ed esito 
+controlli-visualizza esito controlli   
+ 
+  
+
+
+ 
+ 
+ 
+ 
+63 
+ 
+In particolare si distinguono due casi: 
+ 
+ERRORI FORMALI GENERICI.  
+Se il documento contabile si trova nello stato “Non Acquisito” e quindi non è stata superata 
+positivamente la fase dei controlli formali generici, la funzione prospetta una pagina dove, 
+oltre agli estremi identificativi del documento contabile (Esercizio, Fase, Documento 
+contabile, Stato Documento contabile, Data invio, Data e numero protocollo RGS, Esito 
+processo controlli, Codice Ente BDAP, Denominazione Ente) viene riportato un elenco degli 
+errori formali riscontrati costituito da: 
+• Identificativo, che individua univocamente l’errore rilevato 
+• Tipologia errore, che descrive l’errore riscontrato. 
+ 
+ERRORI FORMALI DI VALIDAZIONE E/O DI QUADRATURA.  
+ 
+Se il documento contabile si trova nello stato “Acquisito” e quindi è stata superata 
+positivamente la fase dei controlli formali di validazione e/o di quadratura, la funzione 
+prospetta una pagina dove, oltre agli estremi identificativi del documento contabile sono 
+presenti due Schede che espongono separatamente gli errori rilevati da una o entrambe le 
+procedure in oggetto. 
+A partire dal Consuntivo 2018, il mancato superamento dei controlli di validità e/o quadratura 
+non consente l’acquisizione del relativo documento contabile; la visualizzazione degli esiti 
+dei controlli di validità e quadratura si può avere quindi, sia per un documento del Consuntivo 
+2018 che si tr ova nello stato “Non Acquisito”, sia per un documento “Acquisito” relativo a 
+tutti gli altri esercizi/fasi. Il Consuntivo 2019 introduce la possibilità che alcuni di questi errori 
+non siano bloccanti ai fini dell’acquisizione del documento in oggetto. In o gni caso la 
+funzione prospetta una pagina dove, oltre agli estremi identificativi del documento contabile 
+(Esercizio, Fase, Documento contabile, Stato Documento contabile, Data invio, Data e 
+numero protocollo RGS, Esito processo controlli, Codice Ente BDAP, Denominazione Ente) 
+sono presenti due Schede che espongono separatamente gli errori rilevati da una o 
+entrambe le procedure asincrone in oggetto qualora ne fosse prevista l’esecuzione per il 
+documento contabile in esame 
+ 
+ERRORI FORMALI DI VALIDAZIONE:  
+la scheda contiene una pagina con tante sezioni espandibili all’esigenza, una per ogni 
+prospetto del documento contabile per il quale sono stati rilevati errori formali di validazione: 
+vicino al nome del prospetto contabile esaminato compare il numero tota le degli errori 
+rilevati. 
+Espandendo la sezione si apre un dettaglio che, per ogni errore riscontrato riporta: 
+• Termine di riferimento, ovvero il concetto XBRL che si assume come dato di 
+riferimento per i controlli in esame 
+• Controllo applicato, ovvero la regola che deve essere rispettata 
+• Dettaglio Errori, ovvero la visualizzazione dei valori che hanno generato l’errore. 
+ 
+ 
+ERRORI FORMALI DI QUADRATURA:  
+la scheda contiene una pagina con tante sezioni espandibili all’esigenza, una per ogni 
+prospetto del documento contabile per il quale sono stati rilevati errori di quadratura: vicino 
+al nome del prospetto contabile esaminato compare il numero totale degli errori rilevati. 
+Espandendo la sezione si apre un dettaglio che, per ogni errore riporta: 
+
+ 
+ 
+ 
+ 
+64 
+ 
+• Termine di riferimento, ovvero il concetto XBRL che si assume come dato di 
+riferimento per i controlli in esame 
+• Tipologia quadratura, orizzontale o verticale, ovvero la verifica dei dati derivanti da 
+algoritmi di calcolo (somme, differenze, rapporti, verifiche di capienza) eseguiti per 
+riga o per colonna, o algoritmi applicati solo in corrispondenza di alcune tipolo gie di 
+voci 
+• Controllo applicato, ovvero la regola che deve essere rispettata 
+• Dettaglio Errori, ovvero la visualizzazione dei valori che hanno generato l’errore 
+• Scostamento in valore assoluto dal valore atteso 
+• Scostamento in percentuale dal valore atteso. 
+ 
+ 
+ERRORI DI COERENZA:  
+La classe dei controlli in oggetto viene applicata a partire dal Consuntivo 2018 e dalla 
+Previsione 2021, sugli Schemi di bilancio che si trovano nello stato “Acquisito”. La scheda 
+contiene una pagina con diverse seguenti sezioni espandibili (Entrate, Spese, Economico 
+patrimoniale) cui vengono ricondotte tutte le voci per le quali si rilevano degli errori di 
+coerenza: vicino al nome della sezione esaminata compare il numero totale degli errori 
+rilevati.  
+ 
+ 
+La pagina che si apre attivando l’icona del dettaglio invio, contiene un riepilogo delle 
+informazioni specifiche del documento che è stato trasmesso per la versione che si sta 
+interrogando. (Fig.34) 
+ 
+ 
+ 
+Fig. 34 Interrogazioni Generalizzate-Documenti contabili per stato ed esito controlli 
+–Visualizza dettaglio (1 di 2) 
+ 
+Le informazioni suddette sono seguite da tre sezioni espandibili a piacere: la prima riporta 
+l’elenco delle procedure eseguite ed il loro esito, anche in questo caso esplicitato attraverso 
+i simboli e le relative descrizioni citati in precedenza; la seconda sezione riporta l’elenco 
+delle richieste d i nuovo invio che sono state eventualmente registrate per il documento 
+contabile interrogato, elencando per ciascuna il profilo e il nominativo dell’utente che l’ha 
+
+
+ 
+ 
+ 
+ 
+65 
+effettuata, la data della richiesta e la motivazione, la terza la cronologia della modifica dello 
+stato di approvazione. (Fig.34) 
+ 
+ 
+Fig. 34 Interrogazioni Generalizzate-Documenti contabili per stato ed esito controlli 
+–Visualizza dettaglio (2 di 2) 
+ 
+14. INTERROGAZIONI GENERALIZZATE: SCHEDA RIEPILOGATIVA ENTE 
+ 
+La funzione permette di visualizzare il riepilogo dei documenti contabili inviati da un 
+determinato ente nel corso degli esercizi rappresentando di fatto un fascicolo dell’ente. 
+I profili in relazione all’ente possono visualizzare solo i documenti di propria competenza per 
+gli altri profili è consentito indicare qualsiasi ente del territorio nazionale. (Fig.35) 
+ 
+ 
+ 
+Fig. 35 Interrogazioni Generalizzate-Scheda Riepilogativa ente (1 di 3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+66 
+La prima pagina contiene i seguenti filtri di ricerca: (Fig.35) 
+ 
+    
+ 
+ 
+    Fig. 35 Interrogazioni Generalizzate-Scheda Riepilogativa ente (2 di 3) 
+ 
+ 
+Alla pressione del pulsante RICERCA si ottiene una nuova pagina in cui, oltre agli estremi 
+identificativi precedentemente selezionati e riportati nella parte alta dello schermo, sono 
+visualizzate due sezioni: (Fig.35) 
+ 
+I SEZIONE: Scheda Riepilogativa- UTENTI 
+  
+Elenco utenti in cui vengono prospettate le informazioni anagrafiche relative all’utente 
+responsabile, all’utente invio e all’utente base dell’ente, questi ultimi se presenti.  
+Le informazioni riportano: 
+• Profilo 
+• Nominativo 
+• Codice fiscale 
+• Telefono 
+• E-mail 
+           
+ 
+Fig. 35 Interrogazioni Generalizzate-Scheda Riepilogativa ente (3 di 3) 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+67 
+II SEZIONE: Scheda Riepilogativa- DOCUMENTO CONTABILE/ ALLEGATO 
+ 
+Per ogni esercizio è presente una sezione espandibile con l’elenco di tutti i documenti 
+contabili e allegati dovuti, ai fini dell’adempienza, per ciascuna fase: per ogni documento 
+viene riportato l’elenco di tutte le versioni eventualmente trasmesse dall’ente (Fig.36) 
+ 
+Le informazioni riportano: 
+ 
+• Fase  
+• Documento contabile/Allegato  
+• Versione  
+• Data/ora invio  
+Data/ora trasmissione  
+• Numero protocollo  
+• Data protocollazione  
+• Stato approvazione  
+• Stato  
+• Esito controlli  
+ 
+ 
+ 
+Fig. 36 Interrogazioni Generalizzate-Scheda Riepilogativa ente (1 di 4) 
+ 
+ 
+In particolare nella colonna Esito controlli si rende esplicito l’esito suddetto con simboli: se 
+tutti i processi asincroni di controllo sono terminati con esito positivo, se almeno uno è 
+terminato in errore o è stato cancellato.  
+In corrispondenza di ciascun ente è consentito prendere visione del dettaglio degli esiti dei 
+controlli e delle richieste di nuovo invio 
+ 
+ 
+Le relative icone funzionali risultano abilitate solo in presenza di esiti negativi per i controlli  
+di errori non bloccanti ai fini dell’acquisizione  (Fig.36) e in presenza di richieste di nuovo 
+invio e l’interrogazione dei prospetti acquisiti. (Fig.36). 
+ 
+  
+
+
+ 
+ 
+ 
+ 
+68 
+       
+ 
+Fig. 36 Interrogazioni Generalizzate-Scheda Riepilogativa ente (2 di 4) 
+ 
+ 
+Attivando l’icona  si apre una ulteriore pagina che contiene l’elenco delle richieste di 
+nuovo invio effettuate per il documento contabile in oggetto. Per ciascuna richiesta viene 
+indicato  
+• • Richiedente (profilo e nominativo)  
+• • Data richiesta  
+• • Motivazione;  
+ 
+viene inoltre data la possibilità, di effettuare il download del file eventualmente allegato al 
+momento della richiesta. (Fig.36). 
+   
+Fig. 36 Interrogazioni Generalizzate-Scheda Riepilogativa-Visualizza Richieste 
+Nuovo invio (3 di 4) 
+Attivando   l’icona si apre una ulteriore pagina che contiene l’elenco dei prospetti che 
+compongono la versione del documento che si sta interrogando: la pagina propone la stessa 
+forma di interrogazione adottata per la funzione Interrogazione prospetti documenti 
+contabili. (Fig.36) 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+69 
+   
+ 
+       Fig. 36 Interrogazioni Generalizzate-Scheda Riepilogativa- Visualizza Prospetti 
+(4 di 4) 
+ 
+ 
+III SEZIONE: Scheda Riepilogativa- REPORT SINTETICO 
+ 
+La sezione, a partire dall’esercizio 2019 evidenzia, per ciascun esercizio e in formato 
+sintetico, il rispetto o meno dei termini di legge previsti per la trasmissione dei documenti 
+contabili dovuti per un esercizio e fase. (Fig.37) 
+ 
+Vengono mostrati:  
+ 
+• Fase 
+• Data Termine Approvazione 
+• Data Termine Invio 
+• Motivazione 
+• Stato invio 
+ 
+     
+             Fig. 37 Interrogazioni Generalizzate-Scheda Riepilogativa- Report Sintetico  
+ 
+ 
+Possono essere presenti più righe per una stessa Fase se per l’ente interrogato o per la 
+tipologia ente di appartenenza, esiste una eccezione alla data termine invio prevista per il 
+rispetto dei termini di legge: l’indicatore sintetico riporta il simbolo   se tutti i documenti 
+dovuti risultano trasmessi con uno stato di approvazione definitivo. La presenza del simbolo
+ indica invece che almeno un documento contabile non è ancora stato trasmesso oppure 
+
+
+ 
+ 
+ 
+ 
+70 
+ha uno stato di approvazione facoltativo, e risultano trascorsi i termini previsti per il rispetto 
+dei termini di legge o le eventuali eccezioni alle suddette date. 
+ 
+ 
+IV SEZIONE: Scheda Riepilogativa- SANZIONI 
+ 
+La sezione riporta a partire dall’esercizio 2019 e per ciascun anno, gli esiti dei controlli 
+eseguiti per l’applicazione delle sanzioni.  
+ 
+Sono presenti due ulteriori sezioni: 
+ 
+• SINTETICO: prospetta una informazione sintetica sulla qualità dei documenti 
+contabili eventualmente trasmessi dall’ente fra quelli dovuti per l’esercizio e le relative 
+fasi, impostando l’esito a KO se almeno per un quadro contabile non sono stati 
+superati i controlli di corret tezza e completezza previsti, oppure il documento non 
+risulta trasmesso entro la data di riferimento, o ancora risulti trasmesso con uno stato 
+di approvazione non valido ai fini dell’adempienza.  
+ 
+Per un documento che abbia superato tutti i controlli previsti viene evidenziato l’esito positivo 
+con OK: la sezione risulta vuota se tutti i documenti dovuti per tutte le fasi dell’esercizio che 
+l’ente ha regolarmente trasmesso hanno superato i controlli eseguiti. (Fig.38) 
+ 
+ 
+         
+       Fig. 38 Interrogazioni Generalizzate-Scheda Riepilogativa- Sanzioni-SINTETICO 
+(1 di 2) 
+ 
+ 
+L’elenco riporta, per ciascuna ente avente almeno un esito negativo o un documento 
+assente, tante righe quanti sono i documenti contabili previsti per la fase, per avere così una 
+informazione qualitativa sintetica su quanto è stato trasmesso o meno. (Fig.38) 
+ 
+Ciascuna riga riporta:  
+ 
+- Tipo ente  
+- Codice Bdap  
+
+
+ 
+ 
+ 
+ 
+71 
+- Denominazione Ente  
+- Ambito geografico  
+- Provincia  
+- Regione  
+- Comune  
+- Documento contabile  
+- Data/Ora invio  
+- Data/Ora trasmissione  
+- Data/Ora protocollazione  
+- Esito:  
+➢ KO:  
+✓ almeno un quadro del documento non ha superato i controlli previsti  
+✓ Il documento non è stato trasmesso  
+✓ Il documento è stato trasmesso con uno stato di approvazione non valido ai 
+fini dell’adempienza: in questo caso specifico l’esito è evidenziato con una 
+diversa colorazione e corredato di un messaggio esplicativo che si evidenzia 
+al passaggio del mouse  
+ 
+➢ OK: 
+ 
+✓ Il documento ha superato tutti i controlli previsti 
+ 
+         
+       Fig. 38 Interrogazioni Generalizzate-Scheda Riepilogativa- Sanzioni-SINTETICO 
+(2 di 2) 
+ 
+ 
+ 
+• ANALITICO: La sezione contiene l’elenco dei quadri contabili relativi ai documenti 
+trasmessi dall’ente per i quali è stato rilevato un esito negativo nei controlli effettuati 
+su almeno uno dei documenti dovuti: comprende quindi solo i quadri di ciascun 
+documento esaminato fra quelli dovuti per le diverse fasi e che hanno avuto esito KO 
+per i controlli applicati.  
+ 
+La sezione sarà vuota se tutti i controlli eseguiti hanno avuto esito positivo.  
+ 
+
+
+ 
+ 
+ 
+ 
+72 
+L’elenco dei quadri contabili per i quali viene esposto l’esito varia in base alla fase per la 
+quale è stata effettuata l’elaborazione. (Fig.39) 
+  
+Ciascuna riga dell’elenco riporta le seguenti informazioni:  
+ 
+✓  Tipo ente  
+✓  Codice Bdap  
+✓ Denominazione ente  
+✓ Area geografica  
+✓ Regione  
+✓ Provincia  
+✓ Comune  
+✓ Data upload  
+✓ Data trasmissione  
+✓ Data protocollazione  
+✓ Nome del quadro contabile nell’ambito del documento contabile  
+✓ Esito  
+ 
+          
+       Fig. 39 Interrogazioni Generalizzate-Scheda Riepilogativa- Sanzioni-ANALITICO 
+ 
+ 
+ 
+V SEZIONE: Scheda Riepilogativa- COMUNICAZIONI 
+ 
+La sezione riporta tutte le comunicazioni attive e archiviate, che esistono fra 
+l’amministrazione e l’ente se a interrogare è un utente con profilo IGEPA, CDCAS, 
+CDCASR, CDCASE, tutte le comunicazioni riguardanti l’ente se a interrogare è un utente 
+con profilo Ente Responsabile e Ente invio. (Fig.40) 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+73 
+ 
+      Fig. 40 Interrogazioni Generalizzate-Scheda Riepilogativa- Comunicazioni 
+ 
+Per ciascun esercizio viene visualizzato l’elenco delle comunicazioni riportando:  
+ 
+✓ Data (è la data dell’ultimo messaggio che ha aggiornato la 
+comunicazione)  
+✓ Mittente (è l’amministrazione che ha iniziato la comunicazione)  
+✓ Destinatario (è l’ente interessato)  
+✓ Provincia  
+✓ Regione  
+✓ Esercizio  
+✓ Fase  
+✓ Documento contabile/allegato  
+ 
+Per ogni comunicazione è possibile conoscere tramite la lente di ingrandimento l’elenco 
+dei messaggi con le stesse modalità previste dalla funzione Interrogazione Comunicazioni. 
+ 
+VI SEZIONE: Scheda Riepilogativa- SOLLECITI 
+ 
+La sezione riporta, per ogni esercizio, i solleciti eventualmente effettuati per l’ente per uno 
+o più documenti contabili. (Fig.41) 
+L’elenco riporta:  
+ 
+✓ Fase  
+✓ Documento contabile  
+✓ Progressivo  
+✓ Data sollecito  
+ 
+ 
+   Fig. 41 Interrogazioni Generalizzate-Scheda Riepilogativa- Solleciti 
+
+
+ 
+ 
+ 
+ 
+74 
+ 
+È possibile interrogare il dettaglio di ciascun sollecito con l’apposita icona per conoscere 
+il richiedente e la motivazione. 
+ 
+15. INTERROGAZIONI GENERALIZZATE- INTERROGAZIONE 
+CANCELLAZIONE DOCUMENTI CONTABILI 
+ 
+La funzione, a disposizione di tutti gli utenti consente di interrogare l’iter per la cancellazione 
+dei documenti contabili e allegati in tutte le sue fasi, fino al completamento con la 
+cancellazione del documento oggetto dell’iter. (Fig.42) 
+ 
+ 
+Fig. 42 Interrogazioni Generalizzate-Interrogazione cancellazione documenti contabili 
+(1 di 3) 
+ 
+ 
+Prima di descrivere le modalità operative della funzione si indica il comportamento che essa 
+assume quando si utilizzano pulsanti o icone comuni a più pagine della funzione stessa: 
+ Il pulsante produce il file Excel con i dati prospettati nella pagina riportando le stesse 
+informazioni contenute nello schermo, i parametri di ricerca selezionati e specificando la 
+data/ora dell’estrazione. 
+ La prima pagina contiene l’elenco delle richieste di autorizzazione alla cancellazione ancora 
+da esaminare o che sono già state esaminate dal competente Ufficio del MEF RGS IGEPA, 
+che si sono già concluse con la cancellazione del documento o che sono stat e rifiutate 
+dall’Ufficio suddetto.  
+La pagina contiene le colonne:  
+• Codice Ente BDAP, codice dell’Ente per il quale esiste un iter di cancellazione aperto  
+• Denominazione Ente  
+• Documento contabile/allegato, tipologia del documento contabile o allegato per il quale 
+esiste un iter di cancellazione aperto  
+• Esercizio, esercizio di riferimento del documento contabile o allegato per il quale esiste un 
+iter di cancellazione aperto  
+• Fase, fase di riferimento del documento contabile o allegato per il quale esiste un iter di 
+cancellazione aperto  
+• Data/ora richiesta cancellazione, data e ora in cui è stato iniziato l’iter di cancellazione per 
+iniziativa dell’Ente o del competente ufficio del MEF RGS IGEPA  
+• Data/ora cancellazione, data e ora in cui è stata effettuata la cancellazione, non impostata 
+per gli iter ancora in corso.  
+• Stato Iter, indica la condizione in cui si trova l’iter di cancellazione: può assumere i valori: 
+
+
+ 
+ 
+ 
+ 
+75 
+➢ DA ESAMINARE, se l’Ufficio competente del MEF RGS IGEPA non ha ancora 
+espresso il proprio parere in merito alla richiesta di autorizzazione alla cancellazione 
+o alla revoca di una richiesta di autorizzazione avanzate dall’Ente indicato nella riga: 
+l’iter è quindi ancora in corso  
+➢ AUTORIZZATO, se l’Ufficio ha concesso l’autorizzazione:  
+▪ L’iter è concluso se è presente anche la data di cancellazione del documento  
+▪ L’iter è ancora in corso se la data cancellazione non è presente.  
+➢ NON AUTORIZZATO se l’Ufficio non ha autorizzato la cancellazione 
+➢ REVOCATO, se l’Ente ha effettuato la revoca della richiesta di autorizzazione alla 
+cancellazione precedentemente inoltrata, l’Ufficio ha accettato la revoca: anche in 
+questo caso l’iter si ritiene concluso.  
+ 
+Fig. 42 Interrogazioni Generalizzate-Interrogazione cancellazione documenti contabili 
+(2 di 3) 
+ 
+Ogni riga contiene l’icona funzionale che consente di conoscere il dettaglio delle motivazioni 
+indicate dall’Ente nelle proprie richieste e dall’Ufficio del MEF RGS IGEPA nelle proprie 
+valutazioni.  
+La prima pagina contiene anche una sezione con i seguenti filtri di ricerca che consentono 
+di selezionare solo una parte delle righe di dettaglio elencate nella sezione sottostante: 
+ • Esercizio, selezionabile da una combo -box precaricata con gli esercizi in gestione non 
+chiusi  
+• Fase, selezionabile da una combo -box precaricata con le descrizioni delle fasi contabili 
+aperte (Preventivo, Consuntivo, Consolidato).  
+• Documento contabile/allegato, selezionabile da una combo -box precaricata con le 
+descrizioni dei documenti contabili e allegati associati alla fase indicata.  
+È possibile selezionare un valore solo in presenza di esercizio e fase  
+• Codice Ente BDAP, casella di testo che consente di inserire il codice BDAP dell’Ente; è 
+obbligatorio se non viene immessa la Denominazione Ente  
+• Denominazione Ente, casella di testo editabile contenente la denominazione dell’Ente 
+autocomponibile: digitando parte della denominazione vengono mostrati tutti gli enti la cui 
+denominazione contiene la parte di testo inserita; è obbligatorio inserire la  denominazione 
+se non è stato immesso il codice Ente BDAP.  
+Una volta individuato l’Ente grazie alla funzione di autocompletamento, viene visualizzata la 
+denominazione completa dell’Ente.  
+• Data trasmissione da: a: date selezionabili da funzione calendario per restringere la ricerca 
+ai documenti trasmessi in un determinato intervallo temporale  
+• Data richiesta cancellazione da: a: selezionabili da funzione calendario per restringere la 
+ricerca agli iter aperti in un determinato intervallo temporale. 
+ 
+
+
+ 
+ 
+ 
+ 
+76 
+Alla pressione dell’icona funzionale  si apre una nuova pagina che si compone di una 
+sola sezione se l’Ente ha effettuato una richiesta di autorizzazione alla cancellazione: in 
+questo caso è presente solo la sezione Gestione autorizzazione cancellazione.  
+Se invece l’Ente, dopo aver richiesto l’autorizzazione alla cancellazione per quel documento, 
+ha deciso di tornare indietro nella operazione per cui ha effettuato una revoca della richiesta 
+di autorizzazione alla cancellazione richiesta in precedenza, è pr esente anche la sezione 
+Gestione revoca richiesta cancellazione 
+ 
+ 
+Fig. 42 Interrogazioni Generalizzate-Interrogazione cancellazione documenti contabili 
+(3 di 3) 
+. 
+ 
+16. COMUNICAZIONI: GESTIONE COMUNICAZIONI 
+ 
+La sezione consente di accedere alla gestione delle comunicazioni che possono intercorrere 
+fra IGEPA e/o Corte dei conti e un Ente.  
+ 
+All’utente registrato con profilo ente abilitato all’invio  o ente responsabile viene indicato il 
+numero delle comunicazioni aperte da IGEPA o Corte dei conti nei confronti dell’Ente di 
+propria pertinenza che sono in attesa di risposta. (Fig.43). 
+ 
+ 
+   
+ 
+Fig. 43 COMUNICAZIONI-GESTIONE COMUNICAZIONI (1 di 5) 
+
+
+ 
+ 
+ 
+ 
+77 
+ 
+Cliccando la sezione Comunicazioni il sistema prospetta la sezione con l’elenco delle 
+comunicazioni ATTIVE cioè le comunicazioni avviate da IGEPA e/o da Corte dei conti; una 
+seconda sezione consente, in alternativa, di accedere alla sezione delle comunicazioni 
+ARCHIVIATE (Fig.43). 
+ 
+L’elenco delle conversazioni attive riporta (Fig.43): 
+ 
+• Data di invio della prima comunicazione, da parte di IGEPA o Cdc, che ha dato inizio 
+alla conversazione 
+• Mittente (IGEPA, Cdc) 
+• Destinatario (l’ente interessato) 
+• Provincia di appartenenza dell’ente 
+• Regione di appartenenza dell’ente 
+• Esercizio  
+• Fase 
+• Documento contabile oggetto del quesito posto dall’amministrazione valorizzato solo 
+in caso di comunicazioni puntuali riguardanti uno specifico documento contabile 
+ 
+ 
+ 
+L’utente con profilo “ente abilitato all’invio” e “responsabile” vede un elenco di conversazioni 
+fra tutti i possibili mittenti e, come unico destinatario, l’ente di propria pertinenza. 
+ 
+ 
+ 
+Fig. 43 COMUNICAZIONI-GESTIONE COMUNICAZIONI ATTIVE (2 di 5) 
+ 
+ 
+La funzione consente di visualizzare l’elenco dei messaggi di una. Alla pressione dell’icona 
+si apre una nuova pagina che riporta nell’intestazione i seguenti campi: 
+ 
+• Mittente 
+• Destinatario 
+• Esercizio 
+• Fase 
+
+
+ 
+ 
+ 
+ 
+78 
+• Documento contabile/Allegato ove presente 
+ 
+Ad ogni conversazione è associata una serie di icone che attivano o meno delle funzioni a 
+seconda della fase in cui si trova la conversazione stessa e al profilo con cui è stato 
+effettuato l’accesso: (Fig.44) 
+ 
+     
+                Fig. 44 COMUNICAZIONI-GESTIONE COMUNICAZIONI ATTIVE (3 di 5) 
+ 
+Segue l’elenco dei messaggi inviati fra il mittente e il destinatario della 
+conversazione per l’esercizio, la fase indicati e l’eventuale documento 
+contabile/allegato; allineati alla destra dello schermo compaiono sempre i 
+messaggi inseriti da chi sta leggendo la conversazione; allineati alla sinistra 
+dello schermo compaiono invece i messaggi diretti a chi sta leggendo. 
+I messaggi sono suddivisi in base alla data di invio. Ciascun messaggio è 
+caratterizzato da: 
+• Ora di invio 
+• Amministrazione Mittente 
+o Nome e Cognome dell’utente IGEPA che ha inviato il messaggio 
+(visibile solo per gli utenti IGEPA) 
+o Indicazione di messaggio inviato automaticamente se il testo è frutto 
+di elaborazioni effettuate fuori linea del sistema 
+• oppure  se il messaggio è stato letto o meno dal 
+destinatario del messaggio stesso; 
+• : quando il testo del messaggio è particolarmente lungo ne viene 
+mostrata solo la parte iniziale. Cliccando su “Leggi di più” si espande il 
+messaggio per mostrare tutto il contenuto. Con   si riporta il 
+messaggio alla versione breve 
+Nella pagina sono presenti alcune facilitazioni che permettono di effettuare 
+ricerche, anche all’interno di conversazioni molto lunghe. 
+  
+
+
+ 
+ 
+ 
+ 
+79 
+L’interruttore, posto per default nella posizione “non attivo”, permette di 
+espandere i messaggi della pagina in modo che sia mostrato per tutti il testo 
+integrale: in sostanza si applica contemporaneamente a tutti i messaggi della 
+pagina la funzione svolt a da Riportando il selettore nella posizione 
+iniziale tutti i messaggi vengono ricondotti alle dimensioni ridotte. 
+ 
+L’interruttore consente di eliminare dalla visualizzazione, se disattivato, tutti i 
+messaggi scritti dal destinatario della comunicazione, ovvero i messaggi scritti 
+dall’Ente. 
+ 
+L’interruttore consente di eliminare dalla visualizzazione, se disattivato, tutti i 
+messaggi scritti dal mittente della comunicazione, ovvero l’Amministrazione. 
+Entrambi i selettori appena illustrati sono posti per default nella posizione 
+“Attivo”, poiché la pagina contiene i messaggi di entrambi gli interlocutori. 
+ 
+L’interruttore, posto per default nella posizione “non attivo”, permette, se 
+attivato, di mostrare solo i messaggi della comunicazione che contengono un 
+allegato 
+ 
+Inserendo un testo nello spazio predisposto, vengono mostrati nella pagina 
+SOLO i messaggi che contengono il testo indicato nel corpo del messaggio, o 
+nell’oggetto, nel mittente del messaggio e così via. Eliminando il testo nella 
+ricerca si riporta la pagina alla visualizzazione completa. 
+La funzione di visualizzazione è sempre disponibile, anche per le 
+conversazioni archiviate. 
+La pagina si chiude utilizzando il tasto  in alto a destra dello schermo 
+All’interno della pagina di Visualizza Comunicazione è presente il tasto  che, 
+se premuto, apre una ulteriore sezione in cui è possibile inserire. 
+• Oggetto: facoltativo, consente di inserire in formato testo libero, 
+l’argomento del messaggio che si vuole inserire 
+• Testo del messaggio, obbligatorio, consente in formato testo libero di 
+scrivere il messaggio rivolto al proprio interlocutore 
+• Allegato, facoltativo. Tramite il pulsante SFOGLIA, è consentito il 
+caricamento di un file da trasmettere. I file devono avere estensione .pdf, 
+.doc, .docx, .xls, .xlsx, .pdf, .p7m e non devono superare i 12 MB 
+
+
+ 
+ 
+ 
+ 
+80 
+Alla pressione del pulsante INVIA, vengono registrati i campi inseriti, il messaggio 
+è aggiunto alla conversazione attiva e la funzione riporta l’utente nella pagina 
+iniziale con l’elenco delle comunicazioni attive. (Fig.44) 
+  
+ 
+Fig. 44 COMUNICAZIONI-GESTIONE COMUNICAZIONI ATTIVE (4 di 5) 
+ 
+Se una volta aperta la pagina per l’inserimento di un nuovo messaggio non si 
+intende proseguire con il vero è proprio invio, si può tornare alla pagina di 
+visualizzazione della comunicazione premendo il pulsante  (Fig.44) 
+ 
+ 
+ 
+Fig. 44 COMUNICAZIONI-GESTIONE COMUNICAZIONI ATTIVE (5 di 5) 
+ 
+ 
+Se una comunicazione viene eliminata il destinatario interessato  accedendo 
+all’applicazione, viene informato della avvenuta cancellazione con un apposito messaggio 
+nella sezione COMUNICAZIONI della pagina iniziale. 
+ 
+Accanto alla scheda delle conversazioni attive è presente la scheda delle conversazioni 
+archiviate dove, come specificato prima, è possibile continuare a consultare conversazioni 
+
+
+ 
+ 
+ 
+ 
+81 
+dichiarate concluse dall’amministrazione interessata attraverso la lente di ingrandimento 
+.(Fig.45) 
+ 
+Fig. 45 COMUNICAZIONI-GESTIONE COMUNICAZIONI-ARCHIVIATE 
+ 
+ 
+ 
+L’utente registrato con profilo di responsabile dell’ente riceve una mail che lo informa della 
+presenza nell’applicazione Bilanci armonizzati, di un nuovo messaggio  a lui rivolt o 
+riguardante un esercizio e una fase. 
+Accedendo all’applicazione Bilanci armonizzati l’utente potrà visualizzare  nella pagina 
+iniziale, il numero delle comunicazioni a lui rivolte e in attesa di risposta , incrementato di 
+uno. 
+ 
+Accedendo alla Sezione COMUNICAZIONI, a fronte del la nuova comunicazione da parte  
+dall’amministrazione, l’utente troverà colorata di giallo l’icona   nella comunicazione in 
+cui è presente un messaggio in attesa di risposta: se l’ente apre la conversazione e legge il 
+quesito appena formulato, la comunicazione risulterà “ letta” dal destinatario e come tale 
+sarà evidenziata all’amministrazione mittente non appena a sua volta accederà alla 
+conversazione avviata. 
+ 
+La pagina con l’elenco delle conversazioni contiene la scheda di quelle attive e di quelle 
+archiviate.  
+Una nuova conversazione può essere iniziata solo da utenti con profilo IGEPA o Corte 
+dei conti (AS-ASR).  
+ 
+  
+
+
+ 
+ 
+ 
+ 
+82 
+17. COMUNICAZIONI: INTERROGAZIONI COMUNICAZIONI 
+ 
+La nuova funzione, attraverso una opportuna ricerca, consente di ottenere l’elenco di tutte 
+le conversazioni presenti nel sistema (attive e archiviate), in base al profilo dell’utente che 
+ha effettuato l’accesso al sistema (Fig.46). 
+ 
+La prima pagina della funzione  “Interrogazioni Comunicazioni ” consente di ricercare le 
+comunicazioni tramite i seguenti parametri di ricerca , alcuni dei quali facoltativi altri 
+obbligatori: 
+ 
+- Esercizio  
+- Fase  
+- Documento contabile  
+- Ambito geografico   
+- Regione  
+- Provincia  
+- Ente Mittente   
+- Ente Destinatario 
+- Testo all’interno dei messaggi: editabile in formato testo libero consente di 
+ottenere la lista delle comunicazioni in cui almeno un messaggio contiene il testo 
+richiesto;  
+- Stato messaggi, facoltativo e selezionabile da una combo -box in multiselezione, 
+consente di ottenere l’elenco delle comunicazioni con messaggi:  
+• Non letti dal destinatario  
+• Letti dal destinatario con risposta  
+• Letti dal destinatario senza risposta  
+- Data ultimo messaggio Da: A: facoltativo, tramite visualizzazione del calendario 
+permette di ricercare le comunicazioni nelle quali l’ultimo messaggio è stato scritto 
+in un determinato intervallo temporale;  
+- Stato comunicazione, facoltativo, consente di ricercare le comunicazioni in base 
+allo stato Attive/Archiviate.  
+ 
+ 
+ 
+ 
+Fig. 46 COMUNICAZIONI-INTERROGAZIONI COMUNICAZIONI (1 di3) 
+ 
+
+
+ 
+ 
+ 
+ 
+83 
+Alla pressione del pulsante RICERCA la funzione verifica la presenza di comunicazioni che 
+rispondono ai parametri impostati e riportati nella parte alta dello schermo, e prospetta 
+l’elenco delle comunicazioni. (Fig.47) 
+ 
+Per ciascuna riga si riporta:  
+ 
+• Data aggiornamento: è la data in cui è stata effettuata l’ultima operazione nella 
+comunicazione  
+• Mittente  
+• Destinatario  
+• Provincia  
+• Regione  
+• Argomento  
+• Oggetto  
+• Esercizio  
+• Fase  
+• Documento contabile/Allegato  
+• Visualizza Comunicazione   
+ 
+   
+             Fig. 47 COMUNICAZIONI-INTERROGAZIONI COMUNICAZIONI (2 di 3) 
+ 
+L’icona    consente di visualizzare il contenuto di una  conversazione, ossia a ttivando 
+l’icona si apre una nuova finestra che contiene l’elenco dei messaggi intercorsi fra il mittente 
+e il destinatario nell’ambito della comunicazione selezionata. (Fig.47) 
+ 
+   
+             Fig. 47 COMUNICAZIONI-INTERROGAZIONI COMUNICAZIONI (3 di 3) 
+
+
+ 
+ 
+ 
+ 
+84 
+18. DELIBERE 
+La nuova funzione “DELIBERE” prevede la trasmissione delle delibere inerenti l’adozione o 
+meno della contabilità economico patrimoniale e la facoltà di redigere il bilancio consolidato. 
+(Fig.48) 
+ 
+Fig. 48 DELIBERE 
+ 
+Nella funzione DELIBERE, gli Enti avranno la possibilità di scegliere tra le seguenti voci 
+proposte dal menu: (Fig.49) 
+ 
+18.1 Trasmissione delibera artt. 232 e 233 del TUEL (dedicata ai soli 
+Comuni) 
+La funzione consente di effettuare le seguenti operazioni: 
+• Invio del la delibera concernente l’esercizio della facoltà di non tenere la 
+contabilità economico patrimoniale (art. 232, comma 2, del TUEL).  
+Tali delibere produrranno i loro effetti, sulla trasmissione dei documenti dovuti 
+alla BDAP, a partire dall’esercizio 2020 anche se emanate dagli enti in esercizi 
+precedenti. I Comuni che avranno provveduto all’invio di tale delibera dovranno 
+trasmettere gli Schemi di Bilancio del Rendiconto comprensivi dello stato 
+patrimoniale ma senza il Conto Economico e l’allegato H dei costi per missione, 
+i dati contabili analitici (DCA) finanziari ma non anche i DCA economici e 
+patrimoniali.;  Con l’invio della suddetta delibera inoltre, dichiarando l’assenza 
+della contabilità economico patrimoniale , i Comuni saranno considerati 
+implicitamente esenti dall’invio del bilancio consolidato ; non sarà p ertanto 
+necessario inviare ulteriori comunicazioni in merito, né la delibera inerente la 
+facoltà di non predisporre il bilancio consolidato. 
+ 
+ 
+• Invio dell a delibera concernente la decisione di adottare la contabilità 
+economico patrimoniale di cui all’art. 232, comma 1, del TUEL.  
+Anche per l’invio di questa delibera, sarà necessario dichiarare l’esercizio di 
+riferimento a partire dal quale verrà resa operativa.  La trasmissione di tale 
+delibera, successiva all’invio di una delibera di cui all’art. 232, comma 2, del 
+TUEL, riporterà il Comune autore dell’invio, alla condizione iniziale di ente in 
+contabilità economico patrimoniale, per la quale è prevista la trasmissione degli 
+Schemi di Bilancio del Rendiconto comprensivi dello stato patrimoniale, del 
+
+
+ 
+ 
+ 
+ 
+85 
+Conto Economico e dell’allegato H dei costi per missione, dei  dati contabili 
+analitici (DCA) finanziari , economici e patrimoniali , la redazione del  bilancio 
+consolidato. Il Comune, qualora voglia comunque esercitare la facoltà di non 
+predisporre il bilancio consolidato , dovrà trasmettere la delibera di cui all’art . 
+233-bis, comma 3, del TUEL o la delibera annuale di dichiarazione di assenza 
+dell’obbligo di redazione del bilancio consolidato. 
+ 
+ 
+• Invio del la delibera concernente l’esercizio della facoltà di non predisporre il 
+bilancio consolidato (art. dall’art. 233-bis, comma 3, del TUEL).  
+Il Comune dovrà dichiarare l’esercizio di inizio della validità  della delibera, a 
+partire dal 2020. La delibera sarà valida per tutti gli esercizi finanziari successivi 
+a quello selezionato : l’ente sarà inserito nell’elenco dei comuni non tenuti 
+all’invio del bilancio consolidato alla BDAP  fino a quando, con la trasmissione 
+di un bilancio consolidato , farà decadere la validità della delibera  stessa 
+tornando nella condizione di ente tenuto all’invio del bilancio consolidato . Nel 
+caso il Comune  abbia già  provveduto a trasmettere la delibera concernente 
+l’esercizio della facoltà di non tenere la contabilità economico patrimoniale (art. 
+232, comma 2, del TUEL ), per il sistema sarà già ritenuto  esonerato dall’invio 
+del consolidato; in questo caso  la trasmissione della delibera sarà inibita 
+mostrando un messaggio esplicativo.  
+ 
+ 
+ 
+    Fig. 49 GESTIONE DELIBERE -TRASMISSIONI DELIBERE artt. 232 e 233 del TUEL 
+Ogni operazione di invio terminerà con la protocollazione del docume nto trasmesso, al 
+termine della quale verrà inviata una e-mail di conferma con numero e data del protocollo 
+assegnati. 
+A seguito dell'invio della delibera dopo avere verificato che la delibera sia stata acquisita 
+dalla BDAP, è necessario ritrasmettere l'istanza xbrl del rendiconto. 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+86 
+18.2 TRASMISSIONE DELIBERA ESENZIONE CONSOLIDATO 
+La funzione  trasmissione delibera esenzione consolidato , seconda voce  nel menu 
+GESTIONE DELIBERE, non ha restrizioni riguardo la tipologia  di ente: è a disposizione di 
+tutti gli enti di province, comuni, città metropolitane, regioni. Consentirà la trasmissione della 
+delibera di esenzione a tutti  quegli enti che intenderanno avvalersi della facoltà di non 
+redigere il bilancio consolidato. (Fig.50) 
+ 
+Fig.50 GESTIONE DELIBERE -TRASMISSIONI DELIBERE ESENZIONE CONSOLIDATO 
+Le delibere trasmesse con questa funzione saranno valide per il solo esercizio finanziario 
+indicato. (Fig.51) 
+ 
+Fig.51 TRASMISSIONI DELIBERE ESENZIONE CONSOLIDATO 
+ 
+Anche in questo caso, ogni operazione di invio  si concluderà  con la protocol lazione del 
+documento trasmesso  e con l’invio di  una e-mail di conferma con numero e data del 
+protocollo assegnati. 
+ 
+ 
+18.3 Interrogazioni delibere trasmesse 
+La funzione consente di interrogare le delibere trasmesse dagli enti che intendono o meno 
+adottare la contabilità economico patrimoniale e/o avvalersi della facoltà di non trasmettere 
+il bilancio consolidato. (Fig.52) 
+
+
+ 
+ 
+ 
+ 
+87 
+Per gli esercizi  antecedenti il 2020, saranno interrogabili solo le delibere trasmesse negli 
+anni precedenti dagli enti che si avvalevano della facoltà di non redigere il bilancio 
+consolidato per l’esercizio selezionato. 
+ 
+                Fig.52 INTERROGAZIONE DELIBERE TRASMESSE 
+ 
+Sono a disposizione vari filtri di ricerca per restringere l’indagine; ad esempio, la funzione 
+consente di selezionare la delibera di interesse: in questo caso la funzione mostrerà l’elenco 
+degli enti che hanno trasmesso almeno una delibera della tipologia richiesta. Sarà possibile 
+visualizzare quanto trasmesso attraverso l’icona  “Visualizza delibere Inviate”.(Fig.53) 
+Fig.53 INTERROGAZIONE DELIBERE TRASMESSE-VISUALIZZA DELIBERE INVIATE 
+La funzione prospetterà in base ai filtri applicati, l’elenco di tutte le delibere trasmesse nel 
+tempo dall’ente, comprese quelle della tipologia eventualmente selezionata nello schermo 
+iniziale, la data sostituzione allegato e il nome utente di chi ha effettuato l’operazione. 
+ 
+Attraverso la funzione di “Stampa ricevuta” sarà data la possibilità di stampare la ricevuta 
+prodotta a seguito della protocollazione della delibera trasmessa. (Fig.54) 
+
+
+ 
+ 
+ 
+ 
+88 
+ 
+Fig.44 INTERROGAZIONE DELIBERE TRASMESSE-VISUALIZZA DELIBERE INVIATE 
+Sarà possibile effettuare il download del documento trasmesso in allegato, con l’apposita 
+icona funzionale . 
+Attraverso l’icona  verrà visualizzato il dato della popolazione presente nella base dati 
+anagrafica degli enti per tutti gli esercizi disponibili. (Fig.55) 
+Fig.55 INTERROGAZIONE DELIBERE TRASMESSE- VISUALIZZA POPOLAZIONE 
+ENTE NEGLI (1 di 2) 
+La funzione mostrerà in formato tabellare, il dato della popolazione noto per il relativo anno. 
+(Fig.55) 
+ 
+Fig.55 INTERROGAZIONE DELIBERE TRASMESSE-VISUALIZZA POPOLAZIONE 
+ENTE NEGLI ENTI (dettaglio) (2 di 2) 
+ 
+
+
+ 
+ 
+ 
+ 
+89 
+ 
+18.4 Gestione Delibere (a disposizione per tutti gli enti Territoriali) 
+ 
+La funzione permette agli utenti con profili “Utente invio” e “Utente Responsabile” degli Enti 
+di modificare il file allegato al momento della trasmissione della delibera. 
+ 
+Prima di descrivere le modalità operative della funzione si indica il comportamento che essa 
+assume quando si utilizzano pulsanti o icone comuni a più pagine della funzione stessa:  
+✓ Il pulsante PULISCI consente di ripulire i campi da eventuali dati immessi dall’utente  
+✓ Il pulsante AVANTI consente di procedere con la funzione  
+ 
+Di seguito la schermata della funzione gestione delibere: 
+ 
+        
+ 
+Fig.56 DELIBERE- GESTIONE DELIBERE (1 di 7 
+ 
+Nella funzione gli enti dovranno inserire obbligatoriamente l’esercizio inizio validità delle 
+delibere, e facoltativamente i seguenti parametri: 
+ 
+• Tipo delibera, facoltativo e selezionabile da una combo -box contenente la lista delle 
+tipologie di delibere che è possibile modificare:  
+a) Delibera di dichiarazione di assenza dell'obbligo di redazione del bilancio consolidato  
+b) la delibera concernente la decisione di adottare la contabilità economico patrimoniale di 
+cui all’art. 232, comma 1, del TUEL  
+c) la delibera di giunta concernente l’esercizio della facoltà di non tenere la contabilità 
+economico patrimoniale (art. 232, comma 2, del TUEL)  
+d) la delibera concernente l’esercizio della facoltà di non predisporre il bilancio consolidato 
+(art. dall’art. 233-bis, comma 3, del TUEL)  
+ 
+•Numero delibera, facoltativo, permette di ricercare puntualmente la delibera che si vuole 
+modificare  
+• Data delibera, facoltativo, permette di ricercare la delibera da modificare in base alla data 
+di emanazione  
+
+
+ 
+ 
+ 
+ 
+90 
+• Ambito geografico, preimpostato con la zona geografica di appartenenza  
+• Regione, preimpostato con la regione di appartenenza  
+• Provincia, preimpostato con la provincia di appartenenza dell’ente per i profili  
+• Codice Ente BDAP e Denominazione ente preimpostato 
+   
+Alla pressione del pulsante AVANTI la funzione propone una pagina di risposta con l’elenco 
+delle delibere risultanti in base ai criteri selettivi impostati.  
+ 
+ 
+ Fig.46 DELIBERE- GESTIONE DELIBERE (2 di 7) 
+ 
+Per ciascuna delibera è possibile effettuare il download  del documento allegato presente 
+nella base dati per consentire le opportune verifiche prima di procedere alla eventuale 
+sostituzione dell’allegato stesso. 
+Alla pressione dell’icona si apre una nuova finestra in cui si può selezionare, dalla propria 
+postazione di lavoro, il nuovo documento da allegare alla delibera scelta. La modifica 
+dell’allegato non necessita di una nuova protocollazione della delibera, viene impostata la 
+data corrente come data di sostituzione dell’allegato e memorizzato, come allegato alla 
+delibera precedentemente trasmessa, solo l’ultimo documento appena inviato al sistema. 
+Gestione cancellazione delibera , che attiva le operazioni relative alla ‘Gestione 
+cancellazione delibera’ 
+ 
+ 
+ 
+Fig.46 DELIBERE- GESTIONE DELIBERE-  Modifica allegato della Delibera (3 di 7) 
+ 
+
+
+ 
+ 
+ 
+ 
+91 
+La funzione  consente di iniziare l’iter per la cancellazione della delibera richiesta nello 
+schermo iniziale. 
+ 
+ 
+Fig.46 DELIBERE- GESTIONE DELIBERE- Richiesta di cancellazione Delibere (4 di 7) 
+ 
+Premendo l’icona si apre una pagina in cui è obbligatorio inserire:  
+• La motivazione per la quale è necessario cancellare il documento contabile  
+• Un recapito telefonico che il competente ufficio del MEF RGS IGEPA può utilizzare per 
+chiedere chiarimenti in merito alla richiesta avanzata.  
+La funzione consente inoltre di allegare un file a sostegno della motivazione espressa.  
+ 
+Fig.46 DELIBERE- GESTIONE DELIBERE- Richiesta di cancellazione Delibere (5 di 7) 
+ 
+Al termine dell’operazione la funzione apre l’iter per la cancellazione della delibera, mostra 
+nella pagina i valori appena inseriti dall’Ente per la richiesta effettuata, avvisa con una mail 
+l’ufficio competente del MEF RGS IGEPA che deve esprimere il pro prio parere. Se il 
+suddetto ufficio accetta la richiesta avanzata, l’Ente riceve una mail di conferma che lo invita 
+a procedere con la cancellazione della delibera: accedendo nuovamente alla BDAP con 
+l’utenza assegnata, utilizzando la funzione “Gestione cancellazione delibera” può verificare 
+
+
+ 
+ 
+ 
+ 
+92 
+la Motivazione espressa in fase di autorizzazione alla cancellazione e effettuare il download 
+del documento eventualmente allegato dall’ufficio tramite l’icona  . Nella stessa pagina 
+è ora attiva l’icona per la cancellazione della delibera. In caso contrario, se quindi l’ufficio 
+suddetto nega il consenso alla cancellazione, l’Ente riceve una mail informativa, l’iter si 
+ritiene automaticamente concluso con il rige tto della richiesta inoltrata dall’Ente che potrà 
+conoscere il motivo di tale rifiuto accedendo con l’utenza assegnata alla BDAP, utilizzando 
+la funzione “Delibere > Interrogazione cancellazione delibere”. 
+ 
+Fig.46 DELIBERE- GESTIONE DELIBERE- Richiesta di cancellazione delibere (6 di7) 
+L’icona  prospetta l’elenco dei documenti che verrebbero cancellati a seguito della 
+cancellazione della delibera, sono i documenti legati alla delibera che l’ufficio competente 
+del MEF RGS IGEPA ha selezionato da cancellare all’atto dell’autorizzazione alla richie sta 
+di cancellazione da parte dell’Ente.  
+ 
+Fig.46 DELIBERE- GESTIONE DELIBERE- Richiesta di cancellazione delibere (7 di 7) 
+ 
+
+
+ 
+ 
+ 
+ 
+93 
+Premendo l’icona ,  attiva solo se ci sono documenti correlati alla delibera, si apre la 
+pagina ‘Elenco documenti che verranno eliminati contestualmente alla delibera’ contenente 
+le seguenti colonne:  
+• Documento contabile  
+• Esercizio  
+• Fase  
+• Data/Ora trasmissione  
+• Versione documento 
+Mentre l’icona  consente di richiedere la revoca di una richiesta di autorizzazione alla 
+cancellazione della delibera effettuata in precedenza.  
+ 
+Fig.46 DELIBERE- GESTIONE DELIBERE- Revoca richiesta di cancellazione delibere  
+La richiesta può essere avanzata sia quando l’ufficio competente del MEF RGS IGEPA 
+abbia già espresso parere favorevole alla cancellazione, sia 6 quando l’ufficio suddetto non 
+abbia ancora comunicato la propria decisione: la revoca in oggetto ha quindi lo scopo di 
+annullare l’iter iniziato in precedenza.  
+Premendo l’icona si apre una pagina in cui è obbligatorio inserire:  
+• La motivazione per la quale è necessario revocare la richiesta di autorizzazione alla 
+cancellazione della delibera.  
+È possibile allegare un file a supporto della motivazione espressa.  
+Al termine dell’operazione la funzione mostra nella pagina i valori appena inseriti dall’Ente 
+per la richiesta di revoca appena effettuata, insieme ai valori inseriti all’atto della richiesta di 
+autorizzazione alla cancellazione inoltrata in precedenza: se l’ufficio competente MEF RGS 
+IGEPA ha già espresso parere favorevole alla cancellazione, sono presenti nella pagina 
+anche la motivazione e l’eventuale file allegato a supporto della decisione espressa a favore 
+della cancellazione. La funzione avvisa con u na mail l’ufficio competente del MEF RGS 
+IGEPA che deve esprimere il proprio parere anche in merito alla richiesta di revoca appena 
+
+
+ 
+ 
+ 
+ 
+94 
+inoltrata dall’Ente. Se il suddetto ufficio accetta la richiesta avanzata, l’Ente riceve una mail 
+che conferma l’autorizzazione a ritenere annullato l’iter avviato in precedenza per la 
+cancellazione della delibera in oggetto: accedendo nuovamente alla BDAP  con l’utenza 
+assegnata, utilizzando la funzione “Delibere > Interrogazione cancellazione delibere”, è 
+possibile verificare la Motivazione espressa in fase di autorizzazione alla revoca della 
+cancellazione e effettuare il download del documento eventualmen te allegato dall’ufficio 
+tramite l’icona  . In caso contrario, se quindi l’ufficio suddetto nega il consenso alla 
+revoca della richiesta di autorizzazione alla cancellazione della delibera, l’Ente riceve una 
+mail informativa e accedendo nuovamente alla BDAP con l’utenza assegnata, utilizzando la 
+funzione “Gestione cancellazione delibere” può verificare la Motivazione espressa per il 
+rifiuto della revoca alla cancellazione e effettuare il download del documento eventualmente 
+allegato dall’ufficio tramite l’icona  . Nella stessa pagina è attiva l’icona per la 
+cancellazione della delibera se l’ufficio competente ha già espresso parere favorevole alla 
+cancellazione della delibera prima della richiesta di Revoca avanzata dall’Ente. 
+Se l’ufficio competente MEF RGS IGEPA ha accettato la richiesta di autorizzazione alla 
+cancellazione della delibera avanzata dall’Ente, oppure ha avviato l’iter di cancellazione di 
+proprio iniziativa, nella pagina della funzione “Gestione cancellazione del ibere” si attiva 
+l’icona che consente di effettuare la cancellazione vera e propria. Premendo l’icona in 
+oggetto si rende a tutti gli effetti inefficace la delibera e vengono ripristinati gli effetti delle 
+eventuali delibere con esercizio inizio validità precedente a quello della delibera cancellata. 
+Si ricorda che, all’atto della cancellazione della delibera, vengono contestualmente 7 
+eliminati i documenti contabili eventualmente scelti dall’Ufficio del MEF RGS IGEPA in fase 
+di autorizzazione alla cancella zione. È utile precisare che, qualora l’Ente non proceda con 
+la cancellazione della suddetta delibera entro 30 giorni dalla autorizzazione da parte degli 
+uffici del MEF-RGS-IGEPA, gli stessi uffici valuteranno se procedere autonomamente con 
+la eliminazione della delibera. 
+ 
+18.5 Interrogazioni Cancellazioni Delibere 
+La funzione, a disposizione di tutti gli utenti consente di interrogare l’iter per la cancellazione 
+delle delibere in tutte le sue fasi, fino al completamento con la cancellazione della delibera 
+oggetto dell’iter. 
+Fig.47 Interrogazione cancellazione delibere (1 di 3) 
+ 
+
+
+ 
+ 
+ 
+ 
+95 
+Alla pressione dell’icona funzionale si apre una nuova pagina che si compone di una sola 
+sezione se l’Ente ha effettuato una richiesta di autorizzazione alla cancellazione: in questo 
+caso è presente solo la sezione Interrogazione autorizzazione cancellazio ne. Se invece 
+l’Ente, dopo aver richiesto l’autorizzazione alla cancellazione per quella delibera, intende 
+tornare indietro nella decisione per cui effettua una revoca della richiesta di autorizzazione 
+alla cancellazione richiesta in precedenza, è presente  anche la sezione Interrogazione 
+revoca richiesta cancellazione e l’Ufficio competente deve esprimere il proprio parere anche 
+in merito alla suddetta revoca 
+ 
+Fig.47 Interrogazione cancellazione delibere (2 di 3) 
+ 
+In questa sezione è possibile verificare se l’Ufficio del MEF RGS IGEPA ha già espresso il 
+proprio parere in merito alla richiesta avanzata dall’Ente oppure si deve ancora pronunciare. 
+Sono presenti le colonne:  
+• Autorizzata da MEF_RGS_IGEPA:  
+• Uguale a SI se l’Ufficio ha autorizzato una richiesta avanzata dall’Ente oppure ha 
+disposto di propria iniziativa la cancellazione della delibera:  nella pagina iniziale della 
+funzione l’iter si trova nello stato AUTORIZZATO;  
+• Uguale a NO se l’Ufficio ha espresso parere negativo: in questo caso l’iter si 
+considera concluso, nella pagina iniziale della funzione l’iter si trova nello stato NON 
+AUTORIZZATO.  
+• Vuota se l’Ufficio non ha ancora espresso un parere sulla richiesta avanzata 
+dall’Ente: nella pagina iniziale della funzione l’iter si trova nello stato DA 
+ESAMINARE.  
+• Data operazione MEF_RGS_IGEPA impostata con la data in cui l’Ufficio ha espresso il 
+proprio parere su una richiesta avanzata dall’Ente oppure ha richiesto di propria iniziativa la 
+cancellazione della delibera, non impostata se l’Ufficio non ha ancora espresso un parere.  
+• Motivazione MEF_RGS_IGEPA impostata con la motivazione espressa dall’Ufficio in 
+merito alla decisione espressa sulla revoca richiesta avanzata dall’Ente, non impostata se 
+l’Ufficio non ha ancora espresso un parere  
+• Download allegato MEF_RGS_IGEPA, consente di effettuare il download del file 
+eventualmente allegato dall’Ufficio in fase di decisione.  
+
+
+ 
+ 
+ 
+ 
+96 
+È presente l’icona  , attiva solo se la cancellazione nasce per iniziativa dell’Ente, che apre 
+una pagina con il dettaglio della richiesta effettuata dall’Ente: o La motivazione indicata 
+dall’Ente all’inserimento della richiesta di autorizzazione o Il recapito telefonico che  è 
+possibile contattare per eventuali chiarimenti o L’eventuale file allegato all’atto della richiesta 
+ 
+Fig.47 Interrogazione cancellazione delibere (3 di 3) 
+Qualora l’Ente abbia deciso di tornare indietro nella decisione e non intende più cancellare 
+la delibera per la quale ha avviato un iter di autorizzazione alla cancellazione, può effettuare 
+una revoca della richiesta di autorizzazione alla cancellazione in oltrata in precedenza; in 
+questo caso, nella pagina di Dettaglio Iter è presente una ulteriore sezione, posizionata 
+prima della sezione descritta al paragrafo precedente, proprio per significare che L’Ufficio 
+deve prima esprimere un parere in merito alla revoca e poi, qualora non lo avesse già fatto 
+e in caso di mancata accettazione della revoca, in merito alla iniziale richiesta di 
+autorizzazione alla cancellazione.  
+È possibile verificare se l’Ufficio del MEF RGS IGEPA ha già espresso il proprio parere in 
+merito alla revoca della richiesta avanzata dall’Ente oppure si deve ancora pronunciare. 
+Sono presenti le colonne:  
+• Autorizzata da MEF_RGS_IGEPA:  
+• Uguale a SI se l’Ufficio ha autorizzato la revoca della richiesta avanzata dall’Ente in 
+tal caso l’iter si considera concluso: nella pagina iniziale della interrogazione lo stato 
+dell’iter è REVOCATO;   
+• Uguale a NO se l’Ufficio non ha autorizzato la revoca della richiesta: nella pagina 
+iniziale della funzione l’iter si trova nello stato AUTORIZZATO se l’Ufficio aveva già 
+espresso parere favorevole alla cancellazione a seguito della iniziale richiesta 
+dell’Ente, DA ESAMINARE se invece non aveva ancora espresso un parere.  
+• Data operazione MEF_RGS_IGEPA impostata con la data in cui l’Ufficio ha espresso un 
+parere sulla revoca della richiesta avanzata dall’Ente, non impostata se l’Ufficio non ha 
+ancora espresso un parere.  
+• Motivazione MEF_RGS_IGEPA impostata con la motivazione espressa dall’Ufficio in 
+merito alla decisione espressa sulla revoca della richiesta avanzata dall’Ente, non impostata 
+se l’Ufficio non ha ancora espresso un parere  
+
+
+ 
+ 
+ 
+ 
+97 
+• Download allegato MEF_RGS_IGEPA, consente di effettuare il download del file 
+eventualmente allegato dall’Ufficio in fase di decisione. 
+ È presente l’icona , attiva solo se la cancellazione nasce per iniziativa dell’Ente, che apre 
+una pagina con il dettaglio della revoca richiesta effettuata dall’Ente. L’icona apre una 
+pagina che contiene: • La motivazione indicata dall’Ente all’inserimento della revoca alla 
+richiesta di autorizzazione • L’eventuale file allegato all’atto della richiesta di revoca 
+19. INTERROGAZIONE CONTROLLI TRA DOCUMENTI 
+ 
+La funzione, a disposizione di tutti gli utenti, consente di visualizzare l’esito dei controlli 
+eseguiti fra due diversi documenti contabili dopo la loro acquisizione. A partire dal rendiconto 
+di gestione 2021, la funzione consente di conoscere l’esito dei controlli di coerenza eseguiti 
+fra le versioni più recenti trasmesse da un ente per gli Schemi di bilancio e i Dati contabili 
+analitici: qualora nei due documenti sia stato indicato un valore diverso per uno st esso 
+importo di una classificazione di entrata o di spesa, l a procedura segnala l’incongruenza 
+elencando il controllo applicato e i valori degli importi individuati nei due documenti.  
+ 
+La procedura viene eseguita nuovamente a fronte della trasmissione di una successiva 
+versione di almeno uno dei documenti coinvolti, SDB o DCA: la funzione in oggetto prospetta 
+soltanto gli esiti dell’ultima esecuzione effettuata per la procedura asincrona di controllo. 
+ 
+ 
+La prima pagina contiene i seguenti filtri di ricerca: 
+  
+•  Esercizio, obbligatorio e selezionabile da una combo-box precaricata con gli esercizi 
+in gestione  
+• Fase, obbligatorio e selezionabile da una combo -box precaricata con le descrizioni 
+delle fasi contabili presenti (Preventivo, Consuntivo, Consolidato).  
+• Tipo ente, facoltativo precaricata con le descrizioni dei tipi ente previsti  
+• Ambito geografico,  il campo è non modificabile e preimpostato in base all’ente di 
+appartenenza  
+•  Regione, il campo è non modificabile e preimpostato con la regione di appartenenza 
+dell’ente di riferimento dell’utente  
+•  Provincia, il campo è preimpostato con la provincia di appartenenza dell’ente di 
+riferimento dell’utente  
+•  Codice Ente BDAP , preimpostato con il codice BDAP dell’ente di riferimento 
+dell’utente  
+• Denominazione Ent e, il  campo è non modificabile e preimpostato con la 
+denominazione dell’ente di riferimento dell’utente. 
+  
+
+
+ 
+ 
+ 
+ 
+98 
+ 
+Fig.48 BILANCI ARMONIZZATI- INTERROGAZIONE CONTROLLI TRA DOCUMENTI (1 
+di 2) 
+ 
+Alla pressione del pulsante RICERCA si ottiene una nuova pagina dove, oltre agli estremi 
+identificativi precedentemente selezionati e riportati nella parte alta dello schermo, viene 
+prospettato l’elenco degli enti per i quali è stata eseguita la procedura asincrona dei controlli 
+di coerenza fra gli SDB e i DCA.  
+ 
+Ogni riga riporta: 
+  
+• Codice Ente BDAP  
+•Denominazione Ente  
+•Tipo Ente  
+• Provincia  
+• Regione  
+• Documento contabile di confronto 1 (SDB)  
+• Data trasmissione Documento contabile di confronto 1  
+• Documento contabile di confronto 2 (DCA)  
+• Data trasmissione Documento contabile di confronto 2  
+  Data esecuzione controlli  
+• Esito controlli dove con simboli e tooltip si rende esplicito l’esito suddetto: se l’esito è 
+positivo, se il processo asincrono di controllo è terminato in errore.  
+• Visualizza esiti icona attiva solo se il processo asincrono di controllo è terminato con 
+esito negativo.  
+ 
+ 
+ 
+Fig.48 BILANCI ARMONIZZATI- INTERROGAZIONE CONTROLLI TRA DOCUMENTI (2 
+di 2) 
+
+
+ 
+ 
+ 
+ 
+99 
+Per ciascun ente che ha trasmesso con esito positivo almeno una versione dei DCA e degli 
+SDB e per i quali la procedura asincrona che controlla la coerenza fra quanto indicato nei 
+due documenti citati è stata eseguita con esito negativo, è attiva l’icona che consente 
+di verificare gli errori rilevati. La nuova pagina di prospettazione degli errori può contenere 
+tre sezioni espandibili, una per ciascun controllo applicato:  
+✓ Confronto fra gli importi del Dca finanziario di Entrata e gli importi degli SDB Riepilogo 
+Generale delle Entrate per titoli  
+✓ Confronto fra gli importi del Dca finanziario delle Uscite e gli importi degli SDB 
+Gestione delle Spese per Missioni e Programmi  
+✓ Confronto fra gli importi del Dca finanziario delle Uscite e gli importi degli SDB 
+Riepilogo Generale delle Spese per titoli.  
+ 
+ 
+Fig.49 BILANCI ARMONIZZATI- INTERROGAZIONE CONTROLLI TRA DOCUMENTI- 
+VISUALIZZA ESITO CONTROLLI (1 di 2) 
+ 
+ 
+Per ogni sezione espandibile è riportato l’elenco degli errori individuati con il dettaglio del:  
+ 
+✓ Controllo applicato che indica gli importi dei due documenti messi a confronto, per 
+esempio: Riepilogo generale delle entrate >> Titolo 1: Entrate correnti di natura tributaria, 
+contributiva e perequativa >> residui attivi al 01/01 (RS) = Sommatoria dei valori dei dca 
+"RESIDUI ATTIVI AL 1 GEN (RS)" per tutte le voci del PDC FINANZIARIO - SEZIONE ENTRATE - DATI 
+DI ORIGINE PREVISIONALE (IV liv) con codice di primo livello E.1  
+✓ Valore riscontrato negli Schemi di bilancio  
+✓ Valore riscontrato nei Dati contabili analitici  
+ 
+ 
+Fig.49 BILANCI ARMONIZZATI- INTERROGAZIONE CONTROLLI TRA DOCUMENTI- 
+VISUALIZZA ESITO CONTROLLI (2 di 2) 
+
+
+ 
+ 
+ 
+ 
+100 
+20. NUOVA FUNZIONE UTILITA’ 
+ 
+20.1 UTILITA’- Gestione Dati Anagrafici Ente 
+ 
+La funzione, a disposizione degli utenti con profilo Utente Invio (ENTEPAI), Utente 
+Responsabile (ENTERES), consente di inserire o modificare le informazioni anagrafiche 
+dell’ente che andranno a comporre la pagina iniziale del Rendiconto di gestione elaborato 
+in PDF. 
+Prima di descrivere le modalità operative della funzione si indica il comportamento che essa 
+assume quando si utilizzano pulsanti o icone comuni a più pagine della funzione stessa:  
+✓ Il pulsante ANNULLA consente di terminare l’operazione senza apportare modifiche  
+✓ Il pulsante SALVA registra le informazioni inserite dall’utente  
+✓ Il pulsante produce il file Excel con i dati prospettati nella pagina riportando le 
+stesse informazioni contenute nello schermo, i parametri di ricerca selezionati e 
+specificando la data/ora dell’estrazione.  
+La prima pagina contiene le seguenti colonne, vuote al primo accesso alla funzione, 
+valorizzate invece se l’ente ha già effettuato l’inserimento delle informazioni richieste:  
+• Codice ente Bdap, precaricato con il codice Bdap dell’ente che sta operando  
+• Denominazione Ente, precaricato con la denominazione dell’ente che sta operando  
+• Indirizzo, insieme delle informazioni che identificano l’ubicazione della sede dell’ente  
+• Città dell’indirizzo indicato  
+• CAP, codice di avviamento postale  
+• Telefono e Fax  
+• Indirizzo Email, indirizzo di posta elettronica ordinaria dell’ente  
+• Indirizzo Email Pec, indirizzo di posta elettronica certificata dell’ente • Sito Web, link al 
+portale istituzionale dell’ente  
+• Partita IVA dell’ente  
+• Codice fiscale dell’ente  
+• Stemma dell’ente.  
+ 
+
+
+ 
+ 
+ 
+ 
+101 
+Nella pagina è presente l’icona  che consente di aprire una nuova pagina dove è possibile 
+inserire le informazioni anagrafiche elencate e allegare lo stemma dell’ente, selezionando 
+dalla propria postazione un file in formato PNG, JPG, JPEG che non superi i 12 MB. 
+ 
+Fig.50 BILANCI ARMONIZZATI- UTILITA’- GESTIONE DATI ANAGRAFICI ENTE  
+ 
+Sempre nella prima pagina è presente l’icona che consente di effettuare il download dello 
+stemma qualora sia già stato inserito in precedenza. Se l’ente ha già effettuato l’inserimento 
+delle informazioni anagrafiche, può variare tutti i dati indicati in precedenza, stemma 
+compreso, sempre utilizzando  l’icona di modifica; la funzione prospetta in questo caso la 
+pagina successiva con i valori impostati in precedenza: una volta effettuata la correzione 
+dei campi testuali o la scelta di un nuovo file in sostituzione dello stemma indicato in 
+precedenza, si registrano le modifiche richieste premendo il pulsante SALVA. 
+ 
+20.2 UTILITA’- Gestione Email PEC (Funzione presente solo per Comuni, Città 
+Metropolitane, Comunità Montane, Unioni di Comuni, Province) 
+La Funzione consente, per gli enti aventi le seguenti tipologie:  
+✓ CITTA' METROPOLITANE  
+✓ COMUNITA' MONTANE  
+✓ COMUNI  
+✓ PROVINCE 
+✓ UNIONI DI COMUNI  
+di indicare l’indirizzo di PEC al quale  si desidera ricevere le email certificate inviate dal 
+sistema.  
+ 
+
+
+ 
+ 
+ 
+ 
+102 
+Prima di descrivere le modalità operative della funzione si indica il comportamento che essa 
+assume quando si utilizzano pulsanti o icone comuni a più pagine della funzione stessa: 
+ ✓ Il pulsante ANNULLA consente di terminare l’operazione senza apportare modifiche  
+✓ Il pulsante SALVA registra le informazioni inserite dall’utente 
+ ✓ Il pulsante produce il file Excel con i dati prospettati nella pagina riportando le 
+stesse informazioni contenute nello schermo, i parametri di ricerca selezionati e 
+specificando la data/ora dell’estrazione. 
+La pagina iniziale della funzione riporta: 
+ • Codice ente BDAP  
+• Denominazione ente  
+• Indirizzo Email Pec, presente a sistema, valorizzato o meno a seconda che l’Ente abbia 
+già indicato l’indirizzo PEC. 
+ 
+Fig.50 BILANCI ARMONIZZATI- UTILITA’- GESTIONE EMAIL PEC (1 di 2)  
+Nella pagina è presente l’icona che consente la prospettazione di una combo box con 
+l’elenco degli indirizzi PEC presenti per l’ente, dopo aver selezionato l’indirizzo PEC 
+desiderato, premendo il pulsante SALVA, viene registrata l’associazione richiesta.  
+ 
+Fig.50 BILANCI ARMONIZZATI- UTILITA’- GESTIONE EMAIL PEC (2 di 2)  
+
+
+ 
+ 
+ 
+ 
+103 
+Se per l’ente che accede alla funzione non esiste nemmeno un indirizzo PEC, la funzione  
+invia un opportuno messaggio con lo scopo di invitare l’ente ad utilizzare i corretti canali per 
+l’introduzione dell’indirizzo nella anagrafica Bdap in modo che venga poi recepito 
+automaticamente dal sistema bilanci armonizzati e l’ente possa successivame nte 
+confermarlo come valido 
+ 
+
