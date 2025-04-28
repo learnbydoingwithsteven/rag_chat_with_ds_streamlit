@@ -1,4 +1,4 @@
-# Bilanci Armonizzati RAG Chatbot
+# 🇮🇹 Bilanci Armonizzati RAG Chatbot 🤖
 
 A multilingual RAG-based (Retrieval Augmented Generation) chatbot for interacting with Italian Harmonized Financial Statements (Bilanci Armonizzati) documents. This application uses advanced NLP techniques to provide accurate responses to queries about Italian local government financial statements.
 
@@ -22,7 +22,7 @@ A multilingual RAG-based (Retrieval Augmented Generation) chatbot for interactin
 ### 6. Document Processing Parameter Settings
 ![Parameter Settings](assets/6_new_document_processing_parameters_setting.png)
 
-## 🌟 Features
+## ✨ Features
 
 - **Multilingual Support**: Full support for both English and Italian
 - **RAG Architecture**: Uses vector embeddings to retrieve relevant context before generating responses
@@ -132,7 +132,7 @@ The application includes advanced vector visualization capabilities:
 - Color-coded document sources for easy identification
 - Interactive plots with hover information
 
-## 🔄 Italian BDAP API Integration
+## 🇮🇹 Italian BDAP API Integration
 
 The application integrates with the Italian BDAP (Banca Dati delle Amministrazioni Pubbliche) APIs:
 
@@ -144,9 +144,9 @@ The application integrates with the Italian BDAP (Banca Dati delle Amministrazio
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## 📄 License
+## 📜 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
 
 ## 📧 Contact
 
