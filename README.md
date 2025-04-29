@@ -190,8 +190,8 @@ The following screenshots illustrate the interactive data visualization dashboar
 
 ## Standalone dashboard
 
-![alt text](pure_dash_board\assets\image.png)
-
+![Standalone Dashboard](pure_dash_board/assets/image.png)
+*Preview of the standalone Dash financial dashboard.*
 
 ## 🇮🇹 Italian BDAP API Integration
 
