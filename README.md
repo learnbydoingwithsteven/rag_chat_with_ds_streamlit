@@ -188,9 +188,9 @@ The following screenshots illustrate the interactive data visualization dashboar
 ![Screenshot 13](data_formulator/screenshot13.png)
 *Dashboard*
 
-## Standalone dashboard
+## Standalone Dashboard
 
-![Standalone Dashboard](pure_dash_board/image.png)
+![Standalone Dashboard](./pure_dash_board/image.png)
 *Preview of the standalone Dash financial dashboard.*
 
 ## 🇮🇹 Italian BDAP API Integration
