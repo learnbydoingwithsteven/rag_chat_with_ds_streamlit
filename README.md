@@ -138,55 +138,55 @@ The following screenshots illustrate the interactive data visualization dashboar
 
 ### 1. Main Overview Dashboard
 ![Main Overview Dashboard](data_formulator/屏幕截图 2025-04-29 141553.png)
-Dashboard displaying key metrics and summary statistics.
+*Dashboard displaying key metrics and summary statistics.*
 
 ### 2. Filter Controls Dashboard
 ![Filter Controls Dashboard](data_formulator/屏幕截图 2025-04-29 141636.png)
-Dashboard with interactive filters for data segmentation.
+*Dashboard with interactive filters for data segmentation.*
 
 ### 3. Time Series Trend Dashboard
 ![Time Series Trend Dashboard](data_formulator/屏幕截图 2025-04-29 141710.png)
-Time series visualization showing trends over time.
+*Time series visualization showing trends over time.*
 
 ### 4. Comparison Bar Chart Dashboard
 ![Comparison Bar Chart Dashboard](data_formulator/屏幕截图 2025-04-29 141827.png)
-Bar chart comparing categories side by side.
+*Bar chart comparing categories side by side.*
 
 ### 5. Distribution Histogram Dashboard
 ![Distribution Histogram Dashboard](data_formulator/屏幕截图 2025-04-29 141854.png)
-Histogram showing data distribution across bins.
+*Histogram showing data distribution across bins.*
 
 ### 6. Correlation Scatter Plot Dashboard
 ![Correlation Scatter Plot Dashboard](data_formulator/屏幕截图 2025-04-29 141935.png)
-Scatter plot illustrating correlation between two variables.
+*Scatter plot illustrating correlation between two variables.*
 
 ### 7. Geographic Map Visualization Dashboard
 ![Geographic Map Visualization Dashboard](data_formulator/屏幕截图 2025-04-29 142037.png)
-Map visualization of data by region.
+*Map visualization of data by region.*
 
 ### 8. Heatmap Overview Dashboard
 ![Heatmap Overview Dashboard](data_formulator/屏幕截图 2025-04-29 142059.png)
-Heatmap displaying intensity of values across a matrix.
+*Heatmap displaying intensity of values across a matrix.*
 
 ### 9. Pie Chart Breakdown Dashboard
 ![Pie Chart Breakdown Dashboard](data_formulator/屏幕截图 2025-04-29 142251.png)
-Pie chart showing proportional breakdown of categories.
+*Pie chart showing proportional breakdown of categories.*
 
 ### 10. KPI Summary Card Dashboard
 ![KPI Summary Card Dashboard](data_formulator/屏幕截图 2025-04-29 142358.png)
-Dashboard with key performance indicator summary cards.
+*Dashboard with key performance indicator summary cards.*
 
 ### 11. Interactive Selection Panel Dashboard
 ![Interactive Selection Panel Dashboard](data_formulator/屏幕截图 2025-04-29 142421.png)
-Panel for interactive dimension and metric selection.
+*Panel for interactive dimension and metric selection.*
 
 ### 12. Export Options Dashboard
 ![Export Options Dashboard](data_formulator/屏幕截图 2025-04-29 142454.png)
-Dashboard showing data export and download options.
+*Dashboard showing data export and download options.*
 
 ### 13. Final Summary Dashboard
 ![Final Summary Dashboard](data_formulator/屏幕截图 2025-04-29 142709.png)
-Aggregated summary with insights and recommendations.
+*Aggregated summary with insights and recommendations.*
 
 ## 🇮🇹 Italian BDAP API Integration
 
